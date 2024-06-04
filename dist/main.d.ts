@@ -1,10 +1,9 @@
-import { default as default_2 } from 'react';
+import { JSX as JSX_2 } from 'react/jsx-runtime';
 
-export declare const Card: default_2.FC<CardProps>;
+export declare function Button(props: React.ButtonHTMLAttributes<HTMLButtonElement>): JSX_2.Element;
 
-declare interface CardProps {
-    title: string;
-    content: string;
-}
+export declare function Input(props: React.InputHTMLAttributes<HTMLInputElement>): JSX_2.Element;
+
+export declare function Label(props: React.LabelHTMLAttributes<HTMLLabelElement>): JSX_2.Element;
 
 export { }

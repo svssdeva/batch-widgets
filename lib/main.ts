@@ -1,3 +1,3 @@
-import Card from './components/card';
-
-export {Card}
+export { Button } from './components/Button'
+export { Input } from './components/Input'
+export { Label } from './components/Label'
