@@ -1,5 +1,5 @@
 {
-  "name": "batch-widgets",
+  "name": "@pw/batch-widgets",
   "private": true,
   "version": "0.0.0",
   "type": "module",
