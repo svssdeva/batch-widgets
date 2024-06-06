@@ -1,0 +1,53 @@
+/* styles.module.css */
+
+.carousel {
+  @apply pw-ui-relative;
+}
+
+.carouselContent {
+  @apply pw-ui-overflow-hidden;
+}
+
+.carouselContentInner {
+  @apply pw-ui-flex;
+}
+
+.carouselContentInnerHorizontal {
+  @apply pw-ui--ml-4;
+}
+
+.carouselContentInnerVertical {
+  @apply pw-ui--mt-4 pw-ui-flex-col;
+}
+
+.carouselItem {
+  @apply pw-ui-min-w-0 pw-ui-shrink-0 pw-ui-grow-0 pw-ui-basis-full pw-ui-border pw-ui--mx-3;
+}
+
+.carouselItemHorizontal {
+  @apply pw-ui-pl-4;
+}
+
+.carouselItemVertical {
+  @apply pw-ui-pt-4;
+}
+
+/* buttons */
+
+.carouselBtn {
+  @apply pw-ui-absolute pw-ui-rounded-full pw-ui-h-8 pw-ui-w-8;
+}
+
+.carouselBtnHorizontalLeft {
+  @apply pw-ui--left-12 pw-ui-top-1/2 pw-ui--translate-y-1/2;
+}
+.carouselBtnHorizontalRight {
+  @apply pw-ui--left-12 pw-ui-top-1/2 pw-ui--translate-y-1/2;
+}
+
+.carouselBtnVerticalTop {
+  @apply pw-ui--right-12 pw-ui-top-1/2 pw-ui--translate-y-1/2;
+}
+.carouselBtnVerticalBottom {
+  @apply pw-ui--bottom-12 pw-ui-left-1/2 pw-ui--translate-x-1/2 pw-ui-rotate-90;
+}

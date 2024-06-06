@@ -1,0 +1,34 @@
+/* styles.module.css */
+
+.all-class-card {
+  @apply pw-ui-shadow-[0px_1px_8px_rgba(0,0,0,0.08)] pw-ui-transition-all pw-ui-duration-200 pw-ui-min-h-[84px] pw-ui-px-[15px] pw-ui-py-2.5 pw-ui-rounded-lg pw-ui-flex pw-ui-gap-3 pw-ui-items-center hover:pw-ui-shadow-[0px_1px_8px_rgba(0,0,0,0.2)];
+}
+.all-class-card img {
+  @apply pw-ui-object-contain pw-ui-max-w-10;
+}
+
+.class {
+  @apply pw-ui-flex pw-ui-flex-col pw-ui-gap-1;
+}
+
+.class-title {
+  @apply pw-ui-text-base max-sm:pw-ui-text-xs max-lg:pw-ui-text-sm pw-ui-font-bold pw-ui-capitalize pw-ui-h-5 pw-ui-text-static-black;
+}
+
+.tag-color {
+  @apply pw-ui-font-medium pw-ui-text-static-grey2 pw-ui-h-5;
+}
+
+.caption-1 {
+  @apply pw-ui-text-xs;
+}
+@media (max-width: 992px) {
+  .caption-1 {
+    @apply pw-ui-text-[11px];
+  }
+}
+@media (max-width: 576px) {
+  .caption-1 {
+    @apply pw-ui-text-[10px];
+  }
+}
