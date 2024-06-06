@@ -31,7 +31,7 @@ Before you begin, ensure you have the following dependencies installed:
 4. Open your main repo and run `bun link @pw/batch-widgets`
 5. Start importing the component and watch the magic happen!
 
-## NPM Package[https://nexus3.penpencil.co/repository/npm-group/%40pw/batch-widgets]
+ [NPM Package][https://nexus3.penpencil.co/repository/npm-group/%40pw/batch-widgets]
 
 ## Contributing
 
