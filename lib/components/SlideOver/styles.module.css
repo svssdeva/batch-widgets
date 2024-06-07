@@ -1,0 +1,43 @@
+.panel {
+    @apply pw-ui-bg-white   pw-ui-shadow-[0_10px_15px_rgba(0,0,0,0.1)] pw-ui-pointer-events-auto pw-ui-w-screen pw-ui-max-w-md
+
+  }
+  .container{
+    @apply pw-ui-relative pw-ui-z-[999]
+  }
+  .subContainer{
+    @apply pw-ui-fixed pw-ui-inset-0 pw-ui-bg-[#00000050] pw-ui-bg-opacity-75 pw-ui-transition-opacity
+  }
+  .card{
+   @apply pw-ui-fixed pw-ui-inset-0 pw-ui-overflow-hidden
+  }
+  .subCard{
+    @apply pw-ui-absolute pw-ui-inset-0 pw-ui-overflow-hidden
+  }
+  .child{
+  @apply  pw-ui-pointer-events-none pw-ui-fixed pw-ui-inset-y-0 pw-ui-right-0 pw-ui-flex pw-ui-max-w-full
+  }
+  .panelChild{
+    @apply pw-ui-flex pw-ui-h-full pw-ui-flex-col pw-ui-overflow-y-scroll pw-ui-bg-white pw-ui-shadow-xl
+  }
+  .panel-sub-child{
+    @apply pw-ui-relative pw-ui-flex-1 pw-ui-px-4 
+  }
+  .rounded{
+    @apply pw-ui-rounded-[8px_0_0_8px] pw-ui-overflow-clip 
+  }
+  .enter{
+    @apply pw-ui-ease-in-out pw-ui-duration-200
+  }
+  .enterFrom{
+    @apply pw-ui-opacity-0
+  }
+  .enterTo{
+    @apply pw-ui-opacity-100
+  }
+  .childEnter{
+    @apply pw-ui-transform pw-ui-transition pw-ui-ease-in-out pw-ui-duration-700 
+  }
+  .leave{
+    @apply pw-ui-translate-x-full
+  }

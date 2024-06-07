@@ -1,0 +1,15 @@
+.dialog-div{
+    @apply pw-ui-relative pw-ui-z-10
+}
+.transition-child-div{
+    @apply pw-ui-fixed pw-ui-inset-0 pw-ui-bg-black pw-ui-bg-opacity-25
+}
+.container{
+@apply pw-ui-fixed pw-ui-inset-0 pw-ui-overflow-y-auto
+}
+.sub-container{
+    @apply pw-ui-flex pw-ui-min-h-full pw-ui-items-center pw-ui-justify-center pw-ui-p-4 pw-ui-text-center
+}
+.panel{
+    @apply pw-ui-max-w-lg pw-ui-transform pw-ui-overflow-hidden pw-ui-rounded-2xl pw-ui-bg-white pw-ui-text-left pw-ui-align-middle pw-ui-shadow-xl pw-ui-transition-all
+}

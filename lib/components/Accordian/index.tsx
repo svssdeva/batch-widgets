@@ -1,6 +1,7 @@
 // src/FAQAccordion.tsx
 import React, { useState } from "react";
 import s from "./styles.module.css";
+import { renderIcon } from "../../utils";
 
 interface FAQAccordionProps {
   question?: string;
@@ -20,10 +21,6 @@ export const Accordion: React.FC<FAQAccordionProps> = ({
   const toggleFAQ = () => {
     setIsOpen(!isOpen);
   };
-
-  function renderIcon(Icon: React.ReactNode) {
-    return Icon;
-  }
 
   return (
     <div className={s.faqitem}>
