@@ -9,3 +9,4 @@ export {
   CarouselPrevious,
   CarouselNext,
 } from './components/Carousel';
+export {Accordion} from "./components/Accordian"

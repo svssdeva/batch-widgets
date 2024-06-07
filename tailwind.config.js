@@ -220,7 +220,12 @@ export default {
         extraLight: '#EFEFEF',
       },
     },
-    extend: {},
+    
+    extend: {
+      boxShadow: {
+        'all-round': '0px 1px 8px rgba(0, 0, 0, 0.08)',
+      },
+    },
   },
   plugins: [],
 };

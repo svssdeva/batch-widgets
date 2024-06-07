@@ -1,0 +1,15 @@
+
+  .faqitem {
+   @apply pw-ui-my-2 pw-ui-py-1 pw-ui-gap-4 pw-ui-w-full
+  }
+  
+  .faqquestion {
+    @apply pw-ui-flex pw-ui-text-sm pw-ui-font-semibold pw-ui-items-center pw-ui-justify-between pw-ui-py-[10px] pw-ui-px-3 pw-ui-rounded-lg pw-ui-bg-[#F0F4FA] 
+   
+  }
+  
+  .faqanswer {
+@apply pw-ui-flex pw-ui-text-xs pw-ui-flex-col pw-ui-justify-center pw-ui-items-start pw-ui-pt-2 pw-ui-rounded-lg pw-ui-bg-[#FAFAFA] pw-ui-pb-6 pw-ui-px-3
+
+  }
+  
