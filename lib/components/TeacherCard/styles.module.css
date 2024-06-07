@@ -1,0 +1,33 @@
+/* styles.module.css */
+
+.all-teacher-card {
+@apply pw-ui-bg-[#f8f8f9] pw-ui-rounded pw-ui-pt-1.5 pw-ui-pb-2 pw-ui-px-1.5 pw-ui-flex pw-ui-flex-col pw-ui-gap-2 pw-ui-grow pw-ui-min-h-full
+} 
+
+.img-container{
+    @apply pw-ui-aspect-7/10 pw-ui-rounded-md pw-ui-relative
+}
+.teacher-img{
+    @apply pw-ui-h-full pw-ui-w-full pw-ui-object-contain
+}
+.teacher-div{
+    @apply pw-ui-absolute pw-ui-bottom-1 pw-ui-w-full pw-ui-py-0.5 pw-ui-px-1 pw-ui-bg-white pw-ui-shadow-[0px_4px_10px_rgba(0,0,0,0.25)] pw-ui-rounded-[5px]
+}
+.teacher-name{
+    @apply pw-ui-font-semibold pw-ui-text-xs pw-ui-w-full
+}
+.detail-container{
+    @apply pw-ui-flex pw-ui-justify-between pw-ui-gap-2
+}
+.detail-subconatiner{
+    @apply pw-ui-flex pw-ui-flex-col
+}
+.subject{
+    @apply pw-ui-text-sm pw-ui-font-semibold pw-ui-text-[#3D3D3D]
+}
+.experience{
+    @apply  pw-ui-text-xs pw-ui-font-semibold pw-ui-text-[#757575]
+}
+.btn{
+    @apply pw-ui-rounded-2xl pw-ui-cursor-pointer pw-ui-bg-[#d2ccff] pw-ui-w-[46.06px] pw-ui-h-[27.35px] pw-ui-flex pw-ui-items-center pw-ui-justify-center 
+}

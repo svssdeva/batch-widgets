@@ -225,7 +225,26 @@ export default {
       boxShadow: {
         'all-round': '0px 1px 8px rgba(0, 0, 0, 0.08)',
       },
+      aspectRatio: {
+        '7/10': '7 / 10',
+        '2/1':'2 / 1',
+      },
+      
     },
   },
-  plugins: [],
+  plugins: [
+    function ({ addUtilities }) {
+      addUtilities({
+        '.no-scrollbar': {
+          /* Hide scrollbar for Webkit-based browsers */
+          '-webkit-overflow-scrolling': 'touch',
+          'scrollbar-width': 'none',
+          '-ms-overflow-style': 'none',
+        },
+        '.no-scrollbar::-webkit-scrollbar': {
+          display: 'none',
+        },
+      });
+    },
+  ],
 };

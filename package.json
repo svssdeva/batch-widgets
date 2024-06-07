@@ -50,6 +50,8 @@
     "**/*.css"
   ],
   "dependencies": {
+    "@headlessui/react": "^2.0.4",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "clsx": "^2.1.1",
     "embla-carousel-react": "^8.1.3"
   }

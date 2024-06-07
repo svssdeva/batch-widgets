@@ -16,3 +16,7 @@ export const priceDisplay = (price: number = 0) => {
 export const numberDisplay = (str: string = '') => {
   return parseInt(str).toLocaleString();
 };
+
+export const renderIcon=(Icon: React.ReactNode) => {
+  return Icon;
+}
