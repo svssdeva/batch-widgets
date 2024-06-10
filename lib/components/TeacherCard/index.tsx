@@ -1,6 +1,6 @@
 import { renderIcon, truncate } from "../../utils";
 import s from "./styles.module.css";
-export const TeacherCard = ({
+const TeacherCard = ({
   firstName,
   lastName,
   subject,
@@ -15,7 +15,7 @@ export const TeacherCard = ({
   experience?: string;
   img?: string;
   arrowImg: React.ReactNode;
-  onClick?: () => {};
+  onClick?: () => void;
 }) => {
   return (
     <div className={s["all-teacher-card"]}>
@@ -46,4 +46,4 @@ export const TeacherCard = ({
   );
 };
 
-export default TeacherCard;
+export { TeacherCard };

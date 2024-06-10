@@ -1,0 +1,38 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll": "never"
+  },
+  /******** Prettier **********/
+  "prettier.requireConfig": true,
+  "prettier.configPath": ".prettierrc.json",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // make sure everyone is using prettier for ts(x) files not some other formatter
+  // devs can have global formatter sets which can prevent running prettier.
+  // make sure we are using prettier for all files
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[md]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "px-to-rem.px-per-rem": 16,
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+    ["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ]
+}

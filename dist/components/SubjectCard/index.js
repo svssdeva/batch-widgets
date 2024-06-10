@@ -1,6 +1,6 @@
-import { jsxs as d, jsx as s } from "react/jsx-runtime";
+import { jsxs as d, jsx as a } from "react/jsx-runtime";
 import { truncate as t, cn as i } from "../../utils.js";
-import '../../assets/index.css';const a = {
+import '../../assets/index2.css';const s = {
   "all-class-card": "_all-class-card_15dd5_3",
   class: "_class_15dd5_10",
   "class-title": "_class-title_15dd5_14",
@@ -10,13 +10,13 @@ import '../../assets/index.css';const a = {
   subject: c,
   tagCount: l,
   img: r
-}) => /* @__PURE__ */ d("div", { className: a["all-class-card"], children: [
-  /* @__PURE__ */ s("img", { src: r, alt: c }),
-  /* @__PURE__ */ d("div", { className: a.class, children: [
-    /* @__PURE__ */ s("div", { className: a["class-title"], children: t(c, 15) }),
-    /* @__PURE__ */ s("div", { className: i(a["tag-color"], a["caption-1"]), children: l ? `${l} Chapters` : "" })
+}) => /* @__PURE__ */ d("div", { className: s["all-class-card"], children: [
+  /* @__PURE__ */ a("img", { src: r, alt: c }),
+  /* @__PURE__ */ d("div", { className: s.class, children: [
+    /* @__PURE__ */ a("div", { className: s["class-title"], children: t(c, 15) }),
+    /* @__PURE__ */ a("div", { className: i(s["tag-color"], s["caption-1"]), children: l ? `${l} Chapters` : "" })
   ] })
 ] });
 export {
-  _ as default
+  _ as SubjectCard
 };

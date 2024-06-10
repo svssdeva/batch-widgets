@@ -1,6 +1,6 @@
 import s from "./styles.module.css";
 
-export const TeacherModal = ({
+const TeacherModal = ({
   closebtn,
   firstName,
   lastName,
@@ -87,4 +87,4 @@ export const TeacherModal = ({
   );
 };
 
-export default TeacherModal;
+export { TeacherModal };

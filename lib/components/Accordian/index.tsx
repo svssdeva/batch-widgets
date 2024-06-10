@@ -1,7 +1,7 @@
 // src/FAQAccordion.tsx
 import React, { useState } from "react";
-import s from "./styles.module.css";
 import { renderIcon } from "../../utils";
+import s from "./styles.module.css";
 
 interface FAQAccordionProps {
   question?: string;
@@ -9,8 +9,7 @@ interface FAQAccordionProps {
   UpIcon?: React.ReactNode;
   DownIcon?: React.ReactNode;
 }
-
-export const Accordion: React.FC<FAQAccordionProps> = ({
+const Accordion: React.FC<FAQAccordionProps> = ({
   question,
   answer,
   UpIcon,
@@ -33,4 +32,4 @@ export const Accordion: React.FC<FAQAccordionProps> = ({
   );
 };
 
-export default Accordion;
+export { Accordion };
