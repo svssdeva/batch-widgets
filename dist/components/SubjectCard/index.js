@@ -1,6 +1,6 @@
 import { jsxs as d, jsx as a } from "react/jsx-runtime";
 import { truncate as t, cn as i } from "../../utils.js";
-import '../../assets/index2.css';const s = {
+import '../../assets/index4.css';const s = {
   "all-class-card": "_all-class-card_15dd5_3",
   class: "_class_15dd5_10",
   "class-title": "_class-title_15dd5_14",

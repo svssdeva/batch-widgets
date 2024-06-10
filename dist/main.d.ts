@@ -1,7 +1,10 @@
-import { default as default_2 } from 'embla-carousel-react';
+import { default as default_2 } from 'react';
+import { default as default_3 } from 'embla-carousel-react';
 import { JSX as JSX_2 } from 'react/jsx-runtime';
 import * as React_2 from 'react';
 import { UseEmblaCarouselType } from 'embla-carousel-react';
+
+export declare const Accordion: default_2.FC<FAQAccordionProps>;
 
 export declare const BannerCarousel: ({ banners, mobileQueryMatches, bannerClick, wrapperClassName, contentClassName, itemClassName, ...props }: {
     banners: any[];
@@ -39,14 +42,64 @@ declare type CarouselProps = {
     setApi?: (api: CarouselApi) => void;
 };
 
+export declare const CustomModal: ({ panelclassName, isOpen, setOpen, children, }: customModalProps) => JSX_2.Element;
+
+declare interface customModalProps {
+    isOpen: boolean;
+    setOpen: (_o: boolean) => void;
+    children?: any;
+    panelclassName?: string;
+}
+
+declare interface FAQAccordionProps {
+    question?: string;
+    answer?: string;
+    UpIcon?: default_2.ReactNode;
+    DownIcon?: default_2.ReactNode;
+}
+
 export declare function Input(props: React.InputHTMLAttributes<HTMLInputElement>): JSX_2.Element;
 
 export declare function Label(props: React.LabelHTMLAttributes<HTMLLabelElement>): JSX_2.Element;
+
+export declare const SlideOver: ({ children, open, setOpen, roundedCorners, disableBackdropClick, }: {
+    children: default_2.ReactNode;
+    open: boolean;
+    setOpen: (open: boolean) => void;
+    roundedCorners: boolean;
+    disableBackdropClick?: boolean;
+}) => JSX_2.Element;
 
 export declare const SubjectCard: ({ subject, tagCount, img, }: {
     subject: string;
     tagCount: string;
     img?: string;
+}) => JSX_2.Element;
+
+export declare const TeacherCard: ({ firstName, lastName, subject, experience, img, arrowImg, onClick, }: {
+    firstName: string;
+    lastName: string;
+    subject: string;
+    experience?: string;
+    img?: string;
+    arrowImg: React.ReactNode;
+    onClick?: () => void;
+}) => JSX_2.Element;
+
+export declare const TeacherModal: ({ closebtn, firstName, lastName, subject, tags, onClose, quote, about, thumbnailImg, playImg, onClick, play, iframe, }: {
+    closebtn?: string;
+    firstName: string;
+    lastName: string;
+    subject: string;
+    tags?: string[];
+    quote?: string;
+    about?: string;
+    thumbnailImg?: string;
+    playImg?: string;
+    onClick?: () => void;
+    onClose?: () => void;
+    play?: boolean;
+    iframe?: any;
 }) => JSX_2.Element;
 
 export declare const TestPressCard: ({ testPress, isPurchased, testPressCardIcon, handleRedirection, }: {
@@ -59,6 +112,6 @@ export declare const TestPressCard: ({ testPress, isPurchased, testPressCardIcon
     handleRedirection: () => void;
 }) => JSX_2.Element;
 
-declare type UseCarouselParameters = Parameters<typeof default_2>;
+declare type UseCarouselParameters = Parameters<typeof default_3>;
 
 export { }
