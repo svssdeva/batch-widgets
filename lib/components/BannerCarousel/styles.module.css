@@ -1,0 +1,3 @@
+.bannerImg {
+  @apply pw-ui-h-full pw-ui-w-full pw-ui-cursor-pointer pw-ui-rounded-md pw-ui-object-contain;
+}

@@ -21,7 +21,7 @@
 }
 
 .carouselItem {
-  @apply pw-ui-min-w-0 pw-ui-shrink-0 pw-ui-grow-0 pw-ui-basis-full pw-ui-border pw-ui--mx-3;
+  @apply pw-ui-min-w-0 pw-ui-shrink-0 pw-ui-grow-0 pw-ui-basis-full;
 }
 
 .carouselItemHorizontal {
@@ -35,19 +35,51 @@
 /* buttons */
 
 .carouselBtn {
-  @apply pw-ui-absolute pw-ui-rounded-full pw-ui-h-8 pw-ui-w-8;
+  @apply pw-ui-absolute pw-ui-h-8 pw-ui-w-8 pw-ui-rounded-full;
 }
 
 .carouselBtnHorizontalLeft {
   @apply pw-ui--left-12 pw-ui-top-1/2 pw-ui--translate-y-1/2;
 }
 .carouselBtnHorizontalRight {
-  @apply pw-ui--left-12 pw-ui-top-1/2 pw-ui--translate-y-1/2;
+  @apply pw-ui--right-12 pw-ui-top-1/2 pw-ui--translate-y-1/2;
 }
 
 .carouselBtnVerticalTop {
-  @apply pw-ui--right-12 pw-ui-top-1/2 pw-ui--translate-y-1/2;
+  @apply pw-ui--top-12 pw-ui-left-1/2 pw-ui--translate-y-1/2;
 }
 .carouselBtnVerticalBottom {
   @apply pw-ui--bottom-12 pw-ui-left-1/2 pw-ui--translate-x-1/2 pw-ui-rotate-90;
+}
+
+.myPoint {
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  list-style-type: none;
+  text-align: center;
+  padding: 2px;
+  white-space: nowrap;
+  overflow: auto;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  display: flex;
+  gap: 4px;
+
+  li {
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 50%;
+    background: #ffff;
+    padding: 4px;
+    transition-timing-function: cubic-bezier(0.17, 0.67, 0.83, 0.67);
+    transition: 0.4s;
+
+    &.active {
+      background: #000;
+      opacity: 1;
+    }
+  }
 }

@@ -1,5 +1,5 @@
-import s from './styles.module.css';
-import { cn, truncate } from '../../utils';
+import { cn, truncate } from "../../utils";
+import s from "./styles.module.css";
 
 const SubjectCard = ({
   subject,
@@ -11,16 +11,16 @@ const SubjectCard = ({
   img?: string;
 }) => {
   return (
-    <div className={s['all-class-card']}>
+    <div className={s["all-class-card"]}>
       <img src={img} alt={subject} />
-      <div className={s['class']}>
-        <div className={s['class-title']}>{truncate(subject, 15)}</div>
-        <div className={cn(s['tag-color'], s['caption-1'])}>
-          {tagCount ? `${tagCount} Chapters` : ''}
+      <div className={s["class"]}>
+        <div className={s["class-title"]}>{truncate(subject, 15)}</div>
+        <div className={cn(s["tag-color"], s["caption-1"])}>
+          {tagCount ? `${tagCount} Chapters` : ""}
         </div>
       </div>
     </div>
   );
 };
 
-export default SubjectCard;
+export { SubjectCard };

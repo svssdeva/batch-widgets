@@ -1,0 +1,1361 @@
+<svg height='54.935' viewBox='0 0 56.082 54.935' width='56.082' xmlns='http://www.w3.org/2000/svg'
+     xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <defs>
+    <clipPath id='clip-path'>
+      <path clip-rule='evenodd' d='M109.809-62.6a4.15,4.15,0,0,1-2.4-.7l-.158-.118-.2-.163a4,4,0,0,1-.332-.345,4.239,4.239,0,0,1-.521-.772,5.807,5.807,0,0,1-.561-1.679,10.974,10.974,0,0,1-.026-3.34,25.727,25.727,0,0,1,1.466-5.579h0q-.092.25-.182.5.093-.251.189-.5.4.1.809.186l.321.068-.024.069a25.49,25.49,0,0,0-1.482,5.857,10.618,10.618,0,0,0,.042,2.954,3.41,3.41,0,0,0,1.271,2.274,2.961,2.961,0,0,0,1.726.475,4.706,4.706,0,0,0,.815-.073,10.709,10.709,0,0,0,2.8-.968,29.005,29.005,0,0,0,5.155-3.408q.889-.725,1.742-1.5l.3.31q-.658.682-1.347,1.339a24.164,24.164,0,0,1-5.149,3.85,10.835,10.835,0,0,1-3.122,1.154A6.4,6.4,0,0,1,109.809-62.6Zm.1-1.264h0Zm0,0a2.978,2.978,0,0,1-1.7-.46A2.978,2.978,0,0,0,109.909-63.867Zm.8-.07.02,0a10.684,10.684,0,0,0,2.8-.968,28.929,28.929,0,0,0,5.155-3.408q.723-.59,1.423-1.212-.7.622-1.423,1.212a28.929,28.929,0,0,1-5.155,3.408,10.684,10.684,0,0,1-2.8.968Zm10.306-5.592q-.145-.128-.287-.258A45.542,45.542,0,0,0,124.7-74l.082,0C123.6-72.46,122.352-70.958,121.013-69.53Zm-14.139-.042q.017-.153.037-.306Q106.891-69.724,106.874-69.572ZM124.9-74.244q.609-.744,1.188-1.514c.056-.076.113-.152.168-.228.079-.107.155-.215.233-.323q.371-.516.735-1.035a45.127,45.127,0,0,0,2.669-4.39l.1.18c-.858,1.391-1.761,2.752-2.683,4.1-.759,1.082-1.535,2.155-2.337,3.21Zm-16.428-1.5-.388-.111q-.347-.1-.691-.212a45.887,45.887,0,0,1,3.232-6.322q.25.418.506.832A51.621,51.621,0,0,0,108.473-75.742Zm2.8-6.07q-.236-.433-.461-.871c.821-1.329,1.7-2.619,2.621-3.875q1.277-1.732,2.654-3.385l.434-.02c-.835,1.082-1.627,2.2-2.379,3.336C113.116-85.062,112.152-83.456,111.268-81.812Zm19.283-.667-.146-.243a45.461,45.461,0,0,0,2.239-5.256q.065-.177.128-.356l.217.056.039.011-.01,0c.157.042.315.085.471.13A50.256,50.256,0,0,1,130.551-82.479Zm3.386-6.737q-.3-.079-.6-.153l-.068-.017-.135-.033a28.552,28.552,0,0,0,1.209-5.311,11,11,0,0,0-.035-2.986,3.6,3.6,0,0,0-1.29-2.369,3.214,3.214,0,0,0-1.907-.543,4.811,4.811,0,0,0-.753.06,9.8,9.8,0,0,0-2.461.751,2.031,2.031,0,0,0-.175-.326,10.087,10.087,0,0,1,2.327-.811,6.111,6.111,0,0,1,1.191-.125,3.9,3.9,0,0,1,2.223.636,3.835,3.835,0,0,1,1.187,1.34,5.433,5.433,0,0,1,.562,1.643,10.645,10.645,0,0,1,.032,3.308,20.747,20.747,0,0,1-1.07,4.309,23.337,23.337,0,0,0,1-3.365A24.418,24.418,0,0,1,133.938-89.217ZM116.51-90.449q1.872-2.194,3.939-4.207l.112.11a43.735,43.735,0,0,0-3.64,4.066Zm4.314-4.353-.111-.109q.575-.55,1.166-1.083c.752-.674,1.526-1.323,2.333-1.934.024.039.049.078.075.116.015.022.031.043.047.065-.7.5-1.377,1.038-2.033,1.6Q121.545-95.5,120.824-94.8Zm12.788-6.1h0Zm-.014-.01-.04-.026Zm-.046-.03a3.92,3.92,0,0,0-2.141-.585A3.917,3.917,0,0,1,133.552-100.947Zm-2.146-.585h0Z'
+            data-name='Path 30250'
+            fill='none' id='Path_30250' transform='translate(-105.498 101.532)' />
+    </clipPath>
+    <radialGradient cx='0.161' cy='0.506' gradientTransform='translate(0.057) scale(0.886 1)' gradientUnits='objectBoundingBox'
+                    id='radial-gradient' r='0.172'>
+      <stop offset='0' stop-color='#4085a0' />
+      <stop offset='0.1' stop-color='#3b7e9a' />
+      <stop offset='0.2' stop-color='#367894' />
+      <stop offset='0.3' stop-color='#31718e' />
+      <stop offset='0.4' stop-color='#2d6b88' />
+      <stop offset='0.5' stop-color='#286482' />
+      <stop offset='0.6' stop-color='#235e7c' />
+      <stop offset='0.7' stop-color='#1f5776' />
+      <stop offset='0.8' stop-color='#1a5170' />
+      <stop offset='0.9' stop-color='#154a6a' />
+      <stop offset='1' stop-color='#114465' />
+    </radialGradient>
+    <clipPath id='clip-path-2'>
+      <path clip-rule='evenodd' d='M111.593-48.168h0Zm0,0a4.644,4.644,0,0,0,.794-.07A4.644,4.644,0,0,1,111.594-48.168Zm-1.7-.46-.022-.016Zm-1.3-5.55a25.211,25.211,0,0,1,1.282-5.1l.025-.069h0A25.348,25.348,0,0,0,108.592-54.177Zm20.3-7.652a44.675,44.675,0,0,0,2.647-4.28v0A44.946,44.946,0,0,1,128.888-61.83Zm3.163-5.251v0a46.068,46.068,0,0,0,2.4-5.552l-.025.073c-.032.095-.066.189-.1.284A45.7,45.7,0,0,1,132.051-67.081Z'
+            data-name='Path 30252'
+            fill='none' id='Path_30252' transform='translate(-108.592 72.635)' />
+    </clipPath>
+    <clipPath id='clip-path-3'>
+      <path clip-rule='evenodd' d='M108.592-48.168h25.857V-72.635H108.592Z' data-name='Path 30251'
+            fill='none' id='Path_30251' transform='translate(-108.592 72.635)' />
+    </clipPath>
+    <clipPath id='clip-path-4'>
+      <rect data-name='Rectangle 4840' fill='none' height='17.671' id='Rectangle_4840' width='25.857' />
+    </clipPath>
+    <pattern height='100%' id='pattern' preserveAspectRatio='none' viewBox='0 0 57 39' width='100%'>
+      <image height='39' width='57'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAAnCAYAAAC1xOBuAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAOaADAAQAAAABAAAAJwAAAABLiYF5AAAA6klEQVRoBe2ZTQrCMBBGY8+ke72S//UEIvhzIVtdVtOlvU5MI0gEk7idZwqlhW7yvjczpEQp+DU9N6aAMzq8ARlyVjVGGTKhZXOQ9okt13l1oztUyodEmlzUnxaRkPBR88LDm1zWd/7A+QaJ6slVwCIKsu/I3WSE3sXxh+r6ooMDB1GuMUCE3tIaTEEiTG7Hw+iwEQ25uYb7EFGmPUT5I6RYk39hEVOOGSQnkBPICeQERCRwarvgr4oIgMgi3zseg0UEHxP4Yp3Jo+7IIn3e/C47gYN+mL29ZVMkVo8HtPwF/rjZQSZMEz4/AUVRSfpbl83iAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-5'>
+      <path clip-rule='evenodd' d='M111.1-47.291a2.961,2.961,0,0,1-1.726-.475A3.41,3.41,0,0,1,108.1-50.04a10.618,10.618,0,0,1-.042-2.954,25.49,25.49,0,0,1,1.482-5.857,25.209,25.209,0,0,0-1.282,5.1q-.02.153-.037.306a14.2,14.2,0,0,0-.082,1.454,8.417,8.417,0,0,0,.124,1.5,3.41,3.41,0,0,0,1.271,2.273l.022.016a2.978,2.978,0,0,0,1.7.46h0a4.643,4.643,0,0,0,.794-.07l.02,0a10.683,10.683,0,0,0,2.8-.968,28.93,28.93,0,0,0,5.155-3.408q.723-.59,1.423-1.212l.157.166q-.853.773-1.742,1.5a29,29,0,0,1-5.155,3.408,10.71,10.71,0,0,1-2.8.968A4.707,4.707,0,0,1,111.1-47.291Zm10.976-6.373-.165-.15a45.45,45.45,0,0,0,3.916-4.056l.224-.009A45.543,45.543,0,0,1,122.072-53.664Zm3.945-4.436q1.341-1.593,2.536-3.306a44.946,44.946,0,0,0,2.648-4.278l.039.072a45.123,45.123,0,0,1-2.669,4.39q-.364.519-.735,1.035c-.078.108-.154.216-.233.323-.055.076-.112.152-.168.228q-.578.77-1.188,1.514Zm5.733-8.5-.035-.058a45.709,45.709,0,0,0,2.274-5.2A45.464,45.464,0,0,1,131.751-66.6Z'
+            data-name='Path 30254'
+            fill='none' id='Path_30254' transform='translate(-107.975 71.854)' />
+    </clipPath>
+    <clipPath id='clip-path-6'>
+      <path clip-rule='evenodd' d='M107.975-47.291h26.014V-71.854H107.975Z' data-name='Path 30253'
+            fill='none' id='Path_30253' transform='translate(-107.975 71.854)' />
+    </clipPath>
+    <clipPath id='clip-path-7'>
+      <rect data-name='Rectangle 4842' fill='none' height='24.563' id='Rectangle_4842' width='26.014' />
+    </clipPath>
+    <pattern height='100%' id='pattern-2' preserveAspectRatio='none' viewBox='0 0 57 54' width='100%'>
+      <image height='54' width='57'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA2CAYAAAB9TjFQAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAOaADAAQAAAABAAAANgAAAAAWCT9LAAADS0lEQVRoBe2aW08TQRTHd7sr+uKXwAqt+IyQYEy8RA2SqJioCQZsLS1IGqOGUChQLK2tQmpMLa03MBLiPagxXmLQN8MHUNAHv8o4Z7Y7tEmp2+7sbXReut3u7J7f+f/Pmd1sBYHz0dg3iVycMxI8riEbz8cQUHINCYC/F6ZEbiF3+KaQCJQ8D4BU+WR1g6dPdwkgcHFrV55Eq8ji9m9YlUsl3f5rtBYrZoCHnTsrQP6vSR6U5Yqh6UJ801r8J+zKBWRTYHpTFbmwazMG/BskF0r+uhetei/uaMjm/gTfNvUEE0grpHOVrEFDR0KCitA1f94dq1qLamd1JCQEv64REI51HKQnlKzBqIDosOHFgJ5g7ZCOUdI7cJ0ouF4Y1VSHpfo5BlLAiFz7FFT0hhQlSxXSul2mZHs0b7tk7RpIkZjW8pGabaomgULaEnAwhRA26dpc/YAASiHhy7fpUN3ZgvksRwsGZHU+ColwzuwyWi6maTR6VQQmCmknQGijYKkfuREmziKQbWNzNHNWwu4eSiMRY8mSKHxnBAg85F0IFPdqYpBJ1vQkaaskCbLLJaxmLjONRXnhY4Ny7Lh6CwHg1xthpoBUST3ZZzH3YCRLAD8Y5CZ5TyRnaWM9NpHHgKKwHAsyV5AK0Bq5Y5lZT8Xvo9OJB4Zf37KXsD2peSThGnw03GucgqqUrSPmK+mbfWy4eioffMqwfJg1+jNLSMJrICho5pDNYhzKPsWALrIOzga7jbdoSRZxTRqv5JXCS1J/0EWT/uOmAgKrbPT93OjD10jC92oSBoz1dpkOSCCNUnJ84Q1RD+DGezotgVMda0hNxhffFe3pEobPHLYUkCjZgLsdq5Fcel9UDzcY3GQudR9gd3IdQYpHJgpoCw7o7WRAV0Azzz6R7gnLQ/jEfl3n0sFTcaq8fVsDaesVf9WwM/PiM4WD7hns2mcrQEAQ+2YWEVgLHlTz4bOaA7z9akWxJp4LzSXQuVfzXA25Y3oICSyce06eBGCxvhk4WTXY7PIXCgfK+Y52VD2eabR1nowGGJ3HLR8UxX+BVe5M8NpGVFLuUpTtjX1Qe+cOtdH5dV7flGllQaaffCx2RwUGntTLQUUM1l42x5QodV7kDxgAzsFhih82AAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-8'>
+      <path clip-rule='evenodd' d='M108.564-66.791q.09-.252.182-.5h.007Q108.657-67.042,108.564-66.791Zm.5-1.268-.02-.006a45.241,45.241,0,0,1,3.2-6.408l.055.092A45.887,45.887,0,0,0,109.06-68.058Zm3.413-6.619-.053-.1c.882-1.452,1.834-2.86,2.837-4.226q1.1-1.489,2.27-2.92l.221-.012q-1.378,1.651-2.654,3.385C114.172-77.3,113.294-76.006,112.473-74.677Zm5.468-7.747c1.272-1.519,2.61-2.982,4.023-4.372l.151.146q-2.071,2.007-3.939,4.207Z'
+            data-name='Path 30256'
+            fill='none' id='Path_30256' transform='translate(-108.564 86.796)' />
+    </clipPath>
+    <clipPath id='clip-path-9'>
+      <path clip-rule='evenodd' d='M108.564-66.791h13.55V-86.8h-13.55Z' data-name='Path 30255'
+            fill='none' id='Path_30255' transform='translate(-108.564 86.796)' />
+    </clipPath>
+    <clipPath id='clip-path-10'>
+      <rect data-name='Rectangle 4844' fill='none' height='20.005' id='Rectangle_4844' width='13.55' />
+    </clipPath>
+    <pattern height='100%' id='pattern-3' preserveAspectRatio='none' viewBox='0 0 30 44' width='100%'>
+      <image height='44' width='30'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAsCAYAAABygggEAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAHqADAAQAAAABAAAALAAAAAAyaP7ZAAABhklEQVRYCd2YW0+DQBCFQf+I0QcTfTUx/nITE33wEg1SaIH0wqX05r9gGXemaWNELdXdQ+K+kPDQj3PmMDPUdcAnyOZUqdo5QHLDbEFKQxl8iAL38yWpunYYfHV+4roI8KBYUlUpUXp5dixMiNVib03OBooQ64Q6TN64JAhsA+nrML3CoTpM/mSGVRrpMPXSORq6ogANjacr4iaxqfFPV2OvU1K+rRuEbhJtjjEwv6tKkXNxegRpSiKOw9RRXcEJTvYI0+e6/7rGHKaKp03LMBkDS5h04///YYr+UNePdu9d41rXlGsLPYN8gZ84vL6YnDitrZZFDW0xT5wONgk7dd1ptWyIevJATy+dkTeathrsRh/MZl2/tZqhlVJGhez8MX9S0suwsGrxl4rXaww4UBympzi3qpYtbyjmb1f4EHhOCrqPUutqGyF7iDIYdGv1Y5zJQt54Gks3tuBOWiOLug1GMJuZJ4rvwrH8G8M3oOfGH0LVsjhRrNA9mcnXXgJXK4o7UavJ71MDHomes6gwAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-11'>
+      <path clip-rule='evenodd' d='M164.577-93.209q.145-.691.236-1.4a12.5,12.5,0,0,0,.113-1.638,12.5,12.5,0,0,1-.113,1.638C164.754-94.135,164.674-93.669,164.577-93.209Zm-1.546-7.687-.016-.011Zm-.016-.011-.014-.009Zm-.054-.035-.006,0Zm-3.343-.464a6.111,6.111,0,0,1,1.191-.125A6.111,6.111,0,0,0,159.618-101.407Zm1.2-.125h0Z'
+            data-name='Path 30258'
+            fill='none' id='Path_30258' transform='translate(-159.618 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-12'>
+      <path clip-rule='evenodd' d='M159.618-93.209h5.309v-8.323h-5.309Z' data-name='Path 30257'
+            fill='none' id='Path_30257' transform='translate(-159.618 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-13'>
+      <path clip-rule='evenodd' d='M152.1-89.844a20.748,20.748,0,0,0,1.07-4.309,10.644,10.644,0,0,0-.032-3.308,5.432,5.432,0,0,0-.562-1.643,3.834,3.834,0,0,0-1.187-1.34,3.9,3.9,0,0,0-2.223-.636,6.111,6.111,0,0,0-1.191.125,10.086,10.086,0,0,0-2.327.811,2.059,2.059,0,0,0-.21-.268,10.539,10.539,0,0,1,2.7-1,6.111,6.111,0,0,1,1.191-.125h0a3.92,3.92,0,0,1,2.141.585l.006,0,.04.026.014.009h0l.016.011a3.84,3.84,0,0,1,1.188,1.34,5.45,5.45,0,0,1,.562,1.644,9.245,9.245,0,0,1,.146,1.668,12.5,12.5,0,0,1-.113,1.638q-.09.706-.236,1.4A23.339,23.339,0,0,1,152.1-89.844Zm-13.464-5.068-.153-.149q.728-.707,1.482-1.387c.662-.594,1.342-1.169,2.048-1.716a2,2,0,0,0,.122.235c-.807.612-1.582,1.26-2.333,1.934Q139.207-95.461,138.633-94.911Z'
+            data-name='Path 30260'
+            fill='none' id='Path_30260' transform='translate(-138.48 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-14'>
+      <path clip-rule='evenodd' d='M138.48-89.844h14.962v-11.688H138.48Z' data-name='Path 30259'
+            fill='none' id='Path_30259' transform='translate(-138.48 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-15'>
+      <rect data-name='Rectangle 4846' fill='none' height='11.688' id='Rectangle_4846' width='14.962' />
+    </clipPath>
+    <pattern height='100%' id='pattern-4' preserveAspectRatio='none' viewBox='0 0 33 26' width='100%'>
+      <image height='26' width='33'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAaCAYAAAA5WTUBAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAIaADAAQAAAABAAAAGgAAAADjeSutAAABvUlEQVRIDWNkoCKYu/3I/9+//zD8+vMXjH+DaCj/9x+I+ITscEZ0KzEE0BUQ4q/cf/r/779/GX7/BlkMsQhsOdABMIvhDoM76C/D/PIEuN1wBiHLsMmvPnDm/y+QA6A+TvOxw2teRv+S/7+AjoU47g/Dyrp0sHq8mrBZjCy2fO8psCPi3SyJNieuYx7YIeBQA4bMlrZcRqI1I1tOKTukYQbcITs68xmZKDWQHP1rGjIY/wCjEYRBYEBCAuZwh8IecIjgDYkDF27+333m6n+YJmrTsNDA6YiDF2/+//v3HzDI/lHbbrh5ILNBGCM6jl+9C873f4DZzslIE0MebgKVGLrJjf9RQuLEtXv///z7x/AXmGDo4QCQP0D2wR1x8vq9/3///QU64B+DoyHtQwAWkL//QB1x6sb9/7D4cTBQp3kUwBwADglgqDOdvvEAnAD/AoPFXp++DgA7AhQdoDgBhYKdnhpdQwAWGv+BBQCLpZbSgFgOcwQof8ITJlxwABgD7ghQNAyoI2QjK8FVwoA6AhzzA54mgA54srxjYNoTiLQPShEDmCbkoqvhTYQBTROPl7WBg2JAHQGLlkHhCABTx/jwQjofYAAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-16'>
+      <path clip-rule='evenodd' d='M132.084-62.6a6.4,6.4,0,0,1-1.133-.107,10.862,10.862,0,0,1-3.122-1.154,11.608,11.608,0,0,0,2.443.992,12.277,12.277,0,0,1-1.9-.823,24.174,24.174,0,0,1-5.149-3.85,51.37,51.37,0,0,1-4.737-5.233q1.359,1.485,2.842,2.84l.165.15c.1.087.191.173.287.258q.7.622,1.423,1.213a28.887,28.887,0,0,0,5.154,3.407,12.042,12.042,0,0,0,2.159.829,8.144,8.144,0,0,0,1.192.309,4.669,4.669,0,0,0,.816.074,2.96,2.96,0,0,0,1.725-.475,3.411,3.411,0,0,0,1.271-2.274,7.724,7.724,0,0,0,.105-.886,2.065,2.065,0,0,0,.753-.216,9.158,9.158,0,0,1-.129,1.168,5.82,5.82,0,0,1-.56,1.679,4.242,4.242,0,0,1-.521.772,3.925,3.925,0,0,1-.332.344l-.2.164-.159.118A4.146,4.146,0,0,1,132.084-62.6Zm-.1-1.264h0Zm0,0a4.662,4.662,0,0,1-.791-.07A4.662,4.662,0,0,0,131.979-63.867Zm1.7-.46.023-.016a3.408,3.408,0,0,0,1.271-2.273c.044-.243.075-.491.095-.743-.02.251-.051.5-.095.743a3.408,3.408,0,0,1-1.271,2.273Zm2.3-7.08a2.085,2.085,0,0,0-.538-.07,2.042,2.042,0,0,0-.225.012,29.363,29.363,0,0,0-1.035-3.52q.345-.073.69-.152A28.408,28.408,0,0,1,135.983-71.408ZM133.9-75.759a57.963,57.963,0,0,0-5.593-10.7c-.722-1.09-1.478-2.16-2.275-3.2l.247.027q1.043,1.286,2.025,2.62c1,1.366,1.957,2.774,2.839,4.228v0l.035.058.146.243a45.122,45.122,0,0,1,3.241,6.52Q134.231-75.856,133.9-75.759Zm-19.241-1.814-.015-.022Zm-.031-.044-.015-.021Zm-.032-.047-.012-.017Zm-.037-.053,0-.006ZM110.918-84a46.582,46.582,0,0,1-2.1-4.268q-.1-.231-.192-.464l.267-.069.056-.014.035.1A45.8,45.8,0,0,0,110.918-84Zm-2.44-5.109a22.186,22.186,0,0,1-1.446-5.325,10.638,10.638,0,0,1,.032-3.307,5.472,5.472,0,0,1,.562-1.644,3.844,3.844,0,0,1,1.188-1.34,3.9,3.9,0,0,1,2.222-.636,6.157,6.157,0,0,1,1.192.124c.185.038.364.091.545.141a8.9,8.9,0,0,0-1.048-.3,11.089,11.089,0,0,1,3,1.168,21.64,21.64,0,0,1,2.676,1.758c.85.638,1.664,1.318,2.452,2.024q.754.68,1.482,1.387l.153.149.111.109c1.363,1.341,2.657,2.75,3.888,4.213l-.194-.01a41.086,41.086,0,0,0-5.152-5.381,23.99,23.99,0,0,0-5.176-3.476,12.313,12.313,0,0,0-1.84-.706,8.7,8.7,0,0,0-1.59-.406,4.816,4.816,0,0,0-.753-.06,3.214,3.214,0,0,0-1.907.543,3.592,3.592,0,0,0-1.291,2.369,11.017,11.017,0,0,0-.036,2.986,29.011,29.011,0,0,0,1.282,5.537l-.025.005Zm5.937-10.513-.042-.02Zm-2.756-1.785a6.06,6.06,0,0,0-1.171-.121A6.06,6.06,0,0,1,111.658-101.411Zm-1.176-.121h0Z'
+            data-name='Path 30262'
+            fill='none' id='Path_30262' transform='translate(-106.918 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-17'>
+      <path clip-rule='evenodd' d='M155.654-61.566a51.765,51.765,0,0,0-2.794-6.1l-.039-.072c-.884-1.646-1.849-3.253-2.871-4.82q-1.04-1.571-2.181-3.077l.455.047c.8,1.039,1.553,2.109,2.275,3.2a57.963,57.963,0,0,1,5.593,10.7l-.176.051-.122.034-.052.014Z'
+            data-name='Path 30264'
+            fill='none' id='Path_30264' transform='translate(-147.769 75.634)' />
+    </clipPath>
+    <clipPath id='clip-path-18'>
+      <path clip-rule='evenodd' d='M147.769-61.566h8.322V-75.634h-8.322Z' data-name='Path 30263'
+            fill='none' id='Path_30263' transform='translate(-147.769 75.634)' />
+    </clipPath>
+    <clipPath id='clip-path-19'>
+      <rect data-name='Rectangle 4848' fill='none' height='14.068' id='Rectangle_4848' width='8.322' />
+    </clipPath>
+    <pattern height='100%' id='pattern-5' preserveAspectRatio='none' viewBox='0 0 19 31' width='100%'>
+      <image height='31' width='19'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAfCAYAAAAFkva3AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAE6ADAAQAAAABAAAAHwAAAADGV5+dAAABiElEQVRIDa2TMUvDQBiGc3f6Wxp/gKOzs2MXl6INSAWloDaICNaCSAelkAhVcNHBoY7O/gDHxl+T3vvdJTb0muQuHty10HxPn/e7L95WMEr94Db1/mFxMJjcfrc5kM+jC7CI6HeHjQzJbB4NWE4ksttBsLxUEpvY5TDYZVBXYA4DKCGgYrYO7ftXgBEw/jPMTOt+rsCWC23tjLAkDvXtLqOrvxthVKavo3VwU3v28hs0/a+Kmco3hHnJU1j6LOrXm8kffzVgg1dyyKUUhidgJWQHt3t3lXErYYjHOfe4tNs5GZcCK2Gw+5mcMUQVojxuLRiAnEk7GXf3/HGtXW3Y9/iUCYoLtHnVhqEcfQNw7yoy2lnBvkY9hqiAmpYVTNmp3rWH0xU7a9jsOqBREQY7axjZ6aid+9eCnRPsLezomy32zgkGOwY7uY8e3nM7Z9hzf1/3Dmi1nGEoz8akH3+QXSPY5Lit5k7GJTidDQ68s0Luy5fPtHgdjtDBdJZuCjnMjvWFMgww+rcA0ZlMWrurXFcAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-20'>
+      <path clip-rule='evenodd' d='M160.03-19.608h0Zm0,0a2.975,2.975,0,0,0,1.7-.46A2.975,2.975,0,0,1,160.034-19.608Zm-.8-.07-.022,0Zm-.022,0c-.215-.036-.43-.083-.644-.14l-.025-.008C158.769-19.771,158.992-19.72,159.215-19.682Z'
+            data-name='Path 30266'
+            fill='none' id='Path_30266' transform='translate(-158.546 20.068)' />
+    </clipPath>
+    <clipPath id='clip-path-21'>
+      <path clip-rule='evenodd' d='M158.546-19.608h3.186v-.46h-3.186Z' data-name='Path 30265'
+            fill='none' id='Path_30265' transform='translate(-158.546 20.068)' />
+    </clipPath>
+    <clipPath id='clip-path-22'>
+      <rect data-name='Rectangle 4850' fill='none' height='0.23' id='Rectangle_4850' width='0.91' />
+    </clipPath>
+    <pattern height='100%' id='pattern-6' preserveAspectRatio='none' viewBox='0 0 2 1' width='100%'>
+      <image height='1' width='2'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAqADAAQAAAABAAAAAQAAAACJcORAAAAAEUlEQVQIHWPcee/Jf2ZGRgYAFlADgeaUB8sAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-23'>
+      <path clip-rule='evenodd' d='M160.609-32.119a4.67,4.67,0,0,1-.816-.074A8.144,8.144,0,0,1,158.6-32.5c.214.057.429.1.644.14l.022,0a4.663,4.663,0,0,0,.791.07h.005a2.975,2.975,0,0,0,1.7-.46l.023-.016a3.408,3.408,0,0,0,1.271-2.273c.044-.243.075-.491.095-.743a2.1,2.1,0,0,0,.374.033c.063,0,.124,0,.185-.008a7.724,7.724,0,0,1-.105.886,3.411,3.411,0,0,1-1.271,2.274A2.96,2.96,0,0,1,160.609-32.119Zm2.2-7.653a28.05,28.05,0,0,0-1-3.541l.179-.035.277-.057a29.369,29.369,0,0,1,1.035,3.52A2.075,2.075,0,0,0,162.812-39.772Z'
+            data-name='Path 30268'
+            fill='none' id='Path_30268' transform='translate(-158.601 43.406)' />
+    </clipPath>
+    <clipPath id='clip-path-24'>
+      <path clip-rule='evenodd' d='M158.6-32.119h5.109V-43.406H158.6Z' data-name='Path 30267'
+            fill='none' id='Path_30267' transform='translate(-158.601 43.406)' />
+    </clipPath>
+    <clipPath id='clip-path-25'>
+      <rect data-name='Rectangle 4852' fill='none' height='11.287' id='Rectangle_4852' width='5.109' />
+    </clipPath>
+    <pattern height='100%' id='pattern-7' preserveAspectRatio='none' viewBox='0 0 12 25' width='100%'>
+      <image height='25' width='12'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAZCAYAAAAFbs/PAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAADKADAAQAAAABAAAAGQAAAACYxMCVAAAA+UlEQVQ4Ee1TOwoCMRCdT/YqopWIhaX4KSytPYMH8AQ2doKdrWK1ICpiIQgWYiWeKM6MqIvgJoKlA1kSdl7m5c0bgJwYzrZ+tNj5bAplD+97QgRignG6f4JyAYNeByVA1yNyAZrEWuUbgNEihOnmaLSCFVCSs7SCgH63gUwEJECNIMCS9B0CmO/PPgqgtAgJeq3aSy6r9//8SIFoXVenq3di9ajGKTlxlDUvGsB8t3kUYC10JN38FAUgcSurn3SFxNPHPoZIDRgE3G8mG6J6uYDuU4X0ePGJyIh6q8xDs1K0FrjJ8mA/HDMkjkG1TmRvfG0OENrV0rNfN0/eJP9WNamAAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-26'>
+      <path clip-rule='evenodd' d='M121.709-98.029a13.423,13.423,0,0,0-1.287-.528l.037.011A13.251,13.251,0,0,1,121.709-98.029Z'
+            data-name='Path 30270'
+            fill='none' id='Path_30270' transform='translate(-120.422 98.557)' />
+    </clipPath>
+    <clipPath id='clip-path-27'>
+      <path clip-rule='evenodd' d='M120.422-98.029h1.287v-.528h-1.287Z' data-name='Path 30269'
+            fill='none' id='Path_30269' transform='translate(-120.422 98.557)' />
+    </clipPath>
+    <clipPath id='clip-path-28'>
+      <rect data-name='Rectangle 4854' fill='none' height='0.528' id='Rectangle_4854' width='1.287' />
+    </clipPath>
+    <pattern height='100%' id='pattern-8' preserveAspectRatio='none' viewBox='0 0 3 2' width='100%'>
+      <image height='2' width='3'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAYAAACddGYaAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAA6ADAAQAAAABAAAAAgAAAABJdlXTAAAAHUlEQVQIHWOoP3L+f92Rc/8ZgIARRIAEGBj+MwAAl3YKMvWNFxIAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-29'>
+      <path clip-rule='evenodd' d='M132.671-88.97l-.427-.018a43.372,43.372,0,0,0-3.643-4.039l-.151-.146q-.721-.693-1.478-1.348A23.971,23.971,0,0,0,121.8-98l-.042-.02a13.247,13.247,0,0,0-1.249-.517,12.312,12.312,0,0,1,1.84.706,23.989,23.989,0,0,1,5.176,3.476A41.083,41.083,0,0,1,132.671-88.97Z'
+            data-name='Path 30272'
+            fill='none' id='Path_30272' transform='translate(-120.504 98.533)' />
+    </clipPath>
+    <clipPath id='clip-path-30'>
+      <path clip-rule='evenodd' d='M120.5-88.97h12.167v-9.563H120.5Z' data-name='Path 30271'
+            fill='none' id='Path_30271' transform='translate(-120.504 98.533)' />
+    </clipPath>
+    <clipPath id='clip-path-31'>
+      <rect data-name='Rectangle 4856' fill='none' height='9.563' id='Rectangle_4856' width='12.167' />
+    </clipPath>
+    <pattern height='100%' id='pattern-9' preserveAspectRatio='none' viewBox='0 0 27 21' width='100%'>
+      <image height='21' width='27'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAVCAYAAAC33pUlAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAG6ADAAQAAAABAAAAFQAAAABq98iiAAAA9UlEQVRIDb3U2xWDIAwGYOg26mLVDtDLAtUBelnMdhyaHwjliFoFbB4Uz8F8JiCyOnRK2OhvR8njLe4u+T9Qh3ElDqV6+3veSgMsRBWhp8l5PH/JfTaJX6USSrwS0VmMv1aj1NZUcBEGNAe4GBuCeF7b1lUYAETVdAotRawBozAgMWA0FgPu8FJs4KeXwnxvWbfu2JvKl4QhqQFpQOYvMBkzoD1hCCzq62SFSWsGyI+yMa1UtFffj3OQO0tlDPJvgHUcqzArBlSDtqYhmB1jUNI+RRT77xoGfdUzMl2wO/VJgzV8XiyfKflYGtdKAjdpo4/6u/ID4L5uEqy+lywAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-32'>
+      <path clip-rule='evenodd' d='M121.949-53.412h0q-1.322-1.575-2.5-3.265Q120.621-54.989,121.949-53.412Zm-2.505-3.265-.03-.043Zm-.045-.065-.016-.022Zm-.031-.043-.017-.025Zm-.029-.042-.025-.036Zm-.029-.042a44.931,44.931,0,0,1-2.515-4.086l0,0A44.489,44.489,0,0,0,119.31-56.869Zm-3.029-5.058q-.312-.608-.606-1.224l.045.082q.274.572.563,1.137Z'
+            data-name='Path 30274'
+            fill='none' id='Path_30274' transform='translate(-115.676 63.151)' />
+    </clipPath>
+    <clipPath id='clip-path-33'>
+      <path clip-rule='evenodd' d='M115.676-53.412h6.273v-9.739h-6.273Z' data-name='Path 30273'
+            fill='none' id='Path_30273' transform='translate(-115.676 63.151)' />
+    </clipPath>
+    <clipPath id='clip-path-34'>
+      <rect data-name='Rectangle 4858' fill='none' height='9.739' id='Rectangle_4858' width='6.273' />
+    </clipPath>
+    <pattern height='100%' id='pattern-10' preserveAspectRatio='none' viewBox='0 0 14 22' width='100%'>
+      <image height='22' width='14'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAWCAYAAADwza0nAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAADqADAAQAAAABAAAAFgAAAADOqMeDAAAAm0lEQVQ4EWPoP3PtPwMZgIkMPWAtYI3k2kqupRB9fST6FcWPpGqGO5UUjSg2gkzoPXOVqOhB0VhkosUIt54AA0UjTG3vacK2YmgsNtEG20qMZphFKDQhjRg2IuvuweNknBqLTUFOJiqAke0a0uyuU1dQPIwzcDB9+Z+h89RluGaiNZaZ6TKCArnzJEQz0WkT5oIOqEYYnyQapBkAYng15tmrLcUAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-35'>
+      <path clip-rule='evenodd' d='M117.578-59.385q-.236-.433-.462-.87l0-.005q.226.438.461.871Z' data-name='Path 30276'
+            fill='none' id='Path_30276' transform='translate(-117.116 60.26)' />
+    </clipPath>
+    <clipPath id='clip-path-36'>
+      <path clip-rule='evenodd' d='M117.116-59.385h.464v-.875h-.464Z' data-name='Path 30275'
+            fill='none' id='Path_30275' transform='translate(-117.116 60.26)' />
+    </clipPath>
+    <clipPath id='clip-path-37'>
+      <rect data-name='Rectangle 4860' fill='none' height='0.875' id='Rectangle_4860' width='0.464' />
+    </clipPath>
+    <pattern height='100%' id='pattern-11' preserveAspectRatio='none' viewBox='0 0 2 2' width='100%'>
+      <image height='2' width='2'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAqADAAQAAAABAAAAAgAAAADO0J6QAAAAFUlEQVQIHWO0qJn+n+E/AwMTAxQAAC5tA02XddUAAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-38'>
+      <path clip-rule='evenodd' d='M116.66-60.085l-.055-.092Zm.179-.291-.052-.1,0-.005.053.1Z' data-name='Path 30278'
+            fill='none' id='Path_30278' transform='translate(-116.605 60.483)' />
+    </clipPath>
+    <clipPath id='clip-path-39'>
+      <path clip-rule='evenodd' d='M116.6-60.085h.237v-.4H116.6Z' data-name='Path 30277'
+            fill='none' id='Path_30277' transform='translate(-116.605 60.483)' />
+    </clipPath>
+    <clipPath id='clip-path-40'>
+      <rect data-name='Rectangle 4862' fill='none' height='0.398' id='Rectangle_4862' width='0.237' />
+    </clipPath>
+    <pattern height='100%' id='pattern-12' preserveAspectRatio='none' viewBox='0 0 1 1' width='100%'>
+      <image height='1' width='1'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAADUlEQVQIHWM4c/PBfwAIfwOFPGOnDAAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-41'>
+      <path clip-rule='evenodd' d='M118.71-59.041l-.3-.03c-.791-1.04-1.555-2.1-2.3-3.166-1.1-1.61-2.183-3.245-3.189-4.926l-.055-.092a49.738,49.738,0,0,1-3.069-5.962l-.074-.178c.143-.04.287-.078.431-.116q.095.233.192.464a46.586,46.586,0,0,0,2.1,4.268q.294.617.606,1.224l.052.1q.227.438.462.87a44.929,44.929,0,0,0,2.515,4.086l0,.006.025.036.012.017.017.025.015.021.016.022.015.022.03.043Q117.385-60.619,118.71-59.041Z'
+            data-name='Path 30280'
+            fill='none' id='Path_30280' transform='translate(-109.721 73.511)' />
+    </clipPath>
+    <clipPath id='clip-path-42'>
+      <path clip-rule='evenodd' d='M109.721-59.041h8.989v-14.47h-8.989Z' data-name='Path 30279'
+            fill='none' id='Path_30279' transform='translate(-109.721 73.511)' />
+    </clipPath>
+    <clipPath id='clip-path-43'>
+      <rect data-name='Rectangle 4864' fill='none' height='14.47' id='Rectangle_4864' width='8.989' />
+    </clipPath>
+    <pattern height='100%' id='pattern-13' preserveAspectRatio='none' viewBox='0 0 20 32' width='100%'>
+      <image height='32' width='20'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAFKADAAQAAAABAAAAIAAAAADFtMyBAAABEUlEQVRIDb2VyxKCIBSG0Vfy+kjVtDU1W1rTtov5SNn0UMRBwRilETgT6MhCP7//IEiS/YPCSZCaTzyPEHZgNR9YHutJhWPpd8c19wMoRvM5ZGClVetcSw7samaJI0h6w6GOAHW1lMBnvWLz7a4pgXJCGNbFUgH2ljy/5JsOFKB4GKLbWk6AYMnBluWcAIUlrB8by1mgrOVIxxmlh5aaWs4a4uhoKGCYIKxxBQ/ApZvw/yML1aW/CmPDuPy9sy8Gvk4by7UjMmquYBiXjXZnX2w48rWs8RbTUVw0NCruuGQARvkUahFZzRPlN8XUGvg+b9msU9aRW8gMw90VlwvAIOuh1pG/gwq9ILtQtK8fYPCSD4bMVds2SdVJAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-44'>
+      <path clip-rule='evenodd' d='M130.921-40.087q-.573-.626-1.124-1.273h.005q.53.624,1.083,1.229Z' data-name='Path 30282'
+            fill='none' id='Path_30282' transform='translate(-129.797 41.36)' />
+    </clipPath>
+    <clipPath id='clip-path-45'>
+      <path clip-rule='evenodd' d='M129.8-40.087h1.124V-41.36H129.8Z' data-name='Path 30281'
+            fill='none' id='Path_30281' transform='translate(-129.797 41.36)' />
+    </clipPath>
+    <clipPath id='clip-path-46'>
+      <rect data-name='Rectangle 4866' fill='none' height='1.273' id='Rectangle_4866' width='1.123' />
+    </clipPath>
+    <pattern height='100%' id='pattern-14' preserveAspectRatio='none' viewBox='0 0 3 3' width='100%'>
+      <image height='3' width='3'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAA6ADAAQAAAABAAAAAwAAAAB0FnxjAAAAH0lEQVQIHWNoP3HpPwgzAAEjiABxQDwmEKfSQg8sCAAqJwtD3mxjigAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-47'>
+      <path clip-rule='evenodd' d='M142.34-30.2a11.61,11.61,0,0,1-2.443-.992,24.178,24.178,0,0,1-5.15-3.85q-.846-.8-1.643-1.649l-.157-.166c-1.356-1.446-2.617-2.97-3.817-4.537l.3.016q.55.647,1.124,1.273a51.367,51.367,0,0,0,4.737,5.233,24.173,24.173,0,0,0,5.149,3.85A12.278,12.278,0,0,0,142.34-30.2Z'
+            data-name='Path 30284'
+            fill='none' id='Path_30284' transform='translate(-129.13 41.394)' />
+    </clipPath>
+    <clipPath id='clip-path-48'>
+      <path clip-rule='evenodd' d='M129.13-30.2h13.21V-41.394H129.13Z' data-name='Path 30283'
+            fill='none' id='Path_30283' transform='translate(-129.13 41.394)' />
+    </clipPath>
+    <clipPath id='clip-path-49'>
+      <rect data-name='Rectangle 4868' fill='none' height='11.194' id='Rectangle_4868' width='13.21' />
+    </clipPath>
+    <pattern height='100%' id='pattern-15' preserveAspectRatio='none' viewBox='0 0 29 25' width='100%'>
+      <image height='25' width='29'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAZCAYAAADNAiUZAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAHaADAAQAAAABAAAAGQAAAAAIM5KrAAABlElEQVRIDb2UiU7CQBCGV99EI4EQgsoLGe8jHhDxioqIR4gR4oHx1vhEGMWDEOKjrDPT7qYNXbrbUjZttt2dzvf/k9myTP6SZ9YvOOvjGBSs8T6CBxBKQM4Z2n2v5mhNiIliJqf1StYCAXgsV4281LK8ddth5ESv0o1mKxxvr71erUmnroSATK9FB/ZsGgsIZLg+rvKeMS6Rhi/KhOnVc6ufAfx5vaGMM+RRuHd5YcvpMLV8BujeDV8HqRUAEpKzRm3LN15HmlYSdAqD8n3dhAcry+tU3KhtSnHJpXLoUmtBUQA5tN06BQV5lg50P04ulmVX/9ztGH+PHG2nQtT37bYN4iyxcBqo1IGUogAC2l39e79rlMcoWLgVc2L+hI4TspsP+uBQUITH5wCMBxmu5uOeVj6tIOFMNcdnj62+tlqMtZ72u+btuqmCqNZjM0dQbiw2Y63ngjK3ckOV2G89Nl1yuW6/HHQwOhb8kuruj0wdyl9n+7Xo4rhedBOaxA1PFqnk+O/+eysRL3KoEDg0UbCPF2f/nF+Mys2oLnkAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-50'>
+      <path clip-rule='evenodd' d='M109.868-100.9a3.892,3.892,0,0,1,2.217-.636A3.891,3.891,0,0,0,109.868-100.9Zm3.459-.5-.045-.01Zm-.045-.01-.02,0Zm-1.191-.125h0Z'
+            data-name='Path 30286'
+            fill='none' id='Path_30286' transform='translate(-109.868 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-51'>
+      <path clip-rule='evenodd' d='M109.868-100.9h3.459v-.636h-3.459Z' data-name='Path 30285'
+            fill='none' id='Path_30285' transform='translate(-109.868 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-52'>
+      <path clip-rule='evenodd' d='M107.387-89.006a22.605,22.605,0,0,1-1.556-5.6,12.576,12.576,0,0,1-.114-1.638,9.324,9.324,0,0,1,.146-1.668,5.45,5.45,0,0,1,.562-1.644,3.839,3.839,0,0,1,1.188-1.34,3.891,3.891,0,0,1,2.217-.636h.005a6.06,6.06,0,0,1,1.171.121l.02,0,.045.01a8.9,8.9,0,0,1,1.048.3c-.18-.05-.359-.1-.545-.141a6.157,6.157,0,0,0-1.192-.124,3.9,3.9,0,0,0-2.222.636,3.844,3.844,0,0,0-1.188,1.34,5.471,5.471,0,0,0-.562,1.644,10.638,10.638,0,0,0-.032,3.307,22.185,22.185,0,0,0,1.446,5.325Z'
+            data-name='Path 30288'
+            fill='none' id='Path_30288' transform='translate(-105.717 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-53'>
+      <path clip-rule='evenodd' d='M105.717-89.006h6.4v-12.526h-6.4Z' data-name='Path 30287'
+            fill='none' id='Path_30287' transform='translate(-105.717 101.532)' />
+    </clipPath>
+    <clipPath id='clip-path-54'>
+      <rect data-name='Rectangle 4870' fill='none' height='12.526' id='Rectangle_4870' width='6.402' />
+    </clipPath>
+    <pattern height='100%' id='pattern-16' preserveAspectRatio='none' viewBox='0 0 15 28' width='100%'>
+      <image height='28' width='15'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAcCAYAAAC+lOV/AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAD6ADAAQAAAABAAAAHAAAAAADvhRhAAABP0lEQVQ4EaWVsUvDQBTG313zHymlm4J0FZcuhU5dOgsOzjr4FxQcHF0FwclVCoUupdC/pc3l7uL7XnqxgmLe+SDhEu6X73tfLhdDP9TbclNXPhAOHwI5H3nsD2Pcj+SCJ3PMvq+2tTsAAodI44v+tznH84t08QVCJdDo/PRXKDE9DABWbC/wUbFaFxCcKANEHwKenfypCBBlcfKshmBGClDg18W6SZZhbVkv6UI5almy6BM9T4aDzr0mFYteAedUgZRzLEOMbecrs+1mReXYtrLgoz5piBUp7Tzlf9mWwPJsywrDJ3j9+FJrrVvHyi7Tun2YXhm8azxEW/JJNltOJgzbJS9TbYlyyYFB/fLuSRWawM83E7Nn5VLZd7t77hncsbqmRBkAQBdq6t/OO1tv4Y/7mcEvwCj2kxbW2E1zPwGFkeSZZp1fJwAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-55'>
+      <path clip-rule='evenodd' d='M112.366-61h-.09q1.207,0,2.417-.026a45.307,45.307,0,0,0,10.266-1.6,28.865,28.865,0,0,0,5.756-2.246,10.677,10.677,0,0,0,2.408-1.732,3.423,3.423,0,0,0,1.136-2.306,3.41,3.41,0,0,0-1.124-2.35,10.629,10.629,0,0,0-2.389-1.738A25.7,25.7,0,0,0,125-75.2c-.179-.048-.361-.088-.54-.132l-.039-.01L124.2-75.4a52.654,52.654,0,0,0-7.267-1.3l-.247-.027-.455-.047q-2.089-.206-4.19-.279-.9-.027-1.806-.027-1.145,0-2.291.048l-.434.02-.222.012a41.457,41.457,0,0,0-7.681,1.113l-.056.014-.267.069c-.144.038-.287.076-.431.116a23.081,23.081,0,0,0-5.126,2.04,10.458,10.458,0,0,0-2.433,1.81,3.619,3.619,0,0,0-1.139,2.452,3.593,3.593,0,0,0,1.191,2.42,9.148,9.148,0,0,0,1.491,1.189,2.083,2.083,0,0,0-.528.706,9.209,9.209,0,0,1-1.159-.994,5.457,5.457,0,0,1-1.018-1.407,3.854,3.854,0,0,1-.41-1.744A4.436,4.436,0,0,1,91.276-72.3a11.048,11.048,0,0,1,2.718-1.807,21.526,21.526,0,0,1,2.98-1.172c1.011-.327,2.036-.6,3.068-.837a62.934,62.934,0,0,1,12.582-1.462q.591-.012,1.181-.011a48.843,48.843,0,0,1,11.267,1.227l-.3-.078q.3.074.6.153a25.71,25.71,0,0,1,5.4,2.02,10.968,10.968,0,0,1,2.713,1.947,5.836,5.836,0,0,1,1.05,1.426,4.256,4.256,0,0,1,.33.871,3.842,3.842,0,0,1,.089.469l.021.256,0,.2a4.641,4.641,0,0,1-1.554,3.228,10.866,10.866,0,0,1-2.743,1.887,22.646,22.646,0,0,1-5.148,1.778q-.345.079-.69.152l-.277.057-.179.035a54.151,54.151,0,0,1-8.174.887l-.082,0-.224.009C114.726-61.021,113.545-61,112.366-61Zm-.6,0c-1.242-.018-2.487-.051-3.731-.112h-.005l-.3-.016a53.781,53.781,0,0,1-8.072-.976h0l-.321-.068q-.4-.088-.809-.186h-.008c-.857-.207-1.709-.448-2.547-.738h0a28.333,28.333,0,0,0,2.8.8A25.791,25.791,0,0,1,96-63.164a2.069,2.069,0,0,0,.276-.879c.827.334,1.675.632,2.532.9l.02.006q.345.109.691.212l.388.111q.985.275,1.984.507a45.618,45.618,0,0,0,8.933,1.276C111.134-61.02,111.448-61.012,111.761-61.008Zm.431-.118h0Zm0,0h0Zm-.206,0h0Zm-.048,0h0Zm-.06,0h-.032Zm-.05,0h0Zm-.048,0h-.021Zm-.047,0h-.007Zm12.473-1.6.052-.014Zm.5-13.727a48.537,48.537,0,0,0-11.458-1.275q1.138,0,2.277.044l.427.018.194.01a46.2,46.2,0,0,1,8.425,1.17ZM113.239-77.73h0Z'
+            data-name='Path 30290'
+            fill='none' id='Path_30290' transform='translate(-89.724 77.73)' />
+    </clipPath>
+    <clipPath id='clip-path-56'>
+      <path clip-rule='evenodd' d='M138.153-43.131l-.176,0Zm.259-.121q1.955,0,3.905-.167Q140.37-43.252,138.412-43.252Zm4.2-.193a45.278,45.278,0,0,0,7.718-1.386A45.226,45.226,0,0,1,142.616-43.445Z'
+            data-name='Path 30292'
+            fill='none' id='Path_30292' transform='translate(-137.977 44.831)' />
+    </clipPath>
+    <clipPath id='clip-path-57'>
+      <path clip-rule='evenodd' d='M137.977-43.131h12.357v-1.7H137.977Z' data-name='Path 30291'
+            fill='none' id='Path_30291' transform='translate(-137.977 44.831)' />
+    </clipPath>
+    <clipPath id='clip-path-58'>
+      <path clip-rule='evenodd' d='M147.982-41.79l.07-.006Z' data-name='Path 30294' fill='none'
+            id='Path_30294' transform='translate(-147.982 41.796)' />
+    </clipPath>
+    <clipPath id='clip-path-59'>
+      <path clip-rule='evenodd' d='M147.982-41.79h.07V-41.8h-.07Z' data-name='Path 30293'
+            fill='none' id='Path_30293' transform='translate(-147.982 41.796)' />
+    </clipPath>
+    <clipPath id='clip-path-60'>
+      <path clip-rule='evenodd' d='M147.481-41.762l.229-.02Z' data-name='Path 30296' fill='none'
+            id='Path_30296' transform='translate(-147.481 41.782)' />
+    </clipPath>
+    <clipPath id='clip-path-61'>
+      <path clip-rule='evenodd' d='M147.481-41.762h.229v-.02h-.229Z' data-name='Path 30295'
+            fill='none' id='Path_30295' transform='translate(-147.481 41.782)' />
+    </clipPath>
+    <clipPath id='clip-path-62'>
+      <path clip-rule='evenodd' d='M125.935-42.909h-.016Zm-.032,0h-.032Zm-.078,0h0Zm-.046,0h-.019Zm-.044,0h-.022Zm-.043,0h0Zm-.034,0c-1.293-.011-2.587-.079-3.873-.2l0,0Q123.714-42.929,125.658-42.911Zm-4.176-.233a45.757,45.757,0,0,1-5.662-.942l-.451-.113a45.95,45.95,0,0,0,6.111,1.054Z'
+            data-name='Path 30298'
+            fill='none' id='Path_30298' transform='translate(-115.369 44.199)' />
+    </clipPath>
+    <clipPath id='clip-path-63'>
+      <path clip-rule='evenodd' d='M115.369-42.909h10.566V-44.2H115.369Z' data-name='Path 30297'
+            fill='none' id='Path_30297' transform='translate(-115.369 44.199)' />
+    </clipPath>
+    <clipPath id='clip-path-64'>
+      <rect data-name='Rectangle 4872' fill='none' height='1.29' id='Rectangle_4872' width='8.365' />
+    </clipPath>
+    <pattern height='100%' id='pattern-17' preserveAspectRatio='none' viewBox='0 0 19 3' width='100%'>
+      <image height='3' width='19'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAADCAYAAABxhjRXAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAE6ADAAQAAAABAAAAAwAAAABjR+UeAAAARElEQVQIHWPsO3Pt/3+G/wxggESVmGozQgSJJ7Fq6Dl9BWgBECAZDuKABMvNdbHqASnHKQGSRAedJy9DLAFKINsGsxgAWaEbIr4MJNcAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-65'>
+      <path clip-rule='evenodd' d='M129.409-41.825h0l0,0h0Z' data-name='Path 30300' fill='none'
+            id='Path_30300' transform='translate(-129.403 41.827)' />
+    </clipPath>
+    <clipPath id='clip-path-66'>
+      <path clip-rule='evenodd' d='M129.4-41.825h.006v0H129.4Z' data-name='Path 30299'
+            fill='none' id='Path_30299' transform='translate(-129.403 41.827)' />
+    </clipPath>
+    <clipPath id='clip-path-67'>
+      <rect data-name='Rectangle 4874' fill='none' height='0.002' id='Rectangle_4874' width='0.006' />
+    </clipPath>
+    <pattern height='100%' id='pattern-18' preserveAspectRatio='none' viewBox='0 0 1 1' width='100%'>
+      <image height='1' width='1'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAADUlEQVQIHWNoP3H5PwAHHgMiYd81owAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-68'>
+      <path clip-rule='evenodd' d='M129.05-41.86l-.3-.03,0,0,.3.03Z' data-name='Path 30302'
+            fill='none' id='Path_30302' transform='translate(-128.75 41.892)' />
+    </clipPath>
+    <clipPath id='clip-path-69'>
+      <path clip-rule='evenodd' d='M128.75-41.86h.3v-.032h-.3Z' data-name='Path 30301' fill='none'
+            id='Path_30301' transform='translate(-128.75 41.892)' />
+    </clipPath>
+    <clipPath id='clip-path-70'>
+      <rect data-name='Rectangle 4876' fill='none' height='0.032' id='Rectangle_4876' width='0.3' />
+    </clipPath>
+    <pattern height='100%' id='pattern-19' preserveAspectRatio='none' viewBox='0 0 1 1' width='100%'>
+      <image height='1' width='1'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAADUlEQVQIHWMwLp34HwAEUQI5/w4GPwAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-71'>
+      <path clip-rule='evenodd' d='M175.55-66.072a3.417,3.417,0,0,0-1.124-2.339,10.63,10.63,0,0,0-2.389-1.739,24.876,24.876,0,0,0-5.246-2.058h0a24.8,24.8,0,0,1,5.245,2.058,10.63,10.63,0,0,1,2.389,1.739A3.417,3.417,0,0,1,175.55-66.072Z'
+            data-name='Path 30304'
+            fill='none' id='Path_30304' transform='translate(-166.79 72.208)' />
+    </clipPath>
+    <clipPath id='clip-path-72'>
+      <path clip-rule='evenodd' d='M166.79-66.072h8.76v-6.136h-8.76Z' data-name='Path 30303'
+            fill='none' id='Path_30303' transform='translate(-166.79 72.208)' />
+    </clipPath>
+    <clipPath id='clip-path-73'>
+      <rect data-name='Rectangle 4878' fill='none' height='2.192' id='Rectangle_4878' width='3.504' />
+    </clipPath>
+    <pattern height='100%' id='pattern-20' preserveAspectRatio='none' viewBox='0 0 8 5' width='100%'>
+      <image height='5' width='8'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACKADAAQAAAABAAAABQAAAABO3J3ZAAAAQ0lEQVQIHWPI3338PwMewMLAwMiQB1IEVAZSOdnNkhFZPQond9fx/yBFIEGYQhQFMJ0FQBOZmJgYmGECuOiyfaf+AwDZChPvL9tfDAAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-74'>
+      <path clip-rule='evenodd' d='M166.229-72.362c-.157-.044-.314-.087-.471-.13l.01,0,.462.127Z' data-name='Path 30306'
+            fill='none' id='Path_30306' transform='translate(-165.758 72.492)' />
+    </clipPath>
+    <clipPath id='clip-path-75'>
+      <path clip-rule='evenodd' d='M165.758-72.362h.472v-.13h-.472Z' data-name='Path 30305'
+            fill='none' id='Path_30305' transform='translate(-165.758 72.492)' />
+    </clipPath>
+    <clipPath id='clip-path-76'>
+      <rect data-name='Rectangle 4880' fill='none' height='0.13' id='Rectangle_4880' width='0.472' />
+    </clipPath>
+    <pattern height='100%' id='pattern-21' preserveAspectRatio='none' viewBox='0 0 2 1' width='100%'>
+      <image height='1' width='2'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAYAAAD0In+KAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAqADAAQAAAABAAAAAQAAAACJcORAAAAAEUlEQVQIHWNUjK/7z/D/PwMAEJ0D/SM4RyAAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-77'>
+      <path clip-rule='evenodd' d='M126.745-58.156h-.338l-.176,0c-.314,0-.628-.012-.941-.019a45.619,45.619,0,0,1-8.933-1.276,45.758,45.758,0,0,0,5.662.942l.3.03h0c1.287.123,2.58.191,3.873.2h.471q1.955,0,3.905-.167l.229-.02.07-.006a45.227,45.227,0,0,0,7.718-1.386l.087-.024.052-.014.122-.034a28.942,28.942,0,0,0,5.756-2.246,10.691,10.691,0,0,0,2.408-1.732,3.442,3.442,0,0,0,1.136-2.289v-.028a3.416,3.416,0,0,0-1.124-2.339,10.63,10.63,0,0,0-2.389-1.739,24.8,24.8,0,0,0-5.245-2.058l-.462-.127c.179.044.361.084.54.132a25.7,25.7,0,0,1,5.746,2.2,10.629,10.629,0,0,1,2.389,1.738,3.41,3.41,0,0,1,1.124,2.35,3.423,3.423,0,0,1-1.136,2.306,10.677,10.677,0,0,1-2.408,1.732,28.864,28.864,0,0,1-5.756,2.246,45.307,45.307,0,0,1-10.266,1.6Q127.952-58.156,126.745-58.156Z'
+            data-name='Path 30308'
+            fill='none' id='Path_30308' transform='translate(-116.356 72.487)' />
+    </clipPath>
+    <clipPath id='clip-path-78'>
+      <path clip-rule='evenodd' d='M116.356-58.156h32.372V-72.487H116.356Z' data-name='Path 30307'
+            fill='none' id='Path_30307' transform='translate(-116.356 72.487)' />
+    </clipPath>
+    <clipPath id='clip-path-79'>
+      <rect data-name='Rectangle 4882' fill='none' height='14.331' id='Rectangle_4882' width='32.372' />
+    </clipPath>
+    <pattern height='100%' id='pattern-22' preserveAspectRatio='none' viewBox='0 0 71 32' width='100%'>
+      <image height='32' width='71'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAgCAYAAABAQWX9AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAR6ADAAQAAAABAAAAIAAAAADcOWuMAAAC3klEQVRoBe2Zz2sTQRTHZzdp/wzrDxA81ItQES8ePPYmIhorxf5KiLUqWmwbW9NUU1JDo7UFf7RUDBE89CB69ORJRPDiQRBB/UPG930zu+5u0rhbN4fs7kB2dnZ+vPc+++bNZsYQEUgHLs1LKaQQuFL2s75khGFWKIOEoUhYY/QNFTQnDYug/W6U92TnnjqFZUinx9mXmZXwJLiTQZb+Cggp0nCc8PcTqN5USvSkU+Lr1l1fdvtq5BTS7ff9I0XZS4DS9Pu4PtPW/raV3Q6inf4nJpdlDzyJfu+rN1pyaPmw3aBRqjt1/YHENAMgeNKbpbyLh6sQJcOD2DI4s6YgEaDXCxM2EzPIIFFt+7Y8aVCiFc0QmXvPsb5xSuBoEDuLOcMkOKZpiJHKNgNK4Gg4yF7dGdOAFJYEjgMObuE9mF75hw1pBx9Pm1gXs6t1XuYTz2nhBlbsSeDsBgfBuUVd7B9hxULcSeB4XAGB2DRMXtITOB44drwBIE9drIu5Wp28Rk2pysQZwpMkJjBefanAULyp5s7yJ04Ch9CMrrxgMPCaWv6c/e2XjrPjXLy/KdMpii1Ymchj1q5esMGAS2w953zpmeTlGjGGwGxcy7jAAE6sPGdw7jF7Cja3LDBb08NNUAAGKRZwTt9cpc0sU5CP0BRS06hRGN0VikITcTgnpyp84sAxRUPZKWb/CSWycI6Ol/gfNU4YFBQVU97Rbp9ltN88EtPq4PACLcVC4FzKWnkQUz7UbgUG4gTXlXAOXS7yoTjvZfKRptqkApgvTwr/BcQF5/jshkOG2lvGGeqn5SuhCXEKDHp/eKxkH+miLw7CNQ8+5v2xXeyYnk0DD9xeJ9kESSHTilgKSfF5ZaqpT1CDve2PZMssUBn9VxaXlTYMAip935wPXb5XH6vsS9Cx6UfMi98bQ9Pdobgyi5XHU37N9jPugQvet8rZYm7I/N3tqY2qEt+ezvnSjTt06PIH+KDaRhVyhQYAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-80'>
+      <path clip-rule='evenodd' d='M106.182-44.982a28.336,28.336,0,0,1-2.8-.8c.012-.018.023-.037.034-.056A25.8,25.8,0,0,0,106.182-44.982Z'
+            data-name='Path 30310'
+            fill='none' id='Path_30310' transform='translate(-103.384 45.835)' />
+    </clipPath>
+    <clipPath id='clip-path-81'>
+      <path clip-rule='evenodd' d='M103.384-44.982h2.8v-.853h-2.8Z' data-name='Path 30309'
+            fill='none' id='Path_30309' transform='translate(-103.384 45.835)' />
+    </clipPath>
+    <clipPath id='clip-path-82'>
+      <rect data-name='Rectangle 4884' fill='none' height='0.853' id='Rectangle_4884' width='2.798' />
+    </clipPath>
+    <pattern height='100%' id='pattern-23' preserveAspectRatio='none' viewBox='0 0 7 2' width='100%'>
+      <image height='2' width='7'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAACCAYAAACUn8ZgAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAB6ADAAQAAAABAAAAAgAAAAA6fnIcAAAAKElEQVQIHWO0aZj9//9/BiAAEwxHG9MYQTwQgDNAHKu6WRAVIA5QMQB+PwpTxreFrAAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-83'>
+      <path clip-rule='evenodd' d='M138.6-77.719q.6-.011,1.195-.011Q139.194-77.73,138.6-77.719Zm1.2-.011h0Z'
+            data-name='Path 30312'
+            fill='none' id='Path_30312' transform='translate(-138.597 77.73)' />
+    </clipPath>
+    <clipPath id='clip-path-84'>
+      <path clip-rule='evenodd' d='M138.6-77.719h1.2v-.011h-1.2Z' data-name='Path 30311'
+            fill='none' id='Path_30311' transform='translate(-138.597 77.73)' />
+    </clipPath>
+    <clipPath id='clip-path-85'>
+      <path clip-rule='evenodd' d='M166.381-74.922l-.068-.017Z' data-name='Path 30314'
+            fill='none' id='Path_30314' transform='translate(-166.313 74.939)' />
+    </clipPath>
+    <clipPath id='clip-path-86'>
+      <path clip-rule='evenodd' d='M166.313-74.922h.068v-.017h-.068Z' data-name='Path 30313'
+            fill='none' id='Path_30313' transform='translate(-166.313 74.939)' />
+    </clipPath>
+    <clipPath id='clip-path-87'>
+      <path clip-rule='evenodd' d='M91.543-64.869a9.634,9.634,0,0,1-1.659-1.338,5.43,5.43,0,0,1-1.018-1.406,3.873,3.873,0,0,1-.411-1.676c0-.023,0-.045,0-.068a4.439,4.439,0,0,1,1.551-3.084,11.058,11.058,0,0,1,2.718-1.807A21.521,21.521,0,0,1,95.7-75.42c1.012-.327,2.036-.6,3.068-.837a62.935,62.935,0,0,1,12.582-1.462q.6-.011,1.195-.011h.005a48.537,48.537,0,0,1,11.458,1.275l.068.017.3.078a48.843,48.843,0,0,0-11.267-1.227q-.591,0-1.181.011a62.934,62.934,0,0,0-12.582,1.462c-1.032.237-2.057.509-3.068.837a21.527,21.527,0,0,0-2.98,1.172A11.047,11.047,0,0,0,90.586-72.3a4.436,4.436,0,0,0-1.551,3.084,3.855,3.855,0,0,0,.41,1.744,5.457,5.457,0,0,0,1.018,1.407,9.209,9.209,0,0,0,1.159.994Q91.578-64.972,91.543-64.869Z'
+            data-name='Path 30316'
+            fill='none' id='Path_30316' transform='translate(-88.455 77.73)' />
+    </clipPath>
+    <clipPath id='clip-path-88'>
+      <path clip-rule='evenodd' d='M88.455-64.869h35.928V-77.73H88.455Z' data-name='Path 30315'
+            fill='none' id='Path_30315' transform='translate(-88.455 77.73)' />
+    </clipPath>
+    <clipPath id='clip-path-89'>
+      <rect data-name='Rectangle 4886' fill='none' height='12.861' id='Rectangle_4886' width='35.928' />
+    </clipPath>
+    <pattern height='100%' id='pattern-24' preserveAspectRatio='none' viewBox='0 0 79 29' width='100%'>
+      <image height='29' width='79'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAAdCAYAAADrcjF6AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAT6ADAAQAAAABAAAAHQAAAABjmFglAAACo0lEQVRoBe2YbUsUURTHzwx9kCDoA4TUy7Y3QSQqUkSERSJYamYQkUuYlFoURhlmD8gGJRVECAvRE0QQlkT0AYI+RaW7e2eu55w7c512opmrLkh7LtzH+d+Zc3/7v3OH9WCTpR1nb2kOSWvgRqKmcY19U3OJA2aM1WYCalhitHSdRas1tyKtuYQK6mPxfXbEM7Ozy9zC7Fu5KVrO3Y6XRWvBxIVdeNwwlzR8u3GmobFu77mM6DgkLE3NUZlR+FEaTT0/NeCGIFu9c3g6isXAMYx4yEKjK1+vDTY8luxo04pt3aMmfrYmmRO71Ma84QHvKt6JKPH9MZpVaBTFl6sDG/7M9JIbP7K164Je90IKF+/rZRXYaA0q+mUAFif61n1/e+NN2NiylpiOTs7p3zUFP6s1+IXgPM9DVhGw8ZP/NbAkLyd4p2ae66WqgqVaDVQYgsJ9H2L+NHaiaYA5wyuWynoZnUY5QFgqBJgvHm9KYLnhXXny2kBTih1G4EpDh5seWgzwr9t2av69rqDLKBMw3KFws7dToMXUojoFb6b8QVcip4V4BowdaxVoddDirh83qH7w8qMO0GWUQyQ3cmSfgEsCqmtbOKVXC7qKnx0VzIMdBTtep5duggA779Hbz5o+Ocz7DfeqpFwEGF4S3FDnHnFdLnQA/ty7RU3vN8oD7bsFXE5wJPPpRCXnhfQ9IsmJgE/QyHV9beI6J3Io9umQCMh+kpwJGOdp2bLO5HACwhPnrQUczTHbFreuJHcC0YERwsTTN0LQkZ/f317w6MAI5L3niA63Lc0Ios+V4sOyuM8BIcM7f2gvug//VkcHnr73QgDmBMjwSHupa78F2D31TADmAGjhkXayp8MCPHD9sQDMAPgHPNLe7T/oqSCAKmZJ/yawAlM0dgcvIVpcAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-90'>
+      <path clip-rule='evenodd' d='M128.975-62.69a4.5,4.5,0,0,1-.365-1.781,4.508,4.508,0,0,1,4.507-4.507,4.507,4.507,0,0,1,4.507,4.507,4.486,4.486,0,0,0-.817-2.588,4.5,4.5,0,0,0-.452-.546,7.487,7.487,0,0,0-1.928.434,2.719,2.719,0,0,0-2.308-1.281,2.72,2.72,0,0,0-2.72,2.72,2.708,2.708,0,0,0,.553,1.643A7.972,7.972,0,0,0,128.975-62.69Z'
+            data-name='Path 30318'
+            fill='none' id='Path_30318' transform='translate(-128.61 68.978)' />
+    </clipPath>
+    <radialGradient cx='0.161' cy='0.506' gradientTransform='translate(0.057) scale(0.886 1)' gradientUnits='objectBoundingBox'
+                    id='radial-gradient-4' r='0.172'>
+      <stop offset='0' stop-color='#4db4c1' />
+      <stop offset='0.1' stop-color='#47afbc' />
+      <stop offset='0.2' stop-color='#42a9b7' />
+      <stop offset='0.3' stop-color='#3ca4b2' />
+      <stop offset='0.4' stop-color='#379eae' />
+      <stop offset='0.5' stop-color='#3299a9' />
+      <stop offset='0.6' stop-color='#2c93a4' />
+      <stop offset='0.7' stop-color='#278da0' />
+      <stop offset='0.8' stop-color='#21889b' />
+      <stop offset='0.9' stop-color='#1c8296' />
+      <stop offset='1' stop-color='#177d91' />
+    </radialGradient>
+    <clipPath id='clip-path-91'>
+      <path clip-rule='evenodd' d='M130.894-63.463a2.708,2.708,0,0,1-.553-1.643,2.72,2.72,0,0,1,2.72-2.72,2.719,2.719,0,0,1,2.308,1.281,10.726,10.726,0,0,0-2.478,1.3A10.753,10.753,0,0,0,130.894-63.463Z'
+            data-name='Path 30320'
+            fill='none' id='Path_30320' transform='translate(-130.341 67.826)' />
+    </clipPath>
+    <clipPath id='clip-path-92'>
+      <path clip-rule='evenodd' d='M130.341-63.463h5.028v-4.363h-5.028Z' data-name='Path 30319'
+            fill='none' id='Path_30319' transform='translate(-130.341 67.826)' />
+    </clipPath>
+    <clipPath id='clip-path-93'>
+      <rect data-name='Rectangle 4888' fill='none' height='4.363' id='Rectangle_4888' width='5.028' />
+    </clipPath>
+    <pattern height='100%' id='pattern-25' preserveAspectRatio='none' viewBox='0 0 12 10' width='100%'>
+      <image height='10' width='12'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAYAAACALL/6AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAADKADAAQAAAABAAAACgAAAAC/hC3HAAAA5klEQVQYGX2QPQoCMRCFE8g5bMTOQkEQVhBEvIEnEbGztPNWVtaCtYWyIlrpWuTXeZNkcQtdyGYSvvfmTaT4+o63RzDeC+uCsMEL47xwONOatlsSKP8O13vAJa8QGETNYo+zIxMv5t2OZMH+XAa4ZsB6RzV1IcikGt1wL3enS4zBHQhKzgBgwDtqiggDVWkb87IAADrFDsivKQ7uFkWP06jKGBZoCDAsXLFSh2XRZzC/jXobKxiuwTjLatQEa8FTm5gPQ5JIk/N6PGi4Zhi7elmKlF4InTaT4U84CmjonHk7K/7CEHwAYpDqkMgrH+YAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-94'>
+      <path clip-rule='evenodd' d='M129.73-60.448a4.431,4.431,0,0,1-.32-.608,7.974,7.974,0,0,1,.978-1.4,2.744,2.744,0,0,0,.574.562A11.411,11.411,0,0,0,129.73-60.448Zm5.463-4.319a2.7,2.7,0,0,0-.329-.771,7.487,7.487,0,0,1,1.928-.434,4.5,4.5,0,0,1,.452.546A10.72,10.72,0,0,0,135.192-64.767Z'
+            data-name='Path 30322'
+            fill='none' id='Path_30322' transform='translate(-129.41 65.972)' />
+    </clipPath>
+    <clipPath id='clip-path-95'>
+      <path clip-rule='evenodd' d='M129.41-60.448h7.832v-5.524H129.41Z' data-name='Path 30321'
+            fill='none' id='Path_30321' transform='translate(-129.41 65.972)' />
+    </clipPath>
+    <clipPath id='clip-path-96'>
+      <rect data-name='Rectangle 4890' fill='none' height='5.524' id='Rectangle_4890' width='7.832' />
+    </clipPath>
+    <pattern height='100%' id='pattern-26' preserveAspectRatio='none' viewBox='0 0 18 13' width='100%'>
+      <image height='13' width='18'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAEqADAAQAAAABAAAADQAAAABb0ZA8AAAAhUlEQVQoFWNkIBFYLN70n+E/EAH1/f8HosFcBhYSzQGaATQCiIFmgNkgPkiIZIP+/QVpBBkEMfBcSjAjqY4ZVU+NELBbse0/CFNiFhNM8z9gwrBcsoVsw5jsV2wHJgtg2gCl0v//YOaSTINdBEpbf4HEiVg/shMXEyiFgvCJWF+yDQE5HwDJbkwlZrXp2AAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-97'>
+      <path clip-rule='evenodd' d='M132.125-61.378a2.744,2.744,0,0,1-.574-.562,10.753,10.753,0,0,1,2-1.786,10.726,10.726,0,0,1,2.478-1.3,2.7,2.7,0,0,1,.329.771,13.546,13.546,0,0,0-2.382,1.333A13.717,13.717,0,0,0,132.125-61.378Z'
+            data-name='Path 30324'
+            fill='none' id='Path_30324' transform='translate(-131.551 65.022)' />
+    </clipPath>
+    <clipPath id='clip-path-98'>
+      <path clip-rule='evenodd' d='M131.551-61.378h4.8v-3.644h-4.8Z' data-name='Path 30323'
+            fill='none' id='Path_30323' transform='translate(-131.551 65.022)' />
+    </clipPath>
+    <clipPath id='clip-path-99'>
+      <rect data-name='Rectangle 4892' fill='none' height='3.644' id='Rectangle_4892' width='4.804' />
+    </clipPath>
+    <pattern height='100%' id='pattern-27' preserveAspectRatio='none' viewBox='0 0 11 8' width='100%'>
+      <image height='8' width='11'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAICAYAAAAvOAWIAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAC6ADAAQAAAABAAAACAAAAADl1gLsAAAAq0lEQVQYGYXPzwpBURAG8Dl1X4zIksQLKStLyZIdKw9BFrileBLKGee/b87i1o2bqekszq9vZhT9qeXlnmyIZEIg1WQX51tyQNoHeqN/4vkJKEbijDyxA0aqwVtLnh2vgIFeAtAcHLGNtBq0sqvw9FAmGacFOY/xntb9dvUv66rJvsRuAIAyUhBbT9tRtwYFF09r8wEZInEz7HwhgVLFwzjSSGIk7sa9Rij4AwsXefZC5L5gAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-100'>
+      <path clip-rule='evenodd' d='M133.932-57.681A4.5,4.5,0,0,1,130.11-59.8a11.41,11.41,0,0,1,1.232-1.446,2.706,2.706,0,0,0,1.593.516,2.72,2.72,0,0,0,2.72-2.721,2.729,2.729,0,0,0-.083-.668,10.72,10.72,0,0,1,2.05-.659,4.486,4.486,0,0,1,.817,2.588A4.507,4.507,0,0,1,133.932-57.681Z'
+            data-name='Path 30326'
+            fill='none' id='Path_30326' transform='translate(-130.11 64.776)' />
+    </clipPath>
+    <clipPath id='clip-path-101'>
+      <path clip-rule='evenodd' d='M130.11-57.681h8.329v-7.1H130.11Z' data-name='Path 30325'
+            fill='none' id='Path_30325' transform='translate(-130.11 64.776)' />
+    </clipPath>
+    <clipPath id='clip-path-102'>
+      <rect data-name='Rectangle 4894' fill='none' height='7.095' id='Rectangle_4894' width='8.329' />
+    </clipPath>
+    <pattern height='100%' id='pattern-28' preserveAspectRatio='none' viewBox='0 0 19 16' width='100%'>
+      <image height='16' width='19'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAYAAAD0xERiAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAE6ADAAQAAAABAAAAEAAAAABEBwhMAAACEUlEQVQ4EZ2TO24UQRCGq9/zkAwSgUMQN0DICSD5ACRYCBJSfBwCEosIEhYCHiIx4gYWEs44imGXnZ5pvuphkS0hwdIzNf1Q91d/VfUY+Y+29+JDoUk1zhvGp4/vG7Mt6+bz92UqUkGbs0XA8PrNwr/2GZIqmsoMOH9ue9gISFQaGAIrmFVjvjVsPc0cZSnAWZ0DpXfnZf5tfO3oTcmEOFagQZiGanlRZu12ypbrTK7m8CIADVNDszw65ju324tj3fbHtvv0dbn8ZFHOgH3PowzkLbOzVFVOjMaKMvAiChqnSUY2DfSZ/uvhgbl69LashizfsBUQDc87J20M0sckKXpJ3pE3Iw5SLcBcapGRVMKpXq8/e1eWwyRLCMuMI66CwbvzQQKgkJJ478VBUWGafH/n1XHJHMApZmrZNS+5GnDWjcU7IcUQpEuN9G0jKUQJlNObAqiQL8bzL0FpeRRYy1xzOyuJKHEeRc5LbBrp+h1pmq6G5fJK7LTmikxy+nDf+FnNrKp+tSrqDfmNcRI0rYBCSBL7S5J2rkggLvPjjO24JvwvD/Zr7u3Jo7t1oGfsrzvj2OwJLcVIWEm6But6adtWIqG5vBSLKkcs6njTZhCzvZcfiyZ/nEwtRP15ASKRBHuxJN2hTi+AmYZqnw9u/T6vwAsTXbix+ARSC6FSHdeHe1R7rqYq12XUnNy7CNKzPwFXntF1V+k+LwAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-103'>
+      <path clip-rule='evenodd' d='M134.4-59.945a2.706,2.706,0,0,1-1.593-.516A13.718,13.718,0,0,1,134.657-62a13.546,13.546,0,0,1,2.382-1.333,2.73,2.73,0,0,1,.083.668A2.72,2.72,0,0,1,134.4-59.945Z'
+            data-name='Path 30328'
+            fill='none' id='Path_30328' transform='translate(-132.808 63.334)' />
+    </clipPath>
+    <clipPath id='clip-path-104'>
+      <path clip-rule='evenodd' d='M132.808-59.945h4.313v-3.389h-4.313Z' data-name='Path 30327'
+            fill='none' id='Path_30327' transform='translate(-132.808 63.334)' />
+    </clipPath>
+    <clipPath id='clip-path-105'>
+      <rect data-name='Rectangle 4896' fill='none' height='3.389' id='Rectangle_4896' width='4.313' />
+    </clipPath>
+    <pattern height='100%' id='pattern-29' preserveAspectRatio='none' viewBox='0 0 10 8' width='100%'>
+      <image height='8' width='10'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACqADAAQAAAABAAAACAAAAABicMmvAAAApElEQVQYGYWPQQoCMQxFU5hLijtx467gzURkdiLoaVyIaDvNNGn9KVIQFLNqy8v7v47+jB8vdRYl94vz47kmKZQAJf0CmiGJUMxCk9YG5lI+jZvDqU5ZKQAym4GMJca5R692x2qW+I4LzYrogmgD13uzWJRSRJc4Cz3Rq5u10NUv3HBnRpTFAcJmN+VME+4ZoM1wY2mdAh4ZRrYP2CLuj+2yV3sBs3Wb3B44RKYAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-106'>
+      <path clip-rule='evenodd' d='M145.9-97.9a2.081,2.081,0,0,1-.079-.568,2.076,2.076,0,0,1,2.076-2.076,2.071,2.071,0,0,1,1.525.668,2.057,2.057,0,0,1,.21.268,2.03,2.03,0,0,1,.175.326,2.064,2.064,0,0,1,.166.814,2.068,2.068,0,0,0-.336-1.132,2.09,2.09,0,0,0-.494-.528,4.144,4.144,0,0,0-.853.253,1.292,1.292,0,0,0-.829-.3,1.3,1.3,0,0,0-1.3,1.3,1.3,1.3,0,0,0,.092.481A4.027,4.027,0,0,0,145.9-97.9Z'
+            data-name='Path 30330'
+            fill='none' id='Path_30330' transform='translate(-145.82 100.541)' />
+    </clipPath>
+    <radialGradient cx='0.161' cy='0.506' gradientTransform='translate(0.057) scale(0.886 1)' gradientUnits='objectBoundingBox'
+                    id='radial-gradient-5' r='0.172'>
+      <stop offset='0' stop-color='#d570a2' />
+      <stop offset='0.1' stop-color='#d06a9d' />
+      <stop offset='0.2' stop-color='#cc6497' />
+      <stop offset='0.3' stop-color='#c85d91' />
+      <stop offset='0.4' stop-color='#c3578b' />
+      <stop offset='0.5' stop-color='#bf5185' />
+      <stop offset='0.6' stop-color='#bb4a7f' />
+      <stop offset='0.7' stop-color='#b64479' />
+      <stop offset='0.8' stop-color='#b23d73' />
+      <stop offset='0.9' stop-color='#ae376d' />
+      <stop offset='1' stop-color='#aa3167' />
+    </radialGradient>
+    <clipPath id='clip-path-107'>
+      <path clip-rule='evenodd' d='M146.666-97.952a1.3,1.3,0,0,1-.092-.481,1.3,1.3,0,0,1,1.3-1.3,1.292,1.292,0,0,1,.829.3,5.377,5.377,0,0,0-1.016.559A5.272,5.272,0,0,0,146.666-97.952Z'
+            data-name='Path 30332'
+            fill='none' id='Path_30332' transform='translate(-146.574 99.73)' />
+    </clipPath>
+    <clipPath id='clip-path-108'>
+      <path clip-rule='evenodd' d='M146.574-97.952H148.7V-99.73h-2.126Z' data-name='Path 30331'
+            fill='none' id='Path_30331' transform='translate(-146.574 99.73)' />
+    </clipPath>
+    <clipPath id='clip-path-109'>
+      <rect data-name='Rectangle 4898' fill='none' height='1.778' id='Rectangle_4898' width='2.126' />
+    </clipPath>
+    <pattern height='100%' id='pattern-30' preserveAspectRatio='none' viewBox='0 0 5 4' width='100%'>
+      <image height='4' width='5'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAYAAABGM/VAAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABaADAAQAAAABAAAABAAAAABhAhd7AAAARUlEQVQIHWN8sPrI/3+//jD8+/UbiP8w/P39h4Hlz6dvDH+RBX/+ZmD59fEbXJVeXSQjAxCw/Aaq/PfzD4NhexxYACQIADOfLpX+xJa5AAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-110'>
+      <path clip-rule='evenodd' d='M146.288-96.779c-.026-.038-.052-.076-.075-.116a2.006,2.006,0,0,1-.122-.235,2.061,2.061,0,0,1-.1-.273,4.03,4.03,0,0,1,.358-.5,1.306,1.306,0,0,0,.405.54A5,5,0,0,0,146.288-96.779Zm2.5-2.014a1.3,1.3,0,0,0-.4-.583,4.145,4.145,0,0,1,.853-.253,2.09,2.09,0,0,1,.494.528A4.923,4.923,0,0,0,148.785-98.793Z'
+            data-name='Path 30334'
+            fill='none' id='Path_30334' transform='translate(-145.992 99.63)' />
+    </clipPath>
+    <clipPath id='clip-path-111'>
+      <path clip-rule='evenodd' d='M145.992-96.779h3.739V-99.63h-3.739Z' data-name='Path 30333'
+            fill='none' id='Path_30333' transform='translate(-145.992 99.63)' />
+    </clipPath>
+    <clipPath id='clip-path-112'>
+      <rect data-name='Rectangle 4900' fill='none' height='2.851' id='Rectangle_4900' width='3.739' />
+    </clipPath>
+    <pattern height='100%' id='pattern-31' preserveAspectRatio='none' viewBox='0 0 9 7' width='100%'>
+      <image height='7' width='9'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAYAAADam2dgAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACaADAAQAAAABAAAABwAAAACzugX6AAAAT0lEQVQYGWNkwAL2ezf9Z/gPRkDqHwMjFjVgod3uDf///gMp/I9LCQPDJodaPLLY9B30a/m/37cZry6m/0Bn/f2LTTtCjAnksD9/8RrEAAAidSJ/eE/JSAAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-113'>
+      <path clip-rule='evenodd' d='M147.181-97.056a1.306,1.306,0,0,1-.405-.54,5.273,5.273,0,0,1,1.018-.92,5.377,5.377,0,0,1,1.016-.559,1.3,1.3,0,0,1,.4.583,6.179,6.179,0,0,0-1.051.592A6.134,6.134,0,0,0,147.181-97.056Z'
+            data-name='Path 30336'
+            fill='none' id='Path_30336' transform='translate(-146.776 99.075)' />
+    </clipPath>
+    <clipPath id='clip-path-114'>
+      <path clip-rule='evenodd' d='M146.776-97.056h2.435v-2.019h-2.435Z' data-name='Path 30335'
+            fill='none' id='Path_30335' transform='translate(-146.776 99.075)' />
+    </clipPath>
+    <clipPath id='clip-path-115'>
+      <rect data-name='Rectangle 4902' fill='none' height='2.019' id='Rectangle_4902' width='2.435' />
+    </clipPath>
+    <pattern height='100%' id='pattern-32' preserveAspectRatio='none' viewBox='0 0 6 5' width='100%'>
+      <image height='5' width='6'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAFCAYAAABmWJ3mAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABqADAAQAAAABAAAABQAAAAAP+GVPAAAAaklEQVQIHU3MwQmEMBSE4QnYnTbjaTvwKNYhyCLbimgbSqLZyUuMT0/O8WP4DV5bujEnChIjzO1z+81niIgKsgfwEJip6XNSFC+gC/A24O+IQqyH6MMrupUoh/qpFFwPfRH7RlS/z4N3/gLU7kB5mwIrHAAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-116'>
+      <path clip-rule='evenodd' d='M148.342-95.266a2.073,2.073,0,0,1-1.654-.821c-.016-.021-.032-.043-.047-.065a5,5,0,0,1,.467-.579,1.29,1.29,0,0,0,.8.276,1.3,1.3,0,0,0,1.3-1.3,1.3,1.3,0,0,0-.068-.414,4.923,4.923,0,0,1,.946-.309,2.068,2.068,0,0,1,.336,1.132A2.076,2.076,0,0,1,148.342-95.266Z'
+            data-name='Path 30338'
+            fill='none' id='Path_30338' transform='translate(-146.641 98.474)' />
+    </clipPath>
+    <clipPath id='clip-path-117'>
+      <path clip-rule='evenodd' d='M146.641-95.266h3.778v-3.208h-3.778Z' data-name='Path 30337'
+            fill='none' id='Path_30337' transform='translate(-146.641 98.474)' />
+    </clipPath>
+    <clipPath id='clip-path-118'>
+      <rect data-name='Rectangle 4904' fill='none' height='3.208' id='Rectangle_4904' width='3.778' />
+    </clipPath>
+    <pattern height='100%' id='pattern-33' preserveAspectRatio='none' viewBox='0 0 9 8' width='100%'>
+      <image height='8' width='9'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAYAAAArzdW1AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACaADAAQAAAABAAAACAAAAAAx6pIrAAAAt0lEQVQYGW2OOw7CMBAF38aOnWB+QkJ0tLkJFFyDjktQIHEb6BHiQlRIScwn9rJJbVuudjyzhMS5bY8cQkRkgJihEwxaHxCDAHJzpdJQ00QgCqAJ2hKylMnXQPcRTxRLpqEfuxP7b4Bv5NUR71YyHcHkBs4YjI2AP1mQpR+D/CQFK4nSWiycw8QpKNuJjftmJv1s6NvCYOnmWM9WeOGJ6nog6ne6b87MYlJiKpXFtBhBK6C67If5H0EvOQG2G3BIAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-119'>
+      <path clip-rule='evenodd' d='M148.463-96.087a1.29,1.29,0,0,1-.8-.276,6.135,6.135,0,0,1,.978-.844,6.18,6.18,0,0,1,1.051-.592,1.3,1.3,0,0,1,.068.414A1.3,1.3,0,0,1,148.463-96.087Z'
+            data-name='Path 30340'
+            fill='none' id='Path_30340' transform='translate(-147.663 97.798)' />
+    </clipPath>
+    <clipPath id='clip-path-120'>
+      <path clip-rule='evenodd' d='M147.663-96.087h2.1V-97.8h-2.1Z' data-name='Path 30339'
+            fill='none' id='Path_30339' transform='translate(-147.663 97.798)' />
+    </clipPath>
+    <clipPath id='clip-path-121'>
+      <rect data-name='Rectangle 4906' fill='none' height='1.711' id='Rectangle_4906' width='2.097' />
+    </clipPath>
+    <pattern height='100%' id='pattern-34' preserveAspectRatio='none' viewBox='0 0 5 4' width='100%'>
+      <image height='4' width='5'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAYAAABGM/VAAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABaADAAQAAAABAAAABAAAAABhAhd7AAAAT0lEQVQIHU3IwQ2AIBAF0U+0VE/GdjxRjsZqTABxV9jFIN6YuT2Drn22NZHA/HYstvKV8QRBjgqzTWvlkBFdQ68o/GLkk0BewE6R7oKh/QEihir4hnzo5gAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-122'>
+      <path clip-rule='evenodd' d='M164.915-33.081a2.08,2.08,0,0,1-.079-.568A2.077,2.077,0,0,1,166.2-35.6a2.076,2.076,0,0,1,.487-.113,2.042,2.042,0,0,1,.225-.012,2.085,2.085,0,0,1,.538.07,2.077,2.077,0,0,1,1.539,2.005,2.064,2.064,0,0,0-.336-1.132,2.091,2.091,0,0,0-.494-.528,4.133,4.133,0,0,0-.852.253,1.293,1.293,0,0,0-.829-.3,1.3,1.3,0,0,0-1.3,1.3,1.284,1.284,0,0,0,.092.481A4.037,4.037,0,0,0,164.915-33.081Z'
+            data-name='Path 30342'
+            fill='none' id='Path_30342' transform='translate(-164.836 35.725)' />
+    </clipPath>
+    <clipPath id='clip-path-123'>
+      <path clip-rule='evenodd' d='M165.683-33.136a1.284,1.284,0,0,1-.092-.481,1.3,1.3,0,0,1,1.3-1.3,1.292,1.292,0,0,1,.829.3,5.36,5.36,0,0,0-1.016.559A5.272,5.272,0,0,0,165.683-33.136Z'
+            data-name='Path 30344'
+            fill='none' id='Path_30344' transform='translate(-165.591 34.914)' />
+    </clipPath>
+    <clipPath id='clip-path-124'>
+      <path clip-rule='evenodd' d='M165.591-33.136h2.126v-1.778h-2.126Z' data-name='Path 30343'
+            fill='none' id='Path_30343' transform='translate(-165.591 34.914)' />
+    </clipPath>
+    <pattern height='100%' id='pattern-35' preserveAspectRatio='none' viewBox='0 0 5 4' width='100%'>
+      <image height='4' width='5'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAYAAABGM/VAAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABaADAAQAAAABAAAABAAAAABhAhd7AAAARUlEQVQIHWO8v/LQ/38//zD8+/Wb4S8Q//v1h4Hl98evYMbfnxABEA0W/AtSCcQGzTGMDEDA8uvDN6DAbwbjnmSwAEgQADFRLpkLzNT4AAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-126'>
+      <path clip-rule='evenodd' d='M165.3-31.963a2.071,2.071,0,0,1-.3-.623,4.031,4.031,0,0,1,.358-.5,1.3,1.3,0,0,0,.4.54A5.005,5.005,0,0,0,165.3-31.963Zm2.5-2.014a1.3,1.3,0,0,0-.4-.583,4.132,4.132,0,0,1,.852-.253,2.091,2.091,0,0,1,.494.528A4.909,4.909,0,0,0,167.8-33.977Z'
+            data-name='Path 30346'
+            fill='none' id='Path_30346' transform='translate(-165.008 34.814)' />
+    </clipPath>
+    <clipPath id='clip-path-127'>
+      <path clip-rule='evenodd' d='M165.008-31.963h3.739v-2.851h-3.739Z' data-name='Path 30345'
+            fill='none' id='Path_30345' transform='translate(-165.008 34.814)' />
+    </clipPath>
+    <pattern height='100%' id='pattern-36' preserveAspectRatio='none' viewBox='0 0 9 7' width='100%'>
+      <image height='7' width='9'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAYAAADam2dgAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACaADAAQAAAABAAAABwAAAACzugX6AAAAUklEQVQYGWNkwAL2utX9BwIGIGJg+P+PgRGLGrDQDqea/3///QMqBKnEAdZZVeCRxaZpn2fD/73u9Xh1MYFc9+fvP2z64WJMf//9Z/j9B69BDACJ+yQ2XXYuwgAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-129'>
+      <path clip-rule='evenodd' d='M166.2-32.24a1.3,1.3,0,0,1-.4-.54,5.273,5.273,0,0,1,1.018-.92,5.359,5.359,0,0,1,1.016-.559,1.3,1.3,0,0,1,.4.583,6.183,6.183,0,0,0-1.051.592A6.157,6.157,0,0,0,166.2-32.24Z'
+            data-name='Path 30348'
+            fill='none' id='Path_30348' transform='translate(-165.793 34.259)' />
+    </clipPath>
+    <clipPath id='clip-path-130'>
+      <path clip-rule='evenodd' d='M165.793-32.24h2.435v-2.019h-2.435Z' data-name='Path 30347'
+            fill='none' id='Path_30347' transform='translate(-165.793 34.259)' />
+    </clipPath>
+    <pattern height='100%' id='pattern-37' preserveAspectRatio='none' viewBox='0 0 6 5' width='100%'>
+      <image height='5' width='6'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAFCAYAAABmWJ3mAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABqADAAQAAAABAAAABQAAAAAP+GVPAAAAaElEQVQIHU3MuwmAQBAE0DmwPsFqTIwMxT5MxMjIMgTbEPG8z+56nLqRA5M8hjH4ZeunnEiQosB8vnVjTnwrkBOwZ5i1HV4UiBdEywiWtAWfXhfhZLgjopxrfSlo9whXhD0I1dIofvcPyT5AaGwzo88AAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-132'>
+      <path clip-rule='evenodd' d='M167.358-30.45a2.074,2.074,0,0,1-1.7-.886,5,5,0,0,1,.467-.579,1.292,1.292,0,0,0,.8.276,1.3,1.3,0,0,0,1.3-1.3,1.3,1.3,0,0,0-.068-.415,4.909,4.909,0,0,1,.945-.309,2.065,2.065,0,0,1,.336,1.132A2.076,2.076,0,0,1,167.358-30.45Z'
+            data-name='Path 30350'
+            fill='none' id='Path_30350' transform='translate(-165.657 33.658)' />
+    </clipPath>
+    <clipPath id='clip-path-133'>
+      <path clip-rule='evenodd' d='M165.657-30.45h3.778v-3.208h-3.778Z' data-name='Path 30349'
+            fill='none' id='Path_30349' transform='translate(-165.657 33.658)' />
+    </clipPath>
+    <pattern height='100%' id='pattern-38' preserveAspectRatio='none' viewBox='0 0 9 8' width='100%'>
+      <image height='8' width='9'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAYAAAArzdW1AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACaADAAQAAAABAAAACAAAAAAx6pIrAAAAt0lEQVQYGW2PQU4CQRBFX3f1dMNMSCQx7twbvYOJicdhw5oQjwXch417ZkCdrrKA7fztf3m/KjCR3cfGRlVMIWKkCYb+PKI1ELxMEqehU2+gRuOAzKLbJjKcjL8f91QhI6TD59Yuv0o/VM69chncUiOlySxKps0OVddqBRsjwfuSAm0qPHYdiy4Rm5Fkej8wX/eLUGaZp/mSl+Uz33rkdb8O1wfYvX+Z+YSYMHfLQ2kRMd72q1v/D/k4P+XOjT/eAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-135'>
+      <path clip-rule='evenodd' d='M167.479-31.27a1.291,1.291,0,0,1-.8-.276,6.158,6.158,0,0,1,.979-.843,6.184,6.184,0,0,1,1.051-.592,1.3,1.3,0,0,1,.068.415A1.3,1.3,0,0,1,167.479-31.27Z'
+            data-name='Path 30352'
+            fill='none' id='Path_30352' transform='translate(-166.679 32.982)' />
+    </clipPath>
+    <clipPath id='clip-path-136'>
+      <path clip-rule='evenodd' d='M166.679-31.27h2.1v-1.712h-2.1Z' data-name='Path 30351'
+            fill='none' id='Path_30351' transform='translate(-166.679 32.982)' />
+    </clipPath>
+    <clipPath id='clip-path-137'>
+      <rect data-name='Rectangle 4916' fill='none' height='1.712' id='Rectangle_4916' width='2.098' />
+    </clipPath>
+    <pattern height='100%' id='pattern-39' preserveAspectRatio='none' viewBox='0 0 5 4' width='100%'>
+      <image height='4' width='5'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAYAAABGM/VAAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABaADAAQAAAABAAAABAAAAABhAhd7AAAATUlEQVQIHU2IsQ2AMAwE34g5qRDzUME6kRiHgkSxozgWMknHna45wo+wnq7SQONd2+ElKUaVDRSW3SUq+FFIMrRimOVm5D4lGqq8mLofGAwqwC2bI3IAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-138'>
+      <path clip-rule='evenodd' d='M95.008-50.274a2.051,2.051,0,0,1-.025-.32,2.075,2.075,0,0,1,.107-.66c.023-.069.05-.136.079-.2a2.084,2.084,0,0,1,.528-.706,2.068,2.068,0,0,1,1.361-.509,2.077,2.077,0,0,1,2.077,2.076,2.067,2.067,0,0,0-.106-.656,2.081,2.081,0,0,0-1.171-1.26,4.823,4.823,0,0,0-.806.335,1.3,1.3,0,0,0-.4-.062,1.3,1.3,0,0,0-1.3,1.3c0,.045,0,.09.006.134A3.813,3.813,0,0,0,95.008-50.274Z'
+            data-name='Path 30354'
+            fill='none' id='Path_30354' transform='translate(-94.983 52.67)' />
+    </clipPath>
+    <clipPath id='clip-path-139'>
+      <path clip-rule='evenodd' d='M95.814-50.29c0-.044-.006-.089-.006-.134a1.3,1.3,0,0,1,1.3-1.3,1.3,1.3,0,0,1,.4.062,5.571,5.571,0,0,0-.6.364A5.214,5.214,0,0,0,95.814-50.29Z'
+            data-name='Path 30356'
+            fill='none' id='Path_30356' transform='translate(-95.808 51.721)' />
+    </clipPath>
+    <clipPath id='clip-path-140'>
+      <path clip-rule='evenodd' d='M95.808-50.29H97.5v-1.431H95.808Z' data-name='Path 30355'
+            fill='none' id='Path_30355' transform='translate(-95.808 51.721)' />
+    </clipPath>
+    <clipPath id='clip-path-141'>
+      <rect data-name='Rectangle 4918' fill='none' height='1.431' id='Rectangle_4918' width='1.693' />
+    </clipPath>
+    <pattern height='100%' id='pattern-40' preserveAspectRatio='none' viewBox='0 0 4 4' width='100%'>
+      <image height='4' width='4'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABKADAAQAAAABAAAABAAAAADmpNw4AAAAQ0lEQVQIHWN8dfjq//+//zH8//uH4f/vvwwsf7/9ZPj/5x/Dvz9/GWT8zRlZ/n7/BRT4yyAbYs3IAAIPlx76D2ZACQCCHx/LPxtkugAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-142'>
+      <path clip-rule='evenodd' d='M95.675-48.883a2.071,2.071,0,0,1-.638-1.2,3.813,3.813,0,0,1,.359-.532,1.3,1.3,0,0,0,.809,1.071A4.345,4.345,0,0,0,95.675-48.883Zm2.308-1.882a1.3,1.3,0,0,0-.9-1.22,4.822,4.822,0,0,1,.806-.335,2.081,2.081,0,0,1,1.171,1.26A3.985,3.985,0,0,0,97.983-50.764Z'
+            data-name='Path 30358'
+            fill='none' id='Path_30358' transform='translate(-95.037 52.32)' />
+    </clipPath>
+    <clipPath id='clip-path-143'>
+      <path clip-rule='evenodd' d='M95.037-48.883h4.022V-52.32H95.037Z' data-name='Path 30357'
+            fill='none' id='Path_30357' transform='translate(-95.037 52.32)' />
+    </clipPath>
+    <clipPath id='clip-path-144'>
+      <rect data-name='Rectangle 4920' fill='none' height='3.437' id='Rectangle_4920' width='4.022' />
+    </clipPath>
+    <pattern height='100%' id='pattern-41' preserveAspectRatio='none' viewBox='0 0 9 8' width='100%'>
+      <image height='8' width='9'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAYAAAArzdW1AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACaADAAQAAAABAAAACAAAAAAx6pIrAAAAh0lEQVQYGXWOsQ3CUAxE7zvsw0IIBkCBZajSJJkF0aPAHDQIIfS/fThIbhLiwif5ns9OmNT92HMcmXcasD7tUpowGA49TQlVA13hxAyKpfOm4ZhUrQC51d0vPszQ1yPj/SzIH7eHuuV13/4FY0HoH2pWXLbNIih0q/htLYsMxMyQnJQqwuf6BXitPn2lYlSwAAAAAElFTkSuQmCC' />
+    </pattern>
+    <clipPath id='clip-path-145'>
+      <path clip-rule='evenodd' d='M96.631-49.145a1.3,1.3,0,0,1-.809-1.071,5.214,5.214,0,0,1,1.088-1.005,5.571,5.571,0,0,1,.6-.364,1.3,1.3,0,0,1,.9,1.22,5.375,5.375,0,0,0-.981.544A5.408,5.408,0,0,0,96.631-49.145Z'
+            data-name='Path 30360'
+            fill='none' id='Path_30360' transform='translate(-95.822 51.586)' />
+    </clipPath>
+    <clipPath id='clip-path-146'>
+      <path clip-rule='evenodd' d='M95.822-49.145H98.41v-2.441H95.822Z' data-name='Path 30359'
+            fill='none' id='Path_30359' transform='translate(-95.822 51.586)' />
+    </clipPath>
+    <clipPath id='clip-path-147'>
+      <rect data-name='Rectangle 4922' fill='none' height='2.441' id='Rectangle_4922' width='2.588' />
+    </clipPath>
+    <pattern height='100%' id='pattern-42' preserveAspectRatio='none' viewBox='0 0 6 6' width='100%'>
+      <image height='6' width='6'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABqADAAQAAAABAAAABgAAAABIWB+fAAAAgElEQVQIHS1NQQoCMRBLYb/m3UcIfk08evLmyYMXPyEiIq662+60menWVgyEQEIShz9u+3MplpHFYNHgmn/dncrMDJ0UGqyScJftscyaQU+kURHfCbFqpz7CvEIGIjwTpj6BQw34EnAkfDMfEeFOLA9r1/EjtV5nesFis/p9tt8vgoBYWDFadUAAAAAASUVORK5CYII=' />
+    </pattern>
+    <clipPath id='clip-path-148'>
+      <path clip-rule='evenodd' d='M97.847-46.829a2.067,2.067,0,0,1-1.413-.555,4.345,4.345,0,0,1,.529-.661,1.289,1.289,0,0,0,.482.093,1.3,1.3,0,0,0,1.3-1.3v-.015a3.985,3.985,0,0,1,1.076-.3,2.067,2.067,0,0,1,.106.656,2.067,2.067,0,0,1-.282,1.046c-.011.019-.022.037-.034.056h0A2.076,2.076,0,0,1,97.847-46.829Z'
+            data-name='Path 30362'
+            fill='none' id='Path_30362' transform='translate(-96.434 49.562)' />
+    </clipPath>
+    <clipPath id='clip-path-149'>
+      <path clip-rule='evenodd' d='M96.434-46.829h3.49v-2.733h-3.49Z' data-name='Path 30361'
+            fill='none' id='Path_30361' transform='translate(-96.434 49.562)' />
+    </clipPath>
+    <clipPath id='clip-path-150'>
+      <rect data-name='Rectangle 4924' fill='none' height='2.733' id='Rectangle_4924' width='3.49' />
+    </clipPath>
+    <pattern height='100%' id='pattern-43' preserveAspectRatio='none' viewBox='0 0 8 6' width='100%'>
+      <image height='6' width='8'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAACKADAAQAAAABAAAABgAAAAAJfOcJAAAAjklEQVQIHW2NTQ4BYRBE6+vu78f0mLiBe3AEWxdwHjti5RAs3cB1CJFhZFrPTkQltXovVQF/clrsjCWgKIN++WG+se5moJ7BLJBv4TjbGhmhVAkjFWgWhPNqb+39je7hak9IyUGdvBGSAvwJSEWQhSA+qSWj0Rri2y9rIdHBAJkGKWKcFZOqwfV5wXS9DB8GgR2jKTAdmAAAAABJRU5ErkJggg==' />
+    </pattern>
+    <clipPath id='clip-path-151'>
+      <path clip-rule='evenodd' d='M98.075-47.6a1.289,1.289,0,0,1-.482-.093,5.408,5.408,0,0,1,.8-.676,5.375,5.375,0,0,1,.981-.544v.015A1.3,1.3,0,0,1,98.075-47.6Z'
+            data-name='Path 30364'
+            fill='none' id='Path_30364' transform='translate(-97.593 48.914)' />
+    </clipPath>
+    <clipPath id='clip-path-152'>
+      <path clip-rule='evenodd' d='M97.593-47.6h1.779v-1.313H97.593Z' data-name='Path 30363'
+            fill='none' id='Path_30363' transform='translate(-97.593 48.914)' />
+    </clipPath>
+    <clipPath id='clip-path-153'>
+      <rect data-name='Rectangle 4926' fill='none' height='1.313' id='Rectangle_4926' width='1.779' />
+    </clipPath>
+    <pattern height='100%' id='pattern-44' preserveAspectRatio='none' viewBox='0 0 4 3' width='100%'>
+      <image height='3' width='4'
+             xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAABKADAAQAAAABAAAAAwAAAABUhAAoAAAAOElEQVQIHWNkgII98Uv+//r4m4HxWO7y/19f/WD49uonA8Pv/wwsP99+Zfjz6Q8Dy79/DOw8LAwARoQYCuxrYdkAAAAASUVORK5CYII=' />
+    </pattern>
+  </defs>
+  <g id='Physics' transform='translate(-403.753 -621.607)'>
+    <g data-name='Group 14050' id='Group_14050' opacity='0.5' transform='translate(403.753 621.607)'>
+      <g data-name='Group 7' id='Group_7'>
+        <g data-name='Group 2' id='Group_2' opacity='0.15' style='mix-blend-mode: multiply;isolation: isolate'
+           transform='translate(2.508 0)'>
+          <g data-name='Group 1' id='Group_1'>
+            <path d='M138.35,156.822c6.4,3.571,15.752,6.289,22.972,4.134,16.863-5.035,15.264-29.532,8.307-41.6-4.421-7.67-12.99-13.384-21.8-12.47-5.73.594-10.947,3.873-14.778,8.176C120.854,128.763,121.556,147.448,138.35,156.822Z' data-name='Path 1'
+                  fill='#6cc8d5'
+                  id='Path_1' transform='translate(-124.713 -106.787)' />
+          </g>
+        </g>
+        <g data-name='Group 4' id='Group_4' opacity='0.2' style='mix-blend-mode: multiply;isolation: isolate'
+           transform='translate(0.215 2.97)'>
+          <g data-name='Group 3' id='Group_3'>
+            <path d='M140.3,185.006c6.162-3.963,12.965-10.937,14.462-18.321,3.5-17.248-18.869-27.37-32.793-26.914-8.848.29-17.923,5.16-21.263,13.359-2.173,5.335-1.736,11.482.256,16.887C107.307,187.233,124.122,195.41,140.3,185.006Z' data-name='Path 2'
+                  fill='#6cc8d5'
+                  id='Path_2' transform='translate(-99.259 -139.756)' />
+          </g>
+        </g>
+        <g data-name='Group 6' id='Group_6' opacity='0.3' style='mix-blend-mode: multiply;isolation: isolate'
+           transform='translate(0 0.132)'>
+          <g data-name='Group 5' id='Group_5'>
+            <path d='M148.481,134.727c-.178-7.324-2.592-16.762-8.119-21.883-12.909-11.961-33.191,1.87-40.048,14-4.357,7.707-4.921,17.99.343,25.109,3.425,4.632,8.9,7.458,14.553,8.569C133.214,164.059,148.947,153.955,148.481,134.727Z' data-name='Path 3'
+                  fill='#6cc8d5'
+                  id='Path_3' transform='translate(-96.877 -108.255)' />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g data-name='Group 14057' id='Group_14057' transform='translate(408.875 629.611)'>
+      <path d='M127.207-77.529a45.527,45.527,0,0,0,5.7-11.184,29.939,29.939,0,0,0,1.44-6.017,11,11,0,0,0-.035-2.986,3.6,3.6,0,0,0-1.29-2.369,3.612,3.612,0,0,0-2.66-.483,10.428,10.428,0,0,0-2.883.943A23.991,23.991,0,0,0,122.3-96.15a45.994,45.994,0,0,0-8.165,9.523,57.4,57.4,0,0,0-5.743,11.095,25.671,25.671,0,0,0-1.52,5.961,10.625,10.625,0,0,0,.042,2.955,3.41,3.41,0,0,0,1.271,2.273,3.426,3.426,0,0,0,2.54.4,10.684,10.684,0,0,0,2.8-.968,28.929,28.929,0,0,0,5.155-3.408A45.569,45.569,0,0,0,127.207-77.529Zm.1.069a63.728,63.728,0,0,1-8.094,9.746,24.164,24.164,0,0,1-5.149,3.85,10.836,10.836,0,0,1-3.122,1.154,4.644,4.644,0,0,1-3.534-.592l-.158-.118-.2-.163a4,4,0,0,1-.332-.345,4.239,4.239,0,0,1-.521-.772,5.807,5.807,0,0,1-.561-1.679,10.974,10.974,0,0,1-.026-3.34,26.849,26.849,0,0,1,1.71-6.222,49.692,49.692,0,0,1,6.268-11.069,63.076,63.076,0,0,1,8.451-9.436c.788-.707,1.6-1.387,2.452-2.024a21.678,21.678,0,0,1,2.676-1.758,11.017,11.017,0,0,1,3.044-1.177,4.434,4.434,0,0,1,3.413.511,3.839,3.839,0,0,1,1.188,1.34,5.449,5.449,0,0,1,.562,1.644,10.618,10.618,0,0,1,.032,3.307,23.535,23.535,0,0,1-1.79,6.165A63.755,63.755,0,0,1,127.307-77.46Z' data-name='Path 30227'
+            fill='#174e6e'
+            id='Path_30227' transform='translate(-97.714 101.532)' />
+      <path d='M113.933-77.46a63.788,63.788,0,0,1-6.313-10.98,23.563,23.563,0,0,1-1.789-6.165,10.618,10.618,0,0,1,.032-3.307,5.45,5.45,0,0,1,.562-1.644,3.84,3.84,0,0,1,1.188-1.34,4.434,4.434,0,0,1,3.413-.511,11.017,11.017,0,0,1,3.044,1.177,21.642,21.642,0,0,1,2.676,1.758c.85.638,1.664,1.318,2.452,2.024a63,63,0,0,1,8.45,9.436,49.63,49.63,0,0,1,6.269,11.069,26.87,26.87,0,0,1,1.709,6.222,10.946,10.946,0,0,1-.025,3.34,5.82,5.82,0,0,1-.56,1.679,4.242,4.242,0,0,1-.521.772,3.926,3.926,0,0,1-.332.344l-.2.164-.159.118a4.642,4.642,0,0,1-3.533.592,10.863,10.863,0,0,1-3.122-1.154,24.178,24.178,0,0,1-5.15-3.85A63.752,63.752,0,0,1,113.933-77.46Zm.1-.069a45.556,45.556,0,0,0,8.522,9.212,28.887,28.887,0,0,0,5.154,3.407,10.659,10.659,0,0,0,2.8.969,3.426,3.426,0,0,0,2.54-.4,3.408,3.408,0,0,0,1.271-2.273,10.626,10.626,0,0,0,.042-2.955,25.7,25.7,0,0,0-1.52-5.961A57.4,57.4,0,0,0,127.1-86.627a45.986,45.986,0,0,0-8.165-9.523,23.972,23.972,0,0,0-5.176-3.475,10.418,10.418,0,0,0-2.882-.943,3.612,3.612,0,0,0-2.66.483,3.592,3.592,0,0,0-1.291,2.369,11.017,11.017,0,0,0-.036,2.986,30,30,0,0,0,1.44,6.017A45.578,45.578,0,0,0,114.033-77.529Z' data-name='Path 30228'
+            fill='#174e6e'
+            id='Path_30228' transform='translate(-97.833 101.532)' />
+      <path d='M111.248-61.005A63.7,63.7,0,0,1,98.637-62.18a23.562,23.562,0,0,1-6.069-2.093,10.658,10.658,0,0,1-2.684-1.935,5.43,5.43,0,0,1-1.018-1.406,3.84,3.84,0,0,1-.41-1.744,4.44,4.44,0,0,1,1.551-3.084,11.059,11.059,0,0,1,2.718-1.807A21.522,21.522,0,0,1,95.7-75.42c1.012-.327,2.036-.6,3.068-.837a62.935,62.935,0,0,1,12.582-1.462,49.62,49.62,0,0,1,12.658,1.263,26.882,26.882,0,0,1,6.069,2.19,10.967,10.967,0,0,1,2.713,1.947,5.835,5.835,0,0,1,1.05,1.426,4.256,4.256,0,0,1,.33.871,3.841,3.841,0,0,1,.09.469l.021.256,0,.2a4.641,4.641,0,0,1-1.554,3.228,10.867,10.867,0,0,1-2.743,1.887A24.179,24.179,0,0,1,123.877-62,63.668,63.668,0,0,1,111.248-61.005Zm0-.121a45.619,45.619,0,0,0,12.441-1.65,28.942,28.942,0,0,0,5.756-2.246,10.691,10.691,0,0,0,2.408-1.732,3.425,3.425,0,0,0,1.136-2.307,3.41,3.41,0,0,0-1.124-2.349,10.629,10.629,0,0,0-2.389-1.739,25.708,25.708,0,0,0-5.746-2.2,57.428,57.428,0,0,0-12.376-1.705,45.965,45.965,0,0,0-12.489,1.179,23.956,23.956,0,0,0-5.824,2.225,10.458,10.458,0,0,0-2.433,1.81,3.619,3.619,0,0,0-1.139,2.452,3.593,3.593,0,0,0,1.191,2.42,10.992,10.992,0,0,0,2.419,1.751,30.012,30.012,0,0,0,5.746,2.294A45.556,45.556,0,0,0,111.249-61.127Z' data-name='Path 30229'
+            fill='#174e6e'
+            id='Path_30229' transform='translate(-88.455 88.6)' />
+      <path d='M137.624-64.471a4.507,4.507,0,0,1-4.507,4.507,4.507,4.507,0,0,1-4.507-4.507,4.508,4.508,0,0,1,4.507-4.507A4.507,4.507,0,0,1,137.624-64.471Z' data-name='Path 30230'
+            fill='#1d899a'
+            id='Path_30230' transform='translate(-110.271 83.845)' />
+      <path d='M149.973-98.465a2.076,2.076,0,0,1-2.077,2.077,2.075,2.075,0,0,1-2.076-2.077,2.076,2.076,0,0,1,2.076-2.076A2.077,2.077,0,0,1,149.973-98.465Z' data-name='Path 30231'
+            fill='#b83870'
+            id='Path_30231' transform='translate(-119.622 100.993)' />
+      <path d='M168.989-33.649a2.076,2.076,0,0,1-2.077,2.077,2.076,2.076,0,0,1-2.076-2.077,2.076,2.076,0,0,1,2.076-2.076A2.077,2.077,0,0,1,168.989-33.649Z' data-name='Path 30232'
+            fill='#b83870'
+            id='Path_30232' transform='translate(-129.953 65.779)' />
+      <path d='M99.136-50.594a2.077,2.077,0,0,1-2.077,2.077,2.076,2.076,0,0,1-2.076-2.077,2.076,2.076,0,0,1,2.076-2.076A2.077,2.077,0,0,1,99.136-50.594Z' data-name='Path 30233'
+            fill='#b83870'
+            id='Path_30233' transform='translate(-92.002 74.986)' />
+      <g clip-path='url(#clip-path)' data-name='Group 11515' id='Group_11515' transform='translate(7.784)'>
+        <g data-name='Group 11514' id='Group_11514' transform='matrix(0.856, -0.518, 0.518, 0.856, -121.851, -75.373)'>
+          <path d='M86.108,0,320.937,142.1,234.829,284.4,0,142.3Z' data-name='Path 30249' fill='url(#radial-gradient)'
+                id='Path_30249' transform='translate(0 0)' />
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-2)' data-name='Group 11519' id='Group_11519' transform='translate(9.197 13.198)'>
+        <g clip-path='url(#clip-path-3)' data-name='Group 11518' id='Group_11518' transform='translate(0 0)'>
+          <g data-name='Group 11517' id='Group_11517' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-4)' data-name='Group 11516' id='Group_11516' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4839' fill='url(#pattern)' height='17.671' id='Rectangle_4839'
+                    width='25.857' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-5)' data-name='Group 11523' id='Group_11523' transform='translate(8.915 13.554)'>
+        <g clip-path='url(#clip-path-6)' data-name='Group 11522' id='Group_11522' transform='translate(0 0)'>
+          <g data-name='Group 11521' id='Group_11521' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-7)' data-name='Group 11520' id='Group_11520'>
+              <rect data-name='Rectangle 4841' fill='url(#pattern-2)' height='24.563' id='Rectangle_4841'
+                    width='26.014' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-8)' data-name='Group 11527' id='Group_11527' transform='translate(9.182 6.73)'>
+        <g clip-path='url(#clip-path-9)' data-name='Group 11526' id='Group_11526' transform='translate(0 0)'>
+          <g data-name='Group 11525' id='Group_11525' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-10)' data-name='Group 11524' id='Group_11524'>
+              <rect data-name='Rectangle 4843' fill='url(#pattern-3)' height='20.005' id='Rectangle_4843'
+                    width='13.55' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-13)' data-name='Group 11533' id='Group_11533' transform='translate(22.846)'>
+        <g clip-path='url(#clip-path-14)' data-name='Group 11532' id='Group_11532' transform='translate(0 0)'>
+          <g data-name='Group 11531' id='Group_11531' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-15)' data-name='Group 11530' id='Group_11530' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4845' fill='url(#pattern-4)' height='11.688' id='Rectangle_4845'
+                    width='14.962' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-16)' data-name='Group 11535' id='Group_11535' transform='translate(8.433)'>
+        <g data-name='Group 11534' id='Group_11534' transform='matrix(0.856, -0.518, 0.518, 0.856, -122.499, -75.373)'>
+          <path d='M86.108,0,320.937,142.1,234.829,284.4,0,142.3Z' data-name='Path 30261' fill='url(#radial-gradient)'
+                id='Path_30261' transform='translate(0 0)' />
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-17)' data-name='Group 11539' id='Group_11539' transform='translate(27.088 11.828)'>
+        <g clip-path='url(#clip-path-18)' data-name='Group 11538' id='Group_11538' transform='translate(0 0)'>
+          <g data-name='Group 11537' id='Group_11537' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-19)' data-name='Group 11536' id='Group_11536'>
+              <rect data-name='Rectangle 4847' fill='url(#pattern-5)' height='14.068' id='Rectangle_4847'
+                    width='8.322' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-20)' data-name='Group 11543' id='Group_11543' transform='translate(32.011 37.205)'>
+        <g clip-path='url(#clip-path-21)' data-name='Group 11542' id='Group_11542' transform='translate(0 0)'>
+          <g data-name='Group 11541' id='Group_11541' transform='translate(0 0.23)'>
+            <g clip-path='url(#clip-path-22)' data-name='Group 11540' id='Group_11540' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4849' fill='url(#pattern-6)' height='0.23' id='Rectangle_4849' width='0.91' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-23)' data-name='Group 11547' id='Group_11547' transform='translate(32.035 26.547)'>
+        <g clip-path='url(#clip-path-24)' data-name='Group 11546' id='Group_11546' transform='translate(0 0)'>
+          <g data-name='Group 11545' id='Group_11545' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-25)' data-name='Group 11544' id='Group_11544' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4851' fill='url(#pattern-7)' height='11.287' id='Rectangle_4851'
+                    width='5.109' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-26)' data-name='Group 11551' id='Group_11551' transform='translate(14.6 1.359)'>
+        <g clip-path='url(#clip-path-27)' data-name='Group 11550' id='Group_11550' transform='translate(0 0)'>
+          <g data-name='Group 11549' id='Group_11549' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-28)' data-name='Group 11548' id='Group_11548' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4853' fill='url(#pattern-8)' height='0.528' id='Rectangle_4853'
+                    width='1.287' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-29)' data-name='Group 11555' id='Group_11555' transform='translate(14.637 1.37)'>
+        <g clip-path='url(#clip-path-30)' data-name='Group 11554' id='Group_11554' transform='translate(0 0)'>
+          <g data-name='Group 11553' id='Group_11553' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-31)' data-name='Group 11552' id='Group_11552' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4855' fill='url(#pattern-9)' height='9.563' id='Rectangle_4855'
+                    width='12.167' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-32)' data-name='Group 11559' id='Group_11559' transform='translate(12.431 17.529)'>
+        <g clip-path='url(#clip-path-33)' data-name='Group 11558' id='Group_11558' transform='translate(0 0)'>
+          <g data-name='Group 11557' id='Group_11557' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-34)' data-name='Group 11556' id='Group_11556'>
+              <rect data-name='Rectangle 4857' fill='url(#pattern-10)' height='9.739' id='Rectangle_4857'
+                    width='6.273' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-35)' data-name='Group 11563' id='Group_11563' transform='translate(13.09 18.849)'>
+        <g clip-path='url(#clip-path-36)' data-name='Group 11562' id='Group_11562' transform='translate(0 0)'>
+          <g data-name='Group 11561' id='Group_11561' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-37)' data-name='Group 11560' id='Group_11560' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4859' fill='url(#pattern-11)' height='0.875' id='Rectangle_4859'
+                    width='0.464' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-38)' data-name='Group 11567' id='Group_11567' transform='translate(12.856 18.748)'>
+        <g clip-path='url(#clip-path-39)' data-name='Group 11566' id='Group_11566' transform='translate(0 0)'>
+          <g data-name='Group 11565' id='Group_11565' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-40)' data-name='Group 11564' id='Group_11564' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4861' fill='url(#pattern-12)' height='0.398' id='Rectangle_4861'
+                    width='0.237' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-41)' data-name='Group 11571' id='Group_11571' transform='translate(9.712 12.798)'>
+        <g clip-path='url(#clip-path-42)' data-name='Group 11570' id='Group_11570' transform='translate(0 0)'>
+          <g data-name='Group 11569' id='Group_11569' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-43)' data-name='Group 11568' id='Group_11568'>
+              <rect data-name='Rectangle 4863' fill='url(#pattern-13)' height='14.47' id='Rectangle_4863'
+                    width='8.989' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-44)' data-name='Group 11575' id='Group_11575' transform='translate(18.881 27.481)'>
+        <g clip-path='url(#clip-path-45)' data-name='Group 11574' id='Group_11574' transform='translate(0 0)'>
+          <g data-name='Group 11573' id='Group_11573' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-46)' data-name='Group 11572' id='Group_11572' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4865' fill='url(#pattern-14)' height='1.273' id='Rectangle_4865'
+                    width='1.123' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-47)' data-name='Group 11579' id='Group_11579' transform='translate(18.576 27.465)'>
+        <g clip-path='url(#clip-path-48)' data-name='Group 11578' id='Group_11578' transform='translate(0 0)'>
+          <g data-name='Group 11577' id='Group_11577' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-49)' data-name='Group 11576' id='Group_11576' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4867' fill='url(#pattern-15)' height='11.194' id='Rectangle_4867'
+                    width='13.21' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-52)' data-name='Group 11585' id='Group_11585' transform='translate(7.884)'>
+        <g clip-path='url(#clip-path-53)' data-name='Group 11584' id='Group_11584' transform='translate(0 0)'>
+          <g data-name='Group 11583' id='Group_11583' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-54)' data-name='Group 11582' id='Group_11582'>
+              <rect data-name='Rectangle 4869' fill='url(#pattern-16)' height='12.526' id='Rectangle_4869'
+                    width='6.402' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-55)' data-name='Group 11587' id='Group_11587' transform='translate(0.58 10.87)'>
+        <g data-name='Group 11586' id='Group_11586' transform='matrix(0.856, -0.518, 0.518, 0.856, -114.647, -86.243)'>
+          <path d='M86.108,0,320.937,142.1,234.829,284.4,0,142.3Z' data-name='Path 30289' fill='url(#radial-gradient)'
+                id='Path_30289' transform='translate(0 0)' />
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-62)' data-name='Group 11597' id='Group_11597' transform='translate(12.291 26.184)'>
+        <g clip-path='url(#clip-path-63)' data-name='Group 11596' id='Group_11596' transform='translate(0 0)'>
+          <g data-name='Group 11595' id='Group_11595' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-64)' data-name='Group 11594' id='Group_11594' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4871' fill='url(#pattern-17)' height='1.29' id='Rectangle_4871'
+                    width='8.365' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-65)' data-name='Group 11601' id='Group_11601' transform='translate(18.702 27.268)'>
+        <g clip-path='url(#clip-path-66)' data-name='Group 11600' id='Group_11600' transform='translate(0 0)'>
+          <g data-name='Group 11599' id='Group_11599' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-67)' data-name='Group 11598' id='Group_11598' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4873' fill='url(#pattern-18)' height='0.002' id='Rectangle_4873'
+                    width='0.006' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-68)' data-name='Group 11605' id='Group_11605' transform='translate(18.402 27.238)'>
+        <g clip-path='url(#clip-path-69)' data-name='Group 11604' id='Group_11604' transform='translate(0 0)'>
+          <g data-name='Group 11603' id='Group_11603' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-70)' data-name='Group 11602' id='Group_11602' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4875' fill='url(#pattern-19)' height='0.032' id='Rectangle_4875' width='0.3' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-71)' data-name='Group 11609' id='Group_11609' transform='translate(35.776 13.392)'>
+        <g clip-path='url(#clip-path-72)' data-name='Group 11608' id='Group_11608' transform='translate(0 0)'>
+          <g data-name='Group 11607' id='Group_11607' transform='translate(1.314 0)'>
+            <g clip-path='url(#clip-path-73)' data-name='Group 11606' id='Group_11606' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4877' fill='url(#pattern-20)' height='2.192' id='Rectangle_4877'
+                    width='3.504' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-74)' data-name='Group 11613' id='Group_11613' transform='translate(35.304 13.263)'>
+        <g clip-path='url(#clip-path-75)' data-name='Group 11612' id='Group_11612' transform='translate(0 0)'>
+          <g data-name='Group 11611' id='Group_11611' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-76)' data-name='Group 11610' id='Group_11610' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4879' fill='url(#pattern-21)' height='0.13' id='Rectangle_4879'
+                    width='0.472' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-77)' data-name='Group 11617' id='Group_11617' transform='translate(12.743 13.265)'>
+        <g clip-path='url(#clip-path-78)' data-name='Group 11616' id='Group_11616' transform='translate(0 0)'>
+          <g data-name='Group 11615' id='Group_11615' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-79)' data-name='Group 11614' id='Group_11614'>
+              <rect data-name='Rectangle 4881' fill='url(#pattern-22)' height='14.331' id='Rectangle_4881'
+                    width='32.372' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-80)' data-name='Group 11621' id='Group_11621' transform='translate(6.819 25.437)'>
+        <g clip-path='url(#clip-path-81)' data-name='Group 11620' id='Group_11620' transform='translate(0 0)'>
+          <g data-name='Group 11619' id='Group_11619' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-82)' data-name='Group 11618' id='Group_11618'>
+              <rect data-name='Rectangle 4883' fill='url(#pattern-23)' height='0.853' id='Rectangle_4883'
+                    width='2.798' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-87)' data-name='Group 11629' id='Group_11629' transform='translate(0 10.87)'>
+        <g clip-path='url(#clip-path-88)' data-name='Group 11628' id='Group_11628' transform='translate(0 0)'>
+          <g data-name='Group 11627' id='Group_11627' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-89)' data-name='Group 11626' id='Group_11626'>
+              <rect data-name='Rectangle 4885' fill='url(#pattern-24)' height='12.861' id='Rectangle_4885'
+                    width='35.928' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-90)' data-name='Group 11631' id='Group_11631' transform='translate(18.339 14.867)'>
+        <g data-name='Group 11630' id='Group_11630' transform='matrix(0.856, -0.518, 0.518, 0.856, -132.406, -90.24)'>
+          <path d='M86.108,0,320.937,142.1,234.829,284.4,0,142.3Z' data-name='Path 30317' fill='url(#radial-gradient-4)'
+                id='Path_30317' transform='translate(0 0)' />
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-91)' data-name='Group 11635' id='Group_11635' transform='translate(19.129 15.394)'>
+        <g clip-path='url(#clip-path-92)' data-name='Group 11634' id='Group_11634' transform='translate(0 0)'>
+          <g data-name='Group 11633' id='Group_11633' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-93)' data-name='Group 11632' id='Group_11632' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4887' fill='url(#pattern-25)' height='4.363' id='Rectangle_4887'
+                    width='5.028' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-94)' data-name='Group 11639' id='Group_11639' transform='translate(18.704 16.241)'>
+        <g clip-path='url(#clip-path-95)' data-name='Group 11638' id='Group_11638' transform='translate(0 0)'>
+          <g data-name='Group 11637' id='Group_11637' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-96)' data-name='Group 11636' id='Group_11636'>
+              <rect data-name='Rectangle 4889' fill='url(#pattern-26)' height='5.524' id='Rectangle_4889'
+                    width='7.832' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-97)' data-name='Group 11643' id='Group_11643' transform='translate(19.682 16.674)'>
+        <g clip-path='url(#clip-path-98)' data-name='Group 11642' id='Group_11642' transform='translate(0 0)'>
+          <g data-name='Group 11641' id='Group_11641' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-99)' data-name='Group 11640' id='Group_11640' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4891' fill='url(#pattern-27)' height='3.644' id='Rectangle_4891'
+                    width='4.804' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-100)' data-name='Group 11647' id='Group_11647' transform='translate(19.023 16.787)'>
+        <g clip-path='url(#clip-path-101)' data-name='Group 11646' id='Group_11646' transform='translate(0 0)'>
+          <g data-name='Group 11645' id='Group_11645' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-102)' data-name='Group 11644' id='Group_11644'>
+              <rect data-name='Rectangle 4893' fill='url(#pattern-28)' height='7.095' id='Rectangle_4893'
+                    width='8.329' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-103)' data-name='Group 11651' id='Group_11651' transform='translate(20.256 17.445)'>
+        <g clip-path='url(#clip-path-104)' data-name='Group 11650' id='Group_11650' transform='translate(0 0)'>
+          <g data-name='Group 11649' id='Group_11649' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-105)' data-name='Group 11648' id='Group_11648' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4895' fill='url(#pattern-29)' height='3.389' id='Rectangle_4895'
+                    width='4.313' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-106)' data-name='Group 11653' id='Group_11653' transform='translate(26.199 0.452)'>
+        <g data-name='Group 11652' id='Group_11652' transform='matrix(0.856, -0.518, 0.518, 0.856, -140.266, -75.825)'>
+          <path d='M86.108,0,320.937,142.1,234.829,284.4,0,142.3Z' data-name='Path 30329' fill='url(#radial-gradient-5)'
+                id='Path_30329' transform='translate(0 0)' />
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-107)' data-name='Group 11657' id='Group_11657' transform='translate(26.543 0.823)'>
+        <g clip-path='url(#clip-path-108)' data-name='Group 11656' id='Group_11656' transform='translate(0 0)'>
+          <g data-name='Group 11655' id='Group_11655' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-109)' data-name='Group 11654' id='Group_11654' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4897' fill='url(#pattern-30)' height='1.778' id='Rectangle_4897'
+                    width='2.126' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-110)' data-name='Group 11661' id='Group_11661' transform='translate(26.277 0.869)'>
+        <g clip-path='url(#clip-path-111)' data-name='Group 11660' id='Group_11660' transform='translate(0 0)'>
+          <g data-name='Group 11659' id='Group_11659' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-112)' data-name='Group 11658' id='Group_11658'>
+              <rect data-name='Rectangle 4899' fill='url(#pattern-31)' height='2.851' id='Rectangle_4899'
+                    width='3.739' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-113)' data-name='Group 11665' id='Group_11665' transform='translate(26.635 1.122)'>
+        <g clip-path='url(#clip-path-114)' data-name='Group 11664' id='Group_11664' transform='translate(0 0)'>
+          <g data-name='Group 11663' id='Group_11663' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-115)' data-name='Group 11662' id='Group_11662' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4901' fill='url(#pattern-32)' height='2.019' id='Rectangle_4901'
+                    width='2.435' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-116)' data-name='Group 11669' id='Group_11669' transform='translate(26.573 1.397)'>
+        <g clip-path='url(#clip-path-117)' data-name='Group 11668' id='Group_11668' transform='translate(0 0)'>
+          <g data-name='Group 11667' id='Group_11667' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-118)' data-name='Group 11666' id='Group_11666' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4903' fill='url(#pattern-33)' height='3.208' id='Rectangle_4903'
+                    width='3.778' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-119)' data-name='Group 11673' id='Group_11673' transform='translate(27.041 1.705)'>
+        <g clip-path='url(#clip-path-120)' data-name='Group 11672' id='Group_11672' transform='translate(0 0)'>
+          <g data-name='Group 11671' id='Group_11671' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-121)' data-name='Group 11670' id='Group_11670' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4905' fill='url(#pattern-34)' height='1.711' id='Rectangle_4905'
+                    width='2.097' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-122)' data-name='Group 11675' id='Group_11675' transform='translate(34.883 30.054)'>
+        <g data-name='Group 11674' id='Group_11674' transform='matrix(0.856, -0.518, 0.518, 0.856, -148.951, -105.427)'>
+          <path d='M86.108,0,320.937,142.1,234.829,284.4,0,142.3Z' data-name='Path 30341' fill='url(#radial-gradient-5)'
+                id='Path_30341' transform='translate(0 0)' />
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-123)' data-name='Group 11679' id='Group_11679' transform='translate(35.227 30.424)'>
+        <g clip-path='url(#clip-path-124)' data-name='Group 11678' id='Group_11678' transform='translate(0 0)'>
+          <g data-name='Group 11677' id='Group_11677' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-109)' data-name='Group 11676' id='Group_11676' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4907' fill='url(#pattern-35)' height='1.778' id='Rectangle_4907'
+                    width='2.126' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-126)' data-name='Group 11683' id='Group_11683' transform='translate(34.961 30.47)'>
+        <g clip-path='url(#clip-path-127)' data-name='Group 11682' id='Group_11682' transform='translate(0 0)'>
+          <g data-name='Group 11681' id='Group_11681' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-112)' data-name='Group 11680' id='Group_11680'>
+              <rect data-name='Rectangle 4909' fill='url(#pattern-36)' height='2.851' id='Rectangle_4909'
+                    width='3.739' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-129)' data-name='Group 11687' id='Group_11687' transform='translate(35.32 30.724)'>
+        <g clip-path='url(#clip-path-130)' data-name='Group 11686' id='Group_11686' transform='translate(0 0)'>
+          <g data-name='Group 11685' id='Group_11685' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-115)' data-name='Group 11684' id='Group_11684' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4911' fill='url(#pattern-37)' height='2.019' id='Rectangle_4911'
+                    width='2.435' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-132)' data-name='Group 11691' id='Group_11691' transform='translate(35.257 30.998)'>
+        <g clip-path='url(#clip-path-133)' data-name='Group 11690' id='Group_11690' transform='translate(0 0)'>
+          <g data-name='Group 11689' id='Group_11689' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-118)' data-name='Group 11688' id='Group_11688' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4913' fill='url(#pattern-38)' height='3.208' id='Rectangle_4913'
+                    width='3.778' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-135)' data-name='Group 11695' id='Group_11695' transform='translate(35.725 31.307)'>
+        <g clip-path='url(#clip-path-136)' data-name='Group 11694' id='Group_11694' transform='translate(0 0)'>
+          <g data-name='Group 11693' id='Group_11693' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-137)' data-name='Group 11692' id='Group_11692' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4915' fill='url(#pattern-39)' height='1.712' id='Rectangle_4915'
+                    width='2.098' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-138)' data-name='Group 11697' id='Group_11697' transform='translate(2.981 22.316)'>
+        <g data-name='Group 11696' id='Group_11696' transform='matrix(0.856, -0.518, 0.518, 0.856, -117.049, -97.688)'>
+          <path d='M86.108,0,320.937,142.1,234.829,284.4,0,142.3Z' data-name='Path 30353' fill='url(#radial-gradient-5)'
+                id='Path_30353' transform='translate(0 0)' />
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-139)' data-name='Group 11701' id='Group_11701' transform='translate(3.359 22.749)'>
+        <g clip-path='url(#clip-path-140)' data-name='Group 11700' id='Group_11700' transform='translate(0 0)'>
+          <g data-name='Group 11699' id='Group_11699' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-141)' data-name='Group 11698' id='Group_11698' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4917' fill='url(#pattern-40)' height='1.431' id='Rectangle_4917'
+                    width='1.693' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-142)' data-name='Group 11705' id='Group_11705' transform='translate(3.007 22.475)'>
+        <g clip-path='url(#clip-path-143)' data-name='Group 11704' id='Group_11704' transform='translate(0 0)'>
+          <g data-name='Group 11703' id='Group_11703' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-144)' data-name='Group 11702' id='Group_11702'>
+              <rect data-name='Rectangle 4919' fill='url(#pattern-41)' height='3.437' id='Rectangle_4919'
+                    width='4.022' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-145)' data-name='Group 11709' id='Group_11709' transform='translate(3.364 22.811)'>
+        <g clip-path='url(#clip-path-146)' data-name='Group 11708' id='Group_11708' transform='translate(0 0)'>
+          <g data-name='Group 11707' id='Group_11707' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-147)' data-name='Group 11706' id='Group_11706' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4921' fill='url(#pattern-42)' height='2.441' id='Rectangle_4921'
+                    width='2.588' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-148)' data-name='Group 11713' id='Group_11713' transform='translate(3.645 23.734)'>
+        <g clip-path='url(#clip-path-149)' data-name='Group 11712' id='Group_11712' transform='translate(0 0)'>
+          <g data-name='Group 11711' id='Group_11711' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-150)' data-name='Group 11710' id='Group_11710' transform='translate(0 0)'>
+              <rect data-name='Rectangle 4923' fill='url(#pattern-43)' height='2.733' id='Rectangle_4923'
+                    width='3.49' />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path='url(#clip-path-151)' data-name='Group 11717' id='Group_11717' transform='translate(4.173 24.031)'>
+        <g clip-path='url(#clip-path-152)' data-name='Group 11716' id='Group_11716' transform='translate(0 0)'>
+          <g data-name='Group 11715' id='Group_11715' transform='translate(0 0)'>
+            <g clip-path='url(#clip-path-153)' data-name='Group 11714' id='Group_11714'>
+              <rect data-name='Rectangle 4925' fill='url(#pattern-44)' height='1.313' id='Rectangle_4925'
+                    width='1.779' />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

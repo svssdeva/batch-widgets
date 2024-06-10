@@ -12,7 +12,7 @@ interface customModalProps {
   children?: any;
   panelclassName?: string;
 }
-export const CustomModal = ({
+const CustomModal = ({
   panelclassName = "",
   isOpen,
   setOpen,
@@ -44,7 +44,7 @@ export const CustomModal = ({
               leaveFrom="opacity-100 scale-100"
               leaveTo="opacity-0 scale-95"
             >
-              <DialogPanel className={`${s.panel} ${panelclassName}  `}>
+              <DialogPanel className={`${s.panel} ${panelclassName} `}>
                 {children}
               </DialogPanel>
             </TransitionChild>
@@ -55,4 +55,4 @@ export const CustomModal = ({
   );
 };
 
-export default CustomModal;
+export { CustomModal };

@@ -1,0 +1,53 @@
+.testWrapper {
+  @apply pw-ui-flex pw-ui-flex-grow pw-ui-items-center pw-ui-gap-x-3 md:pw-ui-gap-x-6;
+}
+.testHeaderWrapper {
+  @apply pw-ui-flex pw-ui-flex-col pw-ui-gap-y-3;
+}
+
+.test-press-btn {
+  background: #5a4bda 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  padding: 12px 24px;
+  color: white;
+  width: 100%;
+
+  @media (max-width: 576px) {
+    padding: 6px 12px;
+  }
+}
+
+.test-press-card {
+  box-shadow: 0px 1px 8px 0px #00000014;
+  border-radius: 8px;
+  background: white;
+  margin-top: 12px;
+}
+
+.test-press-title {
+  color: #1b2124;
+}
+
+.test-press-subtitle {
+  color: #757575;
+}
+
+.heading-5 {
+  font-size: 16px !important;
+}
+
+.body-1 {
+  font-size: 16px !important;
+
+  @media (max-width: 992px) {
+    font-size: 14px !important;
+  }
+
+  @media (max-width: 768px) {
+    font-size: 13px !important;
+  }
+
+  @media (max-width: 576px) {
+    font-size: 12px !important;
+  }
+}
