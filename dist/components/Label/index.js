@@ -1,5 +1,5 @@
 import { jsx as a } from "react/jsx-runtime";
-import '../../assets/index3.css';const o = "_label_mog69_1", t = {
+import '../../assets/index6.css';const o = "_label_mog69_1", t = {
   label: o
 };
 function b(l) {

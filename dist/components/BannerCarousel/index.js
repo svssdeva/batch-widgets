@@ -1,7 +1,7 @@
 import { jsx as r } from "react/jsx-runtime";
 import { cn as n } from "../../utils.js";
 import { Carousel as u, CarouselContent as C, CarouselItem as I } from "../Carousel/index.js";
-import '../../assets/index6.css';const b = "_bannerImg_1kv5u_1", d = {
+import '../../assets/index10.css';const b = "_bannerImg_1kv5u_1", d = {
   bannerImg: b
 }, N = ({
   banners: a,
