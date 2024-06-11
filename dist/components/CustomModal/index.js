@@ -1,54 +1,41 @@
-import { jsxs as u, jsx as i } from "react/jsx-runtime";
-import { useRef as k, useEffect as p } from "react";
-import '../../assets/index8.css';const o = {
-  "modal-dialog": "_modal-dialog_yg87k_1",
-  "modal-sub": "_modal-sub_yg87k_4",
-  "modal-title": "_modal-title_yg87k_7",
-  "modal-btn": "_modal-btn_yg87k_10",
-  "modal-child": "_modal-child_yg87k_13"
-}, w = ({ title: f, children: _, onClose: g, open: n, dismissible: d = !0 }) => {
-  const a = k(null);
-  p(() => {
-    var e, t, l, c, r;
-    n ? ((e = a.current) == null || e.showModal(), (t = a.current) == null || t.classList.add("pw-ui-animate-fadeIn"), (l = a.current) == null || l.classList.remove("pw-ui-animate-fadeOut")) : ((c = a.current) == null || c.classList.remove("pw-ui-animate-fadeIn"), (r = a.current) == null || r.classList.add("pw-ui-animate-fadeOut"), setTimeout(() => {
-      var m;
-      (m = a.current) == null || m.close();
+import { jsxs as p, Fragment as _, jsx as i } from "react/jsx-runtime";
+import { useRef as g, useEffect as h } from "react";
+import '../../assets/index8.css';const n = {
+  "modal-dialog": "_modal-dialog_tzrzu_1",
+  "modal-child": "_modal-child_tzrzu_5",
+  "modal-backdrop": "_modal-backdrop_tzrzu_8"
+}, L = ({ children: m, open: r, onClose: u }) => {
+  const a = g(null);
+  h(() => {
+    var e, t, s, d, l;
+    r ? ((e = a.current) == null || e.showModal(), (t = a.current) == null || t.classList.add("pw-ui-animate-fadeIn"), (s = a.current) == null || s.classList.remove("pw-ui-animate-fadeOut")) : ((d = a.current) == null || d.classList.remove("pw-ui-animate-fadeIn"), (l = a.current) == null || l.classList.add("pw-ui-animate-fadeOut"), setTimeout(() => {
+      var c;
+      (c = a.current) == null || c.close();
     }, 300));
-  }, [n]);
-  const s = () => {
+  }, [r]);
+  const o = () => {
     var e, t;
     (e = a.current) == null || e.classList.remove("animate-fadeIn"), (t = a.current) == null || t.classList.add("animate-fadeOut"), setTimeout(() => {
-      var l;
-      (l = a.current) == null || l.close(), g();
+      var s;
+      (s = a.current) == null || s.close(), u();
     }, 300);
-  }, h = (e) => {
-    d && e.target === a.current && s();
+  }, f = (e) => {
+    e.target === a.current && o();
   };
-  return /* @__PURE__ */ u(
-    "dialog",
-    {
-      ref: a,
-      className: o["modal-dialog"],
-      onClick: h,
-      onClose: s,
-      style: { animationDuration: "0.3s", animationTimingFunction: "pw-ui-ease-in-out" },
-      children: [
-        /* @__PURE__ */ u("div", { className: o["modal-sub"], children: [
-          /* @__PURE__ */ i("h2", { className: o["modal-title"], children: f }),
-          d && /* @__PURE__ */ i(
-            "button",
-            {
-              className: o["modal-btn"],
-              onClick: s,
-              children: "Close"
-            }
-          )
-        ] }),
-        /* @__PURE__ */ i("div", { className: o["modal-child"], children: _ })
-      ]
-    }
-  );
+  return /* @__PURE__ */ p(_, { children: [
+    r && /* @__PURE__ */ i("div", { className: n["modal-backdrop"] }),
+    /* @__PURE__ */ i(
+      "dialog",
+      {
+        ref: a,
+        className: n["modal-dialog"],
+        onClick: f,
+        onClose: o,
+        children: m
+      }
+    )
+  ] });
 };
 export {
-  w as CustomModal
+  L as CustomModal
 };

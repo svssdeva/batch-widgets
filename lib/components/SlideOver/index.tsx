@@ -12,6 +12,7 @@ interface SlideOverProps {
 }
 
 const SlideOver: FC<SlideOverProps> = ({ side = 'right', children, isOpen, onOpen, onClose,roundedCorners =true, }) => {
+  console.log(onOpen);
   return (
     <>
       <div

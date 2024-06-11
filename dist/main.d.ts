@@ -44,21 +44,19 @@ declare type CarouselProps = {
     setApi?: (api: CarouselApi) => void;
 };
 
-declare interface CustomDialogProps {
-    title: string;
-    children: ReactNode;
-    onClose: () => void;
-    open: boolean;
-    dismissible?: boolean;
-}
+export declare const CustomModal: FC<CustomModalProps>;
 
-export declare const CustomModal: FC<CustomDialogProps>;
+declare interface CustomModalProps {
+    children: ReactNode;
+    open: boolean;
+    onClose: () => void;
+}
 
 declare interface FAQAccordionProps {
     question?: string;
     answer?: string;
-    UpIcon?: default_2.ReactNode;
-    DownIcon?: default_2.ReactNode;
+    upIcon?: default_2.ReactNode;
+    downIcon?: default_2.ReactNode;
 }
 
 export declare function Input(props: React.InputHTMLAttributes<HTMLInputElement>): JSX_2.Element;
@@ -69,8 +67,11 @@ export declare const SlideOver: FC<SlideOverProps>;
 
 declare interface SlideOverProps {
     side?: 'left' | 'right';
-    width?: string;
     children: default_2.ReactNode;
+    isOpen: boolean;
+    onOpen: () => void;
+    onClose: () => void;
+    roundedCorners?: boolean;
 }
 
 export declare const SubjectCard: ({ subject, tagCount, img, }: {

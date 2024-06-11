@@ -1,41 +1,32 @@
-import { jsxs as r, Fragment as m, jsx as t } from "react/jsx-runtime";
-import { useState as f } from "react";
-import '../../assets/index5.css';const a = "_slideover_1m9f5_1", h = "_container_1m9f5_5", d = "_btn_1m9f5_8", p = "_sub_1m9f5_11", b = "_right_1m9f5_14", u = "_left_1m9f5_17", g = "_open_1m9f5_20", v = "_close_1m9f5_23", O = "_one_1m9f5_26", C = "_two_1m9f5_29", $ = "_three_1m9f5_32", e = {
-  slideover: a,
-  container: h,
-  btn: d,
-  sub: p,
-  right: b,
-  left: u,
-  open: g,
-  close: v,
-  one: O,
-  two: C,
-  three: $
-}, N = ({ side: n = "right", width: _ = "300px", children: l }) => {
-  const [o, s] = f(!1), i = () => s(!0), c = () => s(!1);
-  return /* @__PURE__ */ r(m, { children: [
-    /* @__PURE__ */ t("button", { onClick: i, className: e.slideover, children: "Open SlideOver" }),
-    /* @__PURE__ */ r(
-      "div",
-      {
-        className: `${e.container} ${n === "right" ? e.right : e.left} ${o ? e.one : n === "right" ? e.two : e.three}`,
-        style: { width: _ },
-        children: [
-          /* @__PURE__ */ t("button", { className: e.btn, onClick: c, children: "Close" }),
-          l
-        ]
-      }
-    ),
-    /* @__PURE__ */ t(
-      "div",
-      {
-        className: `${e.sub} ${o ? e.open : e.close}`,
-        onClick: c
-      }
-    )
-  ] });
-};
+import { jsxs as a, Fragment as l, jsx as r } from "react/jsx-runtime";
+import '../../assets/index5.css';const i = "_slideover_1ma5z_4", m = "_backdrop_1ma5z_8", h = "_right_1ma5z_12", d = "_left_1ma5z_16", z = "_open_1ma5z_20", g = "_close_1ma5z_24", p = "_one_1ma5z_28", v = "_two_1ma5z_32", $ = "_three_1ma5z_36", f = "_corners_1ma5z_39", k = "_container_1ma5z_44", o = {
+  slideover: i,
+  backdrop: m,
+  right: h,
+  left: d,
+  open: z,
+  close: g,
+  one: p,
+  two: v,
+  three: $,
+  corners: f,
+  container: k
+}, w = ({ side: e = "right", children: n, isOpen: t, onOpen: c, onClose: _, roundedCorners: s = !0 }) => (console.log(c), /* @__PURE__ */ a(l, { children: [
+  /* @__PURE__ */ r(
+    "div",
+    {
+      className: `${o.slideover} ${s ? o.corners : ""} ${e === "right" ? o.right : o.left} ${t ? o.one : e === "right" ? o.two : o.three}`,
+      children: n
+    }
+  ),
+  /* @__PURE__ */ r(
+    "div",
+    {
+      className: `${o.backdrop} ${t ? o.open : o.close}`,
+      onClick: _
+    }
+  )
+] }));
 export {
-  N as SlideOver
+  w as SlideOver
 };
