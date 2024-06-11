@@ -1,72 +1,32 @@
-import React, { Fragment } from "react";
-import {
-  Dialog,
-  DialogPanel,
-  Transition,
-  TransitionChild,
-} from "@headlessui/react";
-import s from "./styles.module.css";
-export const SlideOver = ({
-  children,
-  open,
-  setOpen,
-  roundedCorners,
-  disableBackdropClick,
-}: {
-  children: React.ReactNode;
-  open: boolean;
-  setOpen: (open: boolean) => void;
-  roundedCorners: boolean;
-  disableBackdropClick?: boolean;
-}) => {
-  return (
-    <Transition show={open} as={Fragment}>
-      <Dialog
-        as="div"
-        className={s["container"]}
-        onClose={() => {
-          if (!disableBackdropClick) {
-            setOpen(false);
-          }
-        }}
-      >
-        <TransitionChild
-          as={Fragment}
-          enter={s["enter"]}
-          enterFrom={s["enterFrom"]}
-          enterTo={s["enterTo"]}
-          leave={s["enter"]}
-          leaveFrom={s["enterTo"]}
-          leaveTo={s["enterFrom"]}
-        >
-          <div className={s["subContainer"]} />
-        </TransitionChild>
+import React, { FC } from 'react';
+import s from './styles.module.css';
 
-        <div className={s["card"]}>
-          <div className={s["subCard"]}>
-            <div className={s["child"]}>
-              <TransitionChild
-                as={Fragment}
-                enter={s["childEnter"]}
-                enterFrom={s["leave"]}
-                enterTo="translate-x-0"
-                leave={s["childEnter"]}
-                leaveTo={s["leave"]}
-              >
-                <DialogPanel
-                  className={`${s.panel} ${roundedCorners ? s.rounded : ""}`}
-                >
-                  <div className={s.panelChild}>
-                    <div className={s["panel-sub-child"]}>{children}</div>
-                  </div>
-                </DialogPanel>
-              </TransitionChild>
-            </div>
-          </div>
-        </div>
-      </Dialog>
-    </Transition>
+interface SlideOverProps {
+  side?: 'left' | 'right';
+
+  children: React.ReactNode;
+  isOpen: boolean;
+  onOpen: () => void;
+  onClose: () => void;
+  roundedCorners?: boolean;
+}
+
+const SlideOver: FC<SlideOverProps> = ({ side = 'right', children, isOpen, onOpen, onClose,roundedCorners =true, }) => {
+  return (
+    <>
+      <div
+        className={`${s.slideover} ${roundedCorners? s.corners:''} ${side === 'right' ? s.right : s.left} ${isOpen ? s.one : side === 'right' ? s.two : s.three}`}
+       
+      >
+       
+        {children}
+      </div>
+      <div
+        className={`${s.backdrop} ${isOpen ? s.open : s.close}`}
+        onClick={onClose}
+      ></div>
+    </>
   );
 };
 
-export default SlideOver;
+export { SlideOver };

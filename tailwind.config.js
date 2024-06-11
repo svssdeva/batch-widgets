@@ -225,6 +225,9 @@ export default {
       boxShadow: {
         'all-round': '0px 1px 8px rgba(0, 0, 0, 0.08)',
       },
+      transitionProperty: {
+        'height': 'max-height'
+      },
       aspectRatio: {
         '7/10': '7 / 10',
         '2/1':'2 / 1',

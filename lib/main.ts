@@ -18,3 +18,4 @@ export { SubjectCard } from "./components/SubjectCard";
 export { TeacherCard } from "./components/TeacherCard";
 export { TeacherModal } from "./components/TeacherModal/";
 export { TestPressCard } from "./components/TestPressCard";
+

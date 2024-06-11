@@ -1,15 +1,11 @@
-.dialog-div{
-    @apply pw-ui-relative pw-ui-z-10
+.modal-dialog{
+  @apply  pw-ui-w-full pw-ui-max-w-lg pw-ui-p-6 pw-ui-bg-white pw-ui-rounded-lg pw-ui-shadow-lg pw-ui-duration-300  pw-ui-ease-in-out
 }
-.transition-child-div{
-    @apply pw-ui-fixed pw-ui-inset-0 pw-ui-bg-black pw-ui-bg-opacity-25
+
+.modal-child{
+    @apply pw-ui-overflow-y-auto
 }
-.container{
-@apply pw-ui-fixed pw-ui-inset-0 pw-ui-overflow-y-auto
-}
-.sub-container{
-    @apply pw-ui-flex pw-ui-min-h-full pw-ui-items-center pw-ui-justify-center pw-ui-p-4 pw-ui-text-center
-}
-.panel{
-    @apply pw-ui-max-w-lg pw-ui-transform pw-ui-overflow-hidden pw-ui-rounded-2xl pw-ui-bg-white pw-ui-text-left pw-ui-align-middle pw-ui-shadow-xl pw-ui-transition-all
+.modal-backdrop{
+  @apply pw-ui-bg-[#00000052] pw-ui-fixed pw-ui-top-0 pw-ui-left-0 pw-ui-w-full pw-ui-h-full pw-ui-z-10
+
 }

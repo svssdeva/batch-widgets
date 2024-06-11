@@ -1,27 +1,28 @@
-import { jsxs as n, jsx as f } from "react/jsx-runtime";
+import { jsxs as n, jsx as q } from "react/jsx-runtime";
 import { useState as m } from "react";
-import { renderIcon as a } from "../../utils.js";
-import '../../assets/index11.css';const l = "_faqitem_1m0qg_2", _ = "_faqquestion_1m0qg_6", d = "_faqanswer_1m0qg_11", e = {
-  faqitem: l,
-  faqquestion: _,
-  faqanswer: d
-}, w = ({
-  question: t,
-  answer: o,
-  UpIcon: i,
-  DownIcon: q
+import { renderIcon as t } from "../../utils.js";
+import '../../assets/index11.css';const _ = "_faqitem_7cts3_2", l = "_faqquestion_7cts3_6", p = "_faqanswer_7cts3_10", d = "_open_7cts3_14", s = {
+  faqitem: _,
+  faqquestion: l,
+  faqanswer: p,
+  open: d
+}, g = ({
+  question: o,
+  answer: a,
+  UpIcon: c,
+  DownIcon: r
 }) => {
-  const [s, r] = m(!1), c = () => {
-    r(!s);
+  const [e, i] = m(!1), f = () => {
+    i(!e);
   };
-  return /* @__PURE__ */ n("div", { className: e.faqitem, children: [
-    /* @__PURE__ */ n("div", { className: e.faqquestion, onClick: c, children: [
-      t,
-      s ? a(i) : a(q)
+  return /* @__PURE__ */ n("div", { className: s.faqitem, children: [
+    /* @__PURE__ */ n("div", { className: s.faqquestion, onClick: f, children: [
+      o,
+      e ? t(c) : t(r)
     ] }),
-    s && /* @__PURE__ */ f("div", { className: e.faqanswer, children: o })
+    e && /* @__PURE__ */ q("div", { className: `${s.faqanswer} ${e ? s.open : ""}`, dangerouslySetInnerHTML: { __html: a || "" }, children: "  " })
   ] });
 };
 export {
-  w as Accordion
+  g as Accordion
 };
