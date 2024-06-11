@@ -1,7 +1,9 @@
 import { default as default_2 } from 'react';
 import { default as default_3 } from 'embla-carousel-react';
+import { FC } from 'react';
 import { JSX as JSX_2 } from 'react/jsx-runtime';
 import * as React_2 from 'react';
+import { ReactNode } from 'react';
 import { UseEmblaCarouselType } from 'embla-carousel-react';
 
 export declare const Accordion: default_2.FC<FAQAccordionProps>;
@@ -42,14 +44,15 @@ declare type CarouselProps = {
     setApi?: (api: CarouselApi) => void;
 };
 
-export declare const CustomModal: ({ panelclassName, isOpen, setOpen, children, }: customModalProps) => JSX_2.Element;
-
-declare interface customModalProps {
-    isOpen: boolean;
-    setOpen: (_o: boolean) => void;
-    children?: any;
-    panelclassName?: string;
+declare interface CustomDialogProps {
+    title: string;
+    children: ReactNode;
+    onClose: () => void;
+    open: boolean;
+    dismissible?: boolean;
 }
+
+export declare const CustomModal: FC<CustomDialogProps>;
 
 declare interface FAQAccordionProps {
     question?: string;
@@ -62,13 +65,13 @@ export declare function Input(props: React.InputHTMLAttributes<HTMLInputElement>
 
 export declare function Label(props: React.LabelHTMLAttributes<HTMLLabelElement>): JSX_2.Element;
 
-export declare const SlideOver: ({ children, open, setOpen, roundedCorners, disableBackdropClick, }: {
+export declare const SlideOver: FC<SlideOverProps>;
+
+declare interface SlideOverProps {
+    side?: 'left' | 'right';
+    width?: string;
     children: default_2.ReactNode;
-    open: boolean;
-    setOpen: (open: boolean) => void;
-    roundedCorners: boolean;
-    disableBackdropClick?: boolean;
-}) => JSX_2.Element;
+}
 
 export declare const SubjectCard: ({ subject, tagCount, img, }: {
     subject: string;

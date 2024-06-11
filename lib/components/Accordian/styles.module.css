@@ -1,15 +1,22 @@
+/* styles.module.css */
+.faqitem {
+  @apply pw-ui-my-2 pw-ui-py-1 pw-ui-gap-4 pw-ui-w-full;
+}
 
-  .faqitem {
-   @apply pw-ui-my-2 pw-ui-py-1 pw-ui-gap-4 pw-ui-w-full
-  }
-  
-  .faqquestion {
-    @apply pw-ui-flex pw-ui-text-sm pw-ui-font-semibold pw-ui-items-center pw-ui-justify-between pw-ui-py-[10px] pw-ui-px-3 pw-ui-rounded-lg pw-ui-bg-[#F0F4FA] 
-   
-  }
-  
-  .faqanswer {
-@apply pw-ui-flex pw-ui-text-xs pw-ui-flex-col pw-ui-justify-center pw-ui-items-start pw-ui-pt-2 pw-ui-rounded-lg pw-ui-bg-[#FAFAFA] pw-ui-pb-6 pw-ui-px-3
+.faqquestion {
+  @apply pw-ui-flex pw-ui-text-sm pw-ui-font-semibold pw-ui-items-center pw-ui-justify-between pw-ui-py-[10px] pw-ui-px-3 pw-ui-rounded-lg pw-ui-bg-[#F0F4FA] hover:pw-ui-bg-[#e1e9f4] pw-ui-cursor-pointer;
+}
 
-  }
-  
+.faqanswer {
+  @apply pw-ui-flex pw-ui-text-xs pw-ui-flex-col pw-ui-justify-center pw-ui-items-start pw-ui-pt-2 pw-ui-rounded-lg pw-ui-bg-[#FAFAFA] pw-ui-pb-6 pw-ui-px-3 pw-ui-overflow-hidden pw-ui-transition-all pw-ui-duration-300 pw-ui-ease-in-out pw-ui-max-h-0 pw-ui-opacity-0;
+}
+.ans{
+@apply pw-ui-text-xs
+}
+.open {
+  @apply pw-ui-max-h-min pw-ui-opacity-100;
+}
+
+/* .close {
+  @apply pw-ui-max-h-0 pw-ui-opacity-0;
+} */

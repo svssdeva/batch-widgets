@@ -1,57 +1,58 @@
-import {
-  Dialog,
-  DialogPanel,
-  Transition,
-  TransitionChild,
-} from "@headlessui/react";
-import { Fragment } from "react";
-import s from "./styles.module.css";
-interface customModalProps {
-  isOpen: boolean;
-  setOpen: (_o: boolean) => void;
-  children?: any;
-  panelclassName?: string;
-}
-const CustomModal = ({
-  panelclassName = "",
-  isOpen,
-  setOpen,
-  children,
-}: customModalProps) => {
-  return (
-    <Transition appear show={isOpen} as={Fragment}>
-      <Dialog as="div" className={s["dialog-div"]} onClose={setOpen}>
-        <TransitionChild
-          as={Fragment}
-          enter="ease-out duration-300"
-          enterFrom="opacity-0"
-          enterTo="opacity-100"
-          leave="ease-in duration-200"
-          leaveFrom="opacity-100"
-          leaveTo="opacity-0"
-        >
-          <div className={s["transition-child-div"]} />
-        </TransitionChild>
+import React, { FC, ReactNode, useEffect, useRef } from 'react';
+import s from './styles.module.css';
 
-        <div className={s["container"]}>
-          <div className={s["sub-container"]}>
-            <TransitionChild
-              as={Fragment}
-              enter="ease-out duration-300"
-              enterFrom="opacity-0 scale-95"
-              enterTo="opacity-100 scale-100"
-              leave="ease-in duration-200"
-              leaveFrom="opacity-100 scale-100"
-              leaveTo="opacity-0 scale-95"
-            >
-              <DialogPanel className={`${s.panel} ${panelclassName} `}>
-                {children}
-              </DialogPanel>
-            </TransitionChild>
-          </div>
-        </div>
-      </Dialog>
-    </Transition>
+interface CustomModalProps {
+  children: ReactNode;
+  open: boolean;
+  onClose: () => void;
+
+}
+
+const CustomModal: FC<CustomModalProps> = ({ children, open, onClose, }) => {
+  const dialogRef = useRef<HTMLDialogElement>(null);
+
+  useEffect(() => {
+    if (open) {
+      dialogRef.current?.showModal();
+      dialogRef.current?.classList.add('pw-ui-animate-fadeIn');
+      dialogRef.current?.classList.remove('pw-ui-animate-fadeOut');
+    } else {
+      dialogRef.current?.classList.remove('pw-ui-animate-fadeIn');
+      dialogRef.current?.classList.add('pw-ui-animate-fadeOut');
+      setTimeout(() => {
+        dialogRef.current?.close();
+      }, 300);
+    }
+  }, [open]);
+
+  const handleClose = () => {
+    dialogRef.current?.classList.remove('animate-fadeIn');
+    dialogRef.current?.classList.add('animate-fadeOut');
+    setTimeout(() => {
+      dialogRef.current?.close();
+      onClose();
+    }, 300);
+  };
+
+  const handleBackdropClick = (event: React.MouseEvent) => {
+    if ( event.target === dialogRef.current) {
+      handleClose();
+    }
+  };
+
+  return (
+    <>
+     {open && <div className={s['modal-backdrop']} />}
+    <dialog
+      ref={dialogRef}
+      className={s['modal-dialog']}
+      onClick={handleBackdropClick}
+      onClose={handleClose}
+     
+    >
+      {children}
+    </dialog>
+    </>
   );
 };
 

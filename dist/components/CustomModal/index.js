@@ -1,45 +1,54 @@
-import { jsx as e, jsxs as c } from "react/jsx-runtime";
-import { Fragment as i } from "react";
-import { K as l, _ as d, A as o, V as p } from "../../transition-Dr3VHGv3.js";
-import '../../assets/index8.css';const m = "_container_19342_7", _ = "_panel_19342_13", a = {
-  "dialog-div": "_dialog-div_19342_1",
-  "transition-child-div": "_transition-child-div_19342_4",
-  container: m,
-  "sub-container": "_sub-container_19342_10",
-  panel: _
-}, y = ({
-  panelclassName: n = "",
-  isOpen: t,
-  setOpen: s,
-  children: r
-}) => /* @__PURE__ */ e(l, { appear: !0, show: t, as: i, children: /* @__PURE__ */ c(d, { as: "div", className: a["dialog-div"], onClose: s, children: [
-  /* @__PURE__ */ e(
-    o,
+import { jsxs as u, jsx as i } from "react/jsx-runtime";
+import { useRef as k, useEffect as p } from "react";
+import '../../assets/index8.css';const o = {
+  "modal-dialog": "_modal-dialog_yg87k_1",
+  "modal-sub": "_modal-sub_yg87k_4",
+  "modal-title": "_modal-title_yg87k_7",
+  "modal-btn": "_modal-btn_yg87k_10",
+  "modal-child": "_modal-child_yg87k_13"
+}, w = ({ title: f, children: _, onClose: g, open: n, dismissible: d = !0 }) => {
+  const a = k(null);
+  p(() => {
+    var e, t, l, c, r;
+    n ? ((e = a.current) == null || e.showModal(), (t = a.current) == null || t.classList.add("pw-ui-animate-fadeIn"), (l = a.current) == null || l.classList.remove("pw-ui-animate-fadeOut")) : ((c = a.current) == null || c.classList.remove("pw-ui-animate-fadeIn"), (r = a.current) == null || r.classList.add("pw-ui-animate-fadeOut"), setTimeout(() => {
+      var m;
+      (m = a.current) == null || m.close();
+    }, 300));
+  }, [n]);
+  const s = () => {
+    var e, t;
+    (e = a.current) == null || e.classList.remove("animate-fadeIn"), (t = a.current) == null || t.classList.add("animate-fadeOut"), setTimeout(() => {
+      var l;
+      (l = a.current) == null || l.close(), g();
+    }, 300);
+  }, h = (e) => {
+    d && e.target === a.current && s();
+  };
+  return /* @__PURE__ */ u(
+    "dialog",
     {
-      as: i,
-      enter: "ease-out duration-300",
-      enterFrom: "opacity-0",
-      enterTo: "opacity-100",
-      leave: "ease-in duration-200",
-      leaveFrom: "opacity-100",
-      leaveTo: "opacity-0",
-      children: /* @__PURE__ */ e("div", { className: a["transition-child-div"] })
+      ref: a,
+      className: o["modal-dialog"],
+      onClick: h,
+      onClose: s,
+      style: { animationDuration: "0.3s", animationTimingFunction: "pw-ui-ease-in-out" },
+      children: [
+        /* @__PURE__ */ u("div", { className: o["modal-sub"], children: [
+          /* @__PURE__ */ i("h2", { className: o["modal-title"], children: f }),
+          d && /* @__PURE__ */ i(
+            "button",
+            {
+              className: o["modal-btn"],
+              onClick: s,
+              children: "Close"
+            }
+          )
+        ] }),
+        /* @__PURE__ */ i("div", { className: o["modal-child"], children: _ })
+      ]
     }
-  ),
-  /* @__PURE__ */ e("div", { className: a.container, children: /* @__PURE__ */ e("div", { className: a["sub-container"], children: /* @__PURE__ */ e(
-    o,
-    {
-      as: i,
-      enter: "ease-out duration-300",
-      enterFrom: "opacity-0 scale-95",
-      enterTo: "opacity-100 scale-100",
-      leave: "ease-in duration-200",
-      leaveFrom: "opacity-100 scale-100",
-      leaveTo: "opacity-0 scale-95",
-      children: /* @__PURE__ */ e(p, { className: `${a.panel} ${n} `, children: r })
-    }
-  ) }) })
-] }) });
+  );
+};
 export {
-  y as CustomModal
+  w as CustomModal
 };
