@@ -6,7 +6,7 @@ interface SlideOverProps {
   side?: "left" | "right";
   children: React.ReactNode;
   isOpen: boolean;
-  onOpen?: () => void;
+
   onClose: () => void;
   roundedCorners?: boolean;
   containerClassName?: string;
@@ -18,15 +18,13 @@ const SlideOver: FC<SlideOverProps> = ({
   side = "right",
   children,
   isOpen,
-  onOpen,
+
   onClose,
   roundedCorners = true,
   containerClassName,
   backDropClassName,
   backdropClick = true,
 }) => {
-  console.log(onOpen);
-
   const handleBackdropClick = () => {
     if (backdropClick) {
       onClose();
