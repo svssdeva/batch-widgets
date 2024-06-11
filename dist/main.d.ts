@@ -4,6 +4,7 @@ import { FC } from 'react';
 import { JSX as JSX_2 } from 'react/jsx-runtime';
 import * as React_2 from 'react';
 import { ReactNode } from 'react';
+import * as TooltipPrimitive from '@radix-ui/react-tooltip';
 import { UseEmblaCarouselType } from 'embla-carousel-react';
 
 export declare const Accordion: default_2.FC<FAQAccordionProps>;
@@ -57,6 +58,9 @@ declare interface FAQAccordionProps {
     answer?: string;
     upIcon?: default_2.ReactNode;
     downIcon?: default_2.ReactNode;
+    containerClassName?: string;
+    contentClassName?: string;
+    questionClassName?: string;
 }
 
 export declare function Input(props: React.InputHTMLAttributes<HTMLInputElement>): JSX_2.Element;
@@ -66,12 +70,14 @@ export declare function Label(props: React.LabelHTMLAttributes<HTMLLabelElement>
 export declare const SlideOver: FC<SlideOverProps>;
 
 declare interface SlideOverProps {
-    side?: 'left' | 'right';
+    side?: "left" | "right";
     children: default_2.ReactNode;
     isOpen: boolean;
-    onOpen: () => void;
+    onOpen?: () => void;
     onClose: () => void;
     roundedCorners?: boolean;
+    containerClassName?: string;
+    backDropClassName?: string;
 }
 
 export declare const SubjectCard: ({ subject, tagCount, img, }: {
@@ -115,6 +121,18 @@ export declare const TestPressCard: ({ testPress, isPurchased, testPressCardIcon
     testPressCardIcon: string;
     handleRedirection: () => void;
 }) => JSX_2.Element;
+
+export declare const Tooltip: React_2.FC<TooltipPrimitive.TooltipProps>;
+
+export declare const TooltipArrow: React_2.ForwardRefExoticComponent<TooltipPrimitive.TooltipArrowProps & React_2.RefAttributes<SVGSVGElement>>;
+
+export declare const TooltipContent: React_2.ForwardRefExoticComponent<Omit<TooltipPrimitive.TooltipContentProps & React_2.RefAttributes<HTMLDivElement>, "ref"> & React_2.RefAttributes<HTMLDivElement>>;
+
+export declare const TooltipPortal: React_2.FC<TooltipPrimitive.TooltipPortalProps>;
+
+export declare const TooltipProvider: React_2.FC<TooltipPrimitive.TooltipProviderProps>;
+
+export declare const TooltipTrigger: React_2.ForwardRefExoticComponent<TooltipPrimitive.TooltipTriggerProps & React_2.RefAttributes<HTMLButtonElement>>;
 
 declare type UseCarouselParameters = Parameters<typeof default_3>;
 
