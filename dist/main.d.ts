@@ -20,6 +20,14 @@ export declare const BannerCarousel: ({ banners, mobileQueryMatches, bannerClick
 
 export declare function Button(props: React.ButtonHTMLAttributes<HTMLButtonElement>): JSX_2.Element;
 
+export declare const Card: default_2.FC<CardProps>;
+
+declare interface CardProps {
+    children: any;
+    disabled?: boolean;
+    expanded?: boolean;
+}
+
 export declare const Carousel: React_2.ForwardRefExoticComponent<React_2.HTMLAttributes<HTMLDivElement> & CarouselProps & React_2.RefAttributes<HTMLDivElement>>;
 
 export declare type CarouselApi = UseEmblaCarouselType[1];
@@ -51,6 +59,8 @@ declare interface CustomModalProps {
     children: ReactNode;
     open: boolean;
     onClose: () => void;
+    panelClassName?: string;
+    backdropClick?: boolean;
 }
 
 declare interface FAQAccordionProps {
@@ -65,7 +75,20 @@ declare interface FAQAccordionProps {
 
 export declare function Input(props: React.InputHTMLAttributes<HTMLInputElement>): JSX_2.Element;
 
+declare interface Item {
+    name: string;
+    key: string;
+    component?: any;
+}
+
 export declare function Label(props: React.LabelHTMLAttributes<HTMLLabelElement>): JSX_2.Element;
+
+declare interface Props {
+    onChange?: (key: string, index: number) => void;
+    items: Item[];
+    tabClassName?: string;
+    defaultActive?: number;
+}
 
 export declare const SlideOver: FC<SlideOverProps>;
 
@@ -73,11 +96,11 @@ declare interface SlideOverProps {
     side?: "left" | "right";
     children: default_2.ReactNode;
     isOpen: boolean;
-    onOpen?: () => void;
     onClose: () => void;
     roundedCorners?: boolean;
     containerClassName?: string;
     backDropClassName?: string;
+    backdropClick?: boolean;
 }
 
 export declare const SubjectCard: ({ subject, tagCount, img, }: {
@@ -85,6 +108,8 @@ export declare const SubjectCard: ({ subject, tagCount, img, }: {
     tagCount: string;
     img?: string;
 }) => JSX_2.Element;
+
+export declare const Tabs: FC<Props>;
 
 export declare const TeacherCard: ({ firstName, lastName, subject, experience, img, arrowImg, onClick, }: {
     firstName: string;
