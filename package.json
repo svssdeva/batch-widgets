@@ -4,6 +4,7 @@
   "author": "Deveshwar Jaiswal",
   "version": "0.0.1",
   "description": "A React component library with Vite and TailwindCSS",
+   "license": "MIT",
   "type": "module",
     "keywords": [
     "react",
@@ -12,6 +13,14 @@
     "tailwindcss",
     "bun"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svssdeva/batch-widgets"
+  },
+  "bugs": {
+    "url": "https://github.com/svssdeva/batch-widgets/issues"
+  },
+  "homepage": "https://github.com/svssdeva/batch-widgets",
   "scripts": {
     "dev": "vite",
     "build": "tsc --p ./tsconfig.build.json && vite build",
