@@ -1,5 +1,5 @@
-.modal-dialog{
-  @apply  pw-ui-w-full pw-ui-max-w-lg pw-ui-p-6 pw-ui-bg-white pw-ui-rounded-lg pw-ui-shadow-lg pw-ui-duration-300  pw-ui-ease-in-out
+.modalDialog{
+  @apply  pw-ui-w-full pw-ui-max-w-lg  pw-ui-bg-white pw-ui-rounded-lg pw-ui-shadow-lg pw-ui-duration-300  pw-ui-ease-in-out
 }
 
 .modal-child{
