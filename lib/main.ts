@@ -18,4 +18,11 @@ export { SubjectCard } from "./components/SubjectCard";
 export { TeacherCard } from "./components/TeacherCard";
 export { TeacherModal } from "./components/TeacherModal/";
 export { TestPressCard } from "./components/TestPressCard";
-
+export {
+  Tooltip,
+  TooltipArrow,
+  TooltipContent,
+  TooltipPortal,
+  TooltipProvider,
+  TooltipTrigger,
+} from "./components/Tooltip";

@@ -1,20 +1,25 @@
 // src/FAQAccordion.tsx
 import React, { useState } from "react";
-import { renderIcon } from "../../utils";
+import { cn, renderIcon } from "../../utils";
 import s from "./styles.module.css";
-
 
 interface FAQAccordionProps {
   question?: string;
   answer?: string;
   upIcon?: React.ReactNode;
   downIcon?: React.ReactNode;
+  containerClassName?: string;
+  contentClassName?: string;
+  questionClassName?: string;
 }
 const Accordion: React.FC<FAQAccordionProps> = ({
   question,
   answer,
   upIcon,
   downIcon,
+  containerClassName,
+  questionClassName,
+  contentClassName,
 }) => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -23,14 +28,17 @@ const Accordion: React.FC<FAQAccordionProps> = ({
   };
 
   return (
-    <div className={s.faqitem}>
-      <div className={s.faqquestion} onClick={toggleFAQ}>
+    <div className={cn(s.faqitem, containerClassName)}>
+      <div className={cn(s.faqquestion, questionClassName)} onClick={toggleFAQ}>
         {question}
         {isOpen ? renderIcon(upIcon) : renderIcon(downIcon)}
       </div>
-       <div    className={`${s.faqanswer} ${isOpen ? s.open : ""}`} >
-      <span className={s.ans} dangerouslySetInnerHTML={{ __html: answer || '' }}></span>
-          </div>
+      <div className={cn(s.faqanswer, { [s.open]: isOpen }, contentClassName)}>
+        <span
+          className={s.ans}
+          dangerouslySetInnerHTML={{ __html: answer || "" }}
+        ></span>
+      </div>
     </div>
   );
 };

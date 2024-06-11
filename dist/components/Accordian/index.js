@@ -1,29 +1,39 @@
-import { jsxs as e, jsx as a } from "react/jsx-runtime";
-import { useState as f } from "react";
-import { renderIcon as o } from "../../utils.js";
-import '../../assets/index11.css';const q = "_faqitem_1ymjx_2", l = "_faqquestion_1ymjx_6", p = "_faqanswer_1ymjx_10", d = "_ans_1ymjx_13", x = "_open_1ymjx_16", s = {
-  faqitem: q,
-  faqquestion: l,
-  faqanswer: p,
-  ans: d,
-  open: x
-}, h = ({
-  question: t,
-  answer: r,
-  upIcon: c,
-  downIcon: i
+import { jsxs as t, jsx as a } from "react/jsx-runtime";
+import { useState as p } from "react";
+import { cn as e, renderIcon as o } from "../../utils.js";
+import '../../assets/index11.css';const h = "_faqitem_1tfqd_2", u = "_faqquestion_1tfqd_6", w = "_faqanswer_1tfqd_10", N = "_ans_1tfqd_13", g = "_open_1tfqd_16", v = "_hide_1tfqd_19", n = {
+  faqitem: h,
+  faqquestion: u,
+  faqanswer: w,
+  ans: N,
+  open: g,
+  hide: v
+}, A = ({
+  question: i,
+  answer: c,
+  upIcon: f,
+  downIcon: q,
+  containerClassName: r,
+  questionClassName: _,
+  contentClassName: d
 }) => {
-  const [n, m] = f(!1), _ = () => {
-    m(!n);
+  const [s, m] = p(!1), l = () => {
+    m(!s);
   };
-  return /* @__PURE__ */ e("div", { className: s.faqitem, children: [
-    /* @__PURE__ */ e("div", { className: s.faqquestion, onClick: _, children: [
-      t,
-      n ? o(c) : o(i)
+  return /* @__PURE__ */ t("div", { className: e(n.faqitem, r), children: [
+    /* @__PURE__ */ t("div", { className: e(n.faqquestion, _), onClick: l, children: [
+      i,
+      s ? o(f) : o(q)
     ] }),
-    /* @__PURE__ */ a("div", { className: `${s.faqanswer} ${n ? s.open : ""}`, children: /* @__PURE__ */ a("span", { className: s.ans, dangerouslySetInnerHTML: { __html: r || "" } }) })
+    /* @__PURE__ */ a("div", { className: e(n.faqanswer, { [n.open]: s }, d), children: /* @__PURE__ */ a(
+      "span",
+      {
+        className: n.ans,
+        dangerouslySetInnerHTML: { __html: c || "" }
+      }
+    ) })
   ] });
 };
 export {
-  h as Accordion
+  A as Accordion
 };
