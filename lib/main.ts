@@ -26,3 +26,6 @@ export {
   TooltipProvider,
   TooltipTrigger,
 } from "./components/Tooltip";
+
+export { Card } from "./components/Card";
+export { Tabs } from "./components/Tabs";

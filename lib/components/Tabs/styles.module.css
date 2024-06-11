@@ -1,0 +1,10 @@
+.root {
+  @apply pw-ui-flex pw-ui-w-min pw-ui-max-w-[340px] pw-ui-space-x-2 pw-ui-overflow-x-scroll pw-ui-rounded-lg pw-ui-bg-[#f1f5fe] pw-ui-p-2 sm:pw-ui-max-w-[620px];
+}
+
+.item {
+  @apply pw-ui-cursor-pointer pw-ui-rounded-lg pw-ui-px-6 pw-ui-py-3.5 pw-ui-transition-all pw-ui-duration-300 hover:pw-ui-bg-white hover:pw-ui-shadow-sm;
+}
+.itemActive {
+  @apply pw-ui-bg-white pw-ui-shadow-md pw-ui-transition-all pw-ui-duration-200;
+}

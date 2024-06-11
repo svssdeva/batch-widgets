@@ -1,7 +1,7 @@
 import { jsxs as t, jsx as a } from "react/jsx-runtime";
 import { useState as p } from "react";
 import { cn as e, renderIcon as o } from "../../utils.js";
-import '../../assets/index11.css';const h = "_faqitem_1tfqd_2", u = "_faqquestion_1tfqd_6", w = "_faqanswer_1tfqd_10", N = "_ans_1tfqd_13", g = "_open_1tfqd_16", v = "_hide_1tfqd_19", n = {
+import '../../assets/index13.css';const h = "_faqitem_1tfqd_2", u = "_faqquestion_1tfqd_6", w = "_faqanswer_1tfqd_10", N = "_ans_1tfqd_13", g = "_open_1tfqd_16", v = "_hide_1tfqd_19", n = {
   faqitem: h,
   faqquestion: u,
   faqanswer: w,
