@@ -4,7 +4,6 @@ import s from "./styles.module.css";
 
 interface SlideOverProps {
   side?: "left" | "right";
-
   children: React.ReactNode;
   isOpen: boolean;
   onOpen?: () => void;
@@ -12,6 +11,7 @@ interface SlideOverProps {
   roundedCorners?: boolean;
   containerClassName?: string;
   backDropClassName?: string;
+  backdropClick?: boolean;
 }
 
 const SlideOver: FC<SlideOverProps> = ({
@@ -23,8 +23,16 @@ const SlideOver: FC<SlideOverProps> = ({
   roundedCorners = true,
   containerClassName,
   backDropClassName,
+  backdropClick = true,
 }) => {
   console.log(onOpen);
+
+  const handleBackdropClick = () => {
+    if (backdropClick) {
+      onClose();
+    }
+  };
+
   return (
     <>
       <div
@@ -42,11 +50,10 @@ const SlideOver: FC<SlideOverProps> = ({
       </div>
       <div
         className={cn(s.backdrop, isOpen ? s.open : s.close, backDropClassName)}
-        onClick={onClose}
+        onClick={handleBackdropClick}
       ></div>
     </>
   );
 };
 
 export { SlideOver };
-// `${s.slideover} ${roundedCorners? s.corners:''} ${side === 'right' ? s.right : s.left} ${isOpen ? s.one : side === 'right' ? s.two : s.three}`
