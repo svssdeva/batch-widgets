@@ -1,8 +1,17 @@
 {
-  "name": "@pw/batch-widgets",
-  "private": true,
-  "version": "0.0.4",
+  "name": "batch-widgets",
+  "private": false,
+  "author": "Deveshwar Jaiswal",
+  "version": "0.0.1",
+  "description": "A React component library with Vite and TailwindCSS",
   "type": "module",
+    "keywords": [
+    "react",
+    "component",
+    "vite",
+    "tailwindcss",
+    "bun"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc --p ./tsconfig.build.json && vite build",

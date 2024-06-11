@@ -1,19 +1,19 @@
 import { jsxs as g, Fragment as w, jsx as i } from "react/jsx-runtime";
-import { useRef as v, useEffect as h } from "react";
-import { cn as k } from "../../utils.js";
-import '../../assets/index9.css';const L = "_modalDialog_1w7vc_1", n = {
-  modalDialog: L,
-  "modal-child": "_modal-child_1w7vc_5",
-  "modal-backdrop": "_modal-backdrop_1w7vc_8"
-}, x = ({
+import { useRef as h, useEffect as k } from "react";
+import { cn as L } from "../../utils.js";
+import '../../assets/index9.css';const C = "_modalDialog_5wcq0_1", n = {
+  modalDialog: C,
+  "modal-child": "_modal-child_5wcq0_9",
+  "modal-backdrop": "_modal-backdrop_5wcq0_15"
+}, q = ({
   children: m,
   open: s,
   onClose: u,
   panelClassName: f,
   backdropClick: p = !0
 }) => {
-  const a = v(null);
-  h(() => {
+  const a = h(null);
+  k(() => {
     var e, t, o, c, l;
     s ? ((e = a.current) == null || e.showModal(), (t = a.current) == null || t.classList.add("pw-ui-animate-fadeIn"), (o = a.current) == null || o.classList.remove("pw-ui-animate-fadeOut")) : ((c = a.current) == null || c.classList.remove("pw-ui-animate-fadeIn"), (l = a.current) == null || l.classList.add("pw-ui-animate-fadeOut"), setTimeout(() => {
       var d;
@@ -35,7 +35,7 @@ import '../../assets/index9.css';const L = "_modalDialog_1w7vc_1", n = {
       "dialog",
       {
         ref: a,
-        className: k(n.modalDialog, f),
+        className: L(n.modalDialog, f),
         onClick: _,
         onClose: r,
         children: m
@@ -44,5 +44,5 @@ import '../../assets/index9.css';const L = "_modalDialog_1w7vc_1", n = {
   ] });
 };
 export {
-  x as CustomModal
+  q as CustomModal
 };

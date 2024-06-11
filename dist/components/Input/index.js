@@ -1,11 +1,11 @@
 import { jsx as p } from "react/jsx-runtime";
-import '../../assets/index8.css';const u = "_input_1auw0_1", o = {
-  input: u
+import '../../assets/index8.css';const o = "_input_gt9ve_1", u = {
+  input: o
 };
-function r(t) {
+function i(t) {
   const { className: n, ...s } = t;
-  return /* @__PURE__ */ p("input", { className: `${n} ${o.input}`, ...s });
+  return /* @__PURE__ */ p("input", { className: `${n} ${u.input}`, ...s });
 }
 export {
-  r as Input
+  i as Input
 };

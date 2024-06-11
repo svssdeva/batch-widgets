@@ -1,46 +1,46 @@
-import { jsx as a, Fragment as _, jsxs as f } from "react/jsx-runtime";
+import { jsx as c, Fragment as _, jsxs as x } from "react/jsx-runtime";
 import l from "clsx";
-import v, { useState as y, useEffect as N, useMemo as k } from "react";
-import '../../assets/index4.css';const x = "_root_31ai6_1", u = "_item_31ai6_5", h = "_itemActive_31ai6_8", i = {
-  root: x,
-  item: u,
-  itemActive: h
-}, b = ({
+import f, { useState as j, useEffect as v, useMemo as y } from "react";
+import '../../assets/index4.css';const N = "_root_9jxjm_1", k = "_item_9jxjm_9", u = "_itemActive_9jxjm_15", m = {
+  root: N,
+  item: k,
+  itemActive: u
+}, h = ({
   item: o,
-  isActive: c,
+  isActive: a,
   onClick: s
 }) => {
-  const t = l(i.item, { [i.itemActive]: c });
-  return /* @__PURE__ */ a("div", { className: t, onClick: s, children: /* @__PURE__ */ a(
+  const t = l(m.item, { [m.itemActive]: a });
+  return /* @__PURE__ */ c("div", { className: t, onClick: s, children: /* @__PURE__ */ c(
     "span",
     {
-      className: `whitespace-nowrap font-semibold ${c ? "text-[#5A4BDA]" : "text-[#525252]"}`,
+      className: `whitespace-nowrap font-semibold ${a ? "text-[#5A4BDA]" : "text-[#525252]"}`,
       children: o.name
     }
   ) });
-}, A = v.memo(
-  ({ items: o, onChange: c, tabClassName: s = "", defaultActive: t = 0 }) => {
-    const d = l(i.root, s), [n, m] = y(o == null ? void 0 : o[t].key);
-    N(() => {
-      t !== void 0 && m(o == null ? void 0 : o[t].key);
+}, b = f.memo(
+  ({ items: o, onChange: a, tabClassName: s = "", defaultActive: t = 0 }) => {
+    const d = l(m.root, s), [n, i] = j(o == null ? void 0 : o[t].key);
+    v(() => {
+      t !== void 0 && i(o == null ? void 0 : o[t].key);
     }, [t]);
-    const p = k(() => {
+    const p = y(() => {
       var e;
-      return /* @__PURE__ */ a(
+      return /* @__PURE__ */ c(
         "div",
         {
           className: "animated fadeIn mt-4 px-0.5 duration-200",
-          children: ((e = o.find((r) => r.key === n)) == null ? void 0 : e.component) || /* @__PURE__ */ a(_, {})
+          children: ((e = o.find((r) => r.key === n)) == null ? void 0 : e.component) || /* @__PURE__ */ c(_, {})
         },
         n
       );
     }, [o, n]);
-    return /* @__PURE__ */ f("div", { className: "flex flex-col", children: [
-      /* @__PURE__ */ a("div", { className: d, children: o.map((e, r) => /* @__PURE__ */ a(
-        b,
+    return /* @__PURE__ */ x("div", { className: "flex flex-col", children: [
+      /* @__PURE__ */ c("div", { className: d, children: o.map((e, r) => /* @__PURE__ */ c(
+        h,
         {
           onClick: () => {
-            m(e.key), c && c(e.key, r);
+            i(e.key), a && a(e.key, r);
           },
           item: e,
           isActive: e.key === n
@@ -51,7 +51,7 @@ import '../../assets/index4.css';const x = "_root_31ai6_1", u = "_item_31ai6_5",
     ] });
   }
 );
-A.displayName = "Tabs";
+b.displayName = "Tabs";
 export {
-  A as Tabs
+  b as Tabs
 };

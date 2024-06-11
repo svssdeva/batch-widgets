@@ -1,10 +1,10 @@
 import { jsx as a } from "react/jsx-runtime";
-import '../../assets/index7.css';const o = "_label_mog69_1", t = {
-  label: o
+import '../../assets/index7.css';const t = "_label_h0vs3_1", o = {
+  label: t
 };
 function b(l) {
-  const { className: e, ...s } = l;
-  return /* @__PURE__ */ a("label", { className: `${e} ${t.label}`, ...s });
+  const { className: s, ...e } = l;
+  return /* @__PURE__ */ a("label", { className: `${s} ${o.label}`, ...e });
 }
 export {
   b as Label

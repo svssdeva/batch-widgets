@@ -1,7 +1,7 @@
-import { jsxs as t, jsx as a } from "react/jsx-runtime";
+import { jsxs as o, jsx as a } from "react/jsx-runtime";
 import { useState as p } from "react";
-import { cn as e, renderIcon as o } from "../../utils.js";
-import '../../assets/index13.css';const h = "_faqitem_1tfqd_2", u = "_faqquestion_1tfqd_6", w = "_faqanswer_1tfqd_10", N = "_ans_1tfqd_13", g = "_open_1tfqd_16", v = "_hide_1tfqd_19", n = {
+import { cn as e, renderIcon as t } from "../../utils.js";
+import '../../assets/index13.css';const h = "_faqitem_88o15_3", u = "_faqquestion_88o15_11", w = "_faqanswer_88o15_19", N = "_ans_88o15_25", g = "_open_88o15_31", v = "_hide_88o15_37", n = {
   faqitem: h,
   faqquestion: u,
   faqanswer: w,
@@ -11,21 +11,21 @@ import '../../assets/index13.css';const h = "_faqitem_1tfqd_2", u = "_faqquestio
 }, A = ({
   question: i,
   answer: c,
-  upIcon: f,
-  downIcon: q,
-  containerClassName: r,
-  questionClassName: _,
-  contentClassName: d
+  upIcon: r,
+  downIcon: _,
+  containerClassName: f,
+  questionClassName: q,
+  contentClassName: m
 }) => {
-  const [s, m] = p(!1), l = () => {
-    m(!s);
+  const [s, d] = p(!1), l = () => {
+    d(!s);
   };
-  return /* @__PURE__ */ t("div", { className: e(n.faqitem, r), children: [
-    /* @__PURE__ */ t("div", { className: e(n.faqquestion, _), onClick: l, children: [
+  return /* @__PURE__ */ o("div", { className: e(n.faqitem, f), children: [
+    /* @__PURE__ */ o("div", { className: e(n.faqquestion, q), onClick: l, children: [
       i,
-      s ? o(f) : o(q)
+      s ? t(r) : t(_)
     ] }),
-    /* @__PURE__ */ a("div", { className: e(n.faqanswer, { [n.open]: s }, d), children: /* @__PURE__ */ a(
+    /* @__PURE__ */ a("div", { className: e(n.faqanswer, { [n.open]: s }, m), children: /* @__PURE__ */ a(
       "span",
       {
         className: n.ans,

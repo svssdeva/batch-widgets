@@ -1,78 +1,78 @@
-import { jsxs as c, Fragment as N, jsx as a } from "react/jsx-runtime";
-import '../../assets/index2.css';const g = "_header_dvpcs_1", q = "_subject_dvpcs_17", j = "_tag_dvpcs_20", f = "_thumbnail_dvpcs_32", y = "_playImg_dvpcs_35", I = "_iframe_dvpcs_38", x = "_quote_dvpcs_41", k = "_intro_dvpcs_59", C = "_about_dvpcs_56", e = {
+import { jsxs as n, Fragment as v, jsx as a } from "react/jsx-runtime";
+import '../../assets/index2.css';const g = "_header_1k81e_1", q = "_subject_1k81e_33", p = "_tag_1k81e_39", j = "_thumbnail_1k81e_63", f = "_playImg_1k81e_69", y = "_iframe_1k81e_75", I = "_quote_1k81e_81", x = "_intro_1k81e_117", C = "_about_1k81e_111", e = {
   header: g,
-  "close-btn": "_close-btn_dvpcs_5",
-  "teacher-modal": "_teacher-modal_dvpcs_8",
-  "teacher-detail": "_teacher-detail_dvpcs_11",
-  "teacher-name": "_teacher-name_dvpcs_14",
+  "close-btn": "_close-btn_1k81e_9",
+  "teacher-modal": "_teacher-modal_1k81e_15",
+  "teacher-detail": "_teacher-detail_1k81e_21",
+  "teacher-name": "_teacher-name_1k81e_27",
   subject: q,
-  "tag-container": "_tag-container_dvpcs_20",
-  tag: j,
-  "video-container": "_video-container_dvpcs_26",
-  "thumnail-container": "_thumnail-container_dvpcs_29",
-  thumbnail: f,
-  playImg: y,
-  iframe: I,
-  "quote-container": "_quote-container_dvpcs_41",
-  "quote-subcontainer": "_quote-subcontainer_dvpcs_44",
-  "quote-heading": "_quote-heading_dvpcs_47",
-  "blue-line": "_blue-line_dvpcs_50",
-  quote: x,
-  "about-container": "_about-container_dvpcs_56",
-  intro: k,
+  "tag-container": "_tag-container_1k81e_39",
+  tag: p,
+  "video-container": "_video-container_1k81e_51",
+  "thumnail-container": "_thumnail-container_1k81e_57",
+  thumbnail: j,
+  playImg: f,
+  iframe: y,
+  "quote-container": "_quote-container_1k81e_81",
+  "quote-subcontainer": "_quote-subcontainer_1k81e_87",
+  "quote-heading": "_quote-heading_1k81e_93",
+  "blue-line": "_blue-line_1k81e_99",
+  quote: I,
+  "about-container": "_about-container_1k81e_111",
+  intro: x,
   about: C
 }, M = ({
-  closebtn: d,
-  firstName: l,
-  lastName: o,
-  subject: r,
-  tags: n,
-  onClose: _,
-  quote: s,
-  about: t,
-  thumbnailImg: i,
+  closebtn: l,
+  firstName: o,
+  lastName: r,
+  subject: _,
+  tags: t,
+  onClose: d,
+  quote: c,
+  about: i,
+  thumbnailImg: s,
   playImg: m,
   onClick: h,
   play: u,
-  iframe: v
-}) => /* @__PURE__ */ c(N, { children: [
-  /* @__PURE__ */ a("div", { className: e.header, children: /* @__PURE__ */ a("div", { className: e["close-btn"], onClick: _, children: /* @__PURE__ */ a("img", { src: d }) }) }),
-  /* @__PURE__ */ c("div", { className: e["teacher-modal"], children: [
-    /* @__PURE__ */ c("div", { className: e["teacher-detail"], children: [
-      /* @__PURE__ */ c("span", { className: e["teacher-name"], children: [
-        l,
+  iframe: b
+}) => /* @__PURE__ */ n(v, { children: [
+  /* @__PURE__ */ a("div", { className: e.header, children: /* @__PURE__ */ a("div", { className: e["close-btn"], onClick: d, children: /* @__PURE__ */ a("img", { src: l }) }) }),
+  /* @__PURE__ */ n("div", { className: e["teacher-modal"], children: [
+    /* @__PURE__ */ n("div", { className: e["teacher-detail"], children: [
+      /* @__PURE__ */ n("span", { className: e["teacher-name"], children: [
+        o,
         " ",
-        o
+        r
       ] }),
-      /* @__PURE__ */ a("span", { className: e.subject, children: r }),
-      /* @__PURE__ */ a("div", { className: e["tag-container"], children: n && n.map((p, b) => /* @__PURE__ */ a("div", { className: e.tag, children: p }, b)) })
+      /* @__PURE__ */ a("span", { className: e.subject, children: _ }),
+      /* @__PURE__ */ a("div", { className: e["tag-container"], children: t && t.map((N, k) => /* @__PURE__ */ a("div", { className: e.tag, children: N }, k)) })
     ] }),
-    i && /* @__PURE__ */ c("div", { className: e["video-container"], children: [
-      /* @__PURE__ */ c("div", { className: e["thumbnail-container"], onClick: h, children: [
+    s && /* @__PURE__ */ n("div", { className: e["video-container"], children: [
+      /* @__PURE__ */ n("div", { className: e["thumbnail-container"], onClick: h, children: [
         /* @__PURE__ */ a(
           "img",
           {
-            src: i,
+            src: s,
             alt: "thumbnail",
             className: e.thumbnail
           }
         ),
         /* @__PURE__ */ a("img", { src: m, alt: "play button", className: e.playImg })
       ] }),
-      u && /* @__PURE__ */ a("div", { className: e.iframe, children: v })
+      u && /* @__PURE__ */ a("div", { className: e.iframe, children: b })
     ] })
   ] }),
-  s && /* @__PURE__ */ a("div", { className: e["quote-container"], children: /* @__PURE__ */ c("div", { className: e["quote-subcontainer"], children: [
+  c && /* @__PURE__ */ a("div", { className: e["quote-container"], children: /* @__PURE__ */ n("div", { className: e["quote-subcontainer"], children: [
     /* @__PURE__ */ a("span", { className: e["quote-heading"], children: "Quotes" }),
     /* @__PURE__ */ a("div", { className: e["blue-line"] }),
-    /* @__PURE__ */ a("div", { className: e.quote, children: s })
+    /* @__PURE__ */ a("div", { className: e.quote, children: c })
   ] }) }),
-  t && /* @__PURE__ */ c("div", { className: e["about-container"], children: [
-    /* @__PURE__ */ c("div", { className: e.intro, children: [
+  i && /* @__PURE__ */ n("div", { className: e["about-container"], children: [
+    /* @__PURE__ */ n("div", { className: e.intro, children: [
       /* @__PURE__ */ a("span", { className: e["quote-heading"], children: "Introduction" }),
       /* @__PURE__ */ a("div", { className: e["blue-line"] })
     ] }),
-    /* @__PURE__ */ a("div", { className: e.about, children: t })
+    /* @__PURE__ */ a("div", { className: e.about, children: i })
   ] })
 ] });
 export {
