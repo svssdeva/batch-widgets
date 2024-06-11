@@ -1,5 +1,5 @@
 import { jsx as p } from "react/jsx-runtime";
-import '../../assets/index7.css';const u = "_input_1auw0_1", o = {
+import '../../assets/index8.css';const u = "_input_1auw0_1", o = {
   input: u
 };
 function r(t) {
